@@ -1,0 +1,19 @@
+.list {
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+}
+
+.link {
+    transition: 0.3s opacity;
+    color: black;
+}
+
+.link:hover {
+    opacity: 0.6;
+}
+
+.link .is-active {
+    color: var(--main-color);
+}

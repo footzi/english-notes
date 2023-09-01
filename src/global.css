@@ -1,0 +1,19 @@
+root {
+    --main-color: #FF4500;
+    /*--grey-color: #828325;*/
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
