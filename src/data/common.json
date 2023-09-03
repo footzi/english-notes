@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Это делаем меня грустным",
+    "answer": "It makes me sad",
+    "tasks": ["makes", "sad"]
+  },
+  {
+    "question": "Я очень раздражен этим",
+    "answer": "I am very annoyed by this",
+    "tasks": ["annoyed", "by"]
+  },
+  {
+    "question": "Эта картина меня вдохновляет",
+    "answer": "This picture inspires me",
+    "tasks": ["inspires"]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  }
+]

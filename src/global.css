@@ -1,9 +1,16 @@
-root {
-    --main-color: #FF4500;
-    /*--grey-color: #828325;*/
+:root {
+    --main-color: #32BEA6;
+    --grey-color: #a8a7a7;
+    --error-color: red;
+    --green-color: green;
+}
+
+* {
+    box-sizing: border-box;
 }
 
 body {
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -16,4 +23,11 @@ ul {
 
 a {
     text-decoration: none;
+}
+
+button {
+    padding: 0;
+    box-shadow: none;
+    border: 0;
+    background-color: transparent;
 }

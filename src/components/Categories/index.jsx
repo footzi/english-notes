@@ -1,29 +1,21 @@
 import React from 'react';
+import cn from 'classnames';
 import styles from './index.module.css';
 
-export const Categories = () => {
+export const Categories = ({ categories, activeCategory, onChangeCategory }) => {
   return (
     <ul className={styles.list}>
-      <li>
-        <a href="" className={styles.link}>
-          Категория 1
-        </a>
-      </li>
-      <li>
-        <a href="" className={styles.link}>
-          Категория 2
-        </a>
-      </li>
-      <li>
-        <a href="" className={styles.link}>
-          Категория 3
-        </a>
-      </li>
-      <li>
-        <a href="" className={styles.link}>
-          Категория 4
-        </a>
-      </li>
+      {categories.map((item) => {
+        const cnButton = cn(styles.button, { [styles['button_is-active']]: item.id === activeCategory.id });
+
+        return (
+          <li key={item.id}>
+            <button className={cnButton} onClick={() => onChangeCategory(item.id)}>
+              {item.name}
+            </button>
+          </li>
+        );
+      })}
     </ul>
   );
 };

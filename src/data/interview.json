@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Дэйв почти никогда не делает ошибок. Он перепроверяет все свои расчеты.",
+    "answer": "Dave hardly ever makes mistakes . He double-checks all his calculations.",
+    "tasks": ["hardly", "makes", "mistakes", "double-checks"]
+  },
+  {
+    "question": "Майк не против стресса. На самом деле, это помогает ему работать лучше.",
+    "answer": "Mike doesn’t mind stress. In fact, it helps him to work better.",
+    "tasks": ["mind", "in", "fact", "helps"]
+  },
+  {
+    "question": "Я взял на себя его обязанности.",
+    "answer": "I took on his responsibilities .",
+    "tasks": ["took", "on", "responsibilities"]
+  },
+  {
+    "question": "Мое полезное достижение",
+    "answer": "My rewarding accomplishment",
+    "tasks": ["rewarding", "accomplishment"]
+  },
+  {
+    "question": "Несмотря ни на что, мне удалось успешно разработать эту функцию.",
+    "answer": "Against the odds , I managed to successfully develop this feature",
+    "tasks": ["Against", "odds", "managed"]
+  },
+  {
+    "question": "Я вижу, что перехожу на руководящую должность",
+    "answer": "I see myself moving on to a management position",
+    "tasks": ["see", "myself", "moving", "on", "position"]
+  },
+  {
+    "question": "На самом деле я лучше работаю под давлением и обнаружил, что мне нравится работать в сложной обстановке.",
+    "answer": "I actually work better under pressure and I’ve found that I enjoy working in a challenging environment.",
+    "tasks": ["actually", "found", "enjoy", "working", "challenging", "environment"]
+  },
+  {
+    "question": "Тот, кто не имеет никакой уверенности",
+    "answer": "Someone who doesn’t have any confidence",
+    "tasks": ["Someone", "any", "confidence"]
+  },
+  {
+    "question": "Отчаяние – признак слабости",
+    "answer": "Desperation is a sign of weakness",
+    "tasks": ["Desperation", "sign", "weakness"]
+  },
+  {
+    "question": "Я хорошо подхожу на эту должность",
+    "answer": "I’m a good match for this position",
+    "tasks": ["good", "match", "position"]
+  },
+  {
+    "question": "Как вы справляетесь с давлением?",
+    "answer": "How do you handle with pressure?",
+    "tasks": ["handle", "with"]
+  },
+  {
+    "question": "Он квалифицированный сотрудник",
+    "answer": "He is a qualified employee",
+    "tasks": ["qualified", "employee"]
+  },
+  {
+    "question": "Я ищу новое испытание",
+    "answer": "I’m looking for a new challenge",
+    "tasks": ["looking", "for", "challenge"]
+  },
+  {
+    "question": "Я встану пораньше и получу преимущество.",
+    "answer": "I will get up extra early and get a head start.",
+    "tasks": ["get", "up", "head", "start"]
+  },
+  {
+    "question": "Ваше предложение показалось мне отличным вариантом.",
+    "answer": "You offer looked like an excellent match for me",
+    "tasks": ["offer", "looked", "like", "excellent", "match"]
+  },
+  {
+    "question": "Я достигну своих целей",
+    "answer": "I will reach my goals",
+    "tasks": ["will", "reach", "goals"]
+  },
+  {
+    "question": "Наверное, временами я немного неохотно делегирую определенные задачи.",
+    "answer": "I guess at times I am a little reluctant to delegate certain tasks",
+    "tasks": ["guess", "at", "reluctant", "delegate", "certain"]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  }
+]
