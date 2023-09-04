@@ -1,0 +1,10 @@
+.item {
+    border-bottom: 1px solid var(--light-grey-color);
+    padding-bottom: 12px;
+    margin-bottom: 12px;
+}
+
+.answer {
+    margin-top: 8px;
+    font-weight: 300;
+}

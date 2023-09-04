@@ -1,6 +1,6 @@
 import React, { useMemo, useState } from 'react';
 import cn from 'classnames';
-import DoneIcon from '../../assets/done.svg';
+import DoneIcon from '../../../assets/done.svg';
 
 import styles from './index.module.css';
 

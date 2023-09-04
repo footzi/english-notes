@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Он жадный мальчик",
+    "answer": "He is a greedy boy",
+    "tasks": ["greedy"]
+  },
+  {
+    "question": "Он умеет работать в команде",
+    "answer": "He is able to work in a team",
+    "tasks": ["is", "able", "to"]
+  },
+  {
+    "question": "Она способна работать под давлением",
+    "answer": "She is able to work under pressure",
+    "tasks": ["is", "able", "to", "under", "pressure"]
+  },
+  {
+    "question": "Он амбициозный и осторожный человек",
+    "answer": "He is an ambitious and careful person",
+    "tasks": ["ambitious", "careful"]
+  },
+  {
+    "question": "Я опытный и полон энтузиазма",
+    "answer": "I'm experienced and enthusiastic",
+    "tasks": ["experienced", "enthusiastic"]
+  },
+  {
+    "question": "Я целеустремленный и коммуникабельный",
+    "answer": "I'm self-motivated and communicative",
+    "tasks": ["self-motivated", "communicative"]
+  },
+  {
+    "question": "Я динамичный и трудолюбив",
+    "answer": "I'm dynamic and hardworking",
+    "tasks": ["dynamic", "hardworking"]
+  }
+]

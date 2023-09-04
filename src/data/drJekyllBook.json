@@ -1,0 +1,47 @@
+[
+  {
+    "question": "В конверте было завещание мужчины",
+    "answer": "The envelope contained the will of a man",
+    "tasks": ["envelope", "will"]
+  },
+  {
+    "question": "Раньше это казалось безумием",
+    "answer": "It had seemed like madness before",
+    "tasks": ["seemed", "like", "madness"]
+  },
+  {
+    "question": "Это начало казаться постыдным",
+    "answer": "It began to seem shameful",
+    "tasks": ["began", "seem", "shameful"]
+  },
+  {
+    "question": "В своем воображении он увидел безликого",
+    "answer": "In his mind’s eye he saw a faceless man",
+    "tasks": ["mind's", "eye", "faceless"]
+  },
+  {
+    "question": "Это действительно может быть полезно",
+    "answer": "It may indeed be useful",
+    "tasks": ["may", "indeed", "be"]
+  },
+  {
+    "question": "Он остался после того, как остальные ушли",
+    "answer": "He remained after the others had left",
+    "tasks": ["remained"]
+  },
+  {
+    "question": "Он унаследовал мои деньги",
+    "answer": "He inherits my money",
+    "tasks": ["inherits"]
+  },
+  {
+    "question": "Я могу избавиться от него",
+    "answer": "I can get rid of him",
+    "tasks": ["get", "rid"]
+  },
+  {
+    "question": "Он подчиняется ему",
+    "answer": "He obey him",
+    "tasks": ["obey"]
+  }
+]

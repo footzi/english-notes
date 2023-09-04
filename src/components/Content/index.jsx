@@ -1,38 +1,23 @@
-import React, { useEffect, useRef, useState } from 'react';
-import { Question } from '../Question/index.jsx';
+import React, { useState } from 'react';
 import styles from './index.module.css';
+import { Tabs } from '../Tabs/index.jsx';
+import { TABS } from '../../constants.js';
+import { Tasks } from '../Tasks/index.jsx';
+import { Description } from '../Description/index.jsx';
 
 export const Content = ({ questions }) => {
-  const [filteredQuestions, setQuestions] = useState(questions);
-  const containerRef = useRef(null);
+  const [activeTab, setActiveTab] = useState(TABS.Description);
 
-  const onOk = (id) => {
-    setQuestions(() => filteredQuestions.filter((item) => item.id !== id));
-
-    setTimeout(() => {
-      const firstInput = containerRef?.current.querySelectorAll('input')[0];
-
-      if (firstInput) {
-        firstInput.focus();
-      }
-    }, 100);
-  };
-
-  useEffect(() => {
-    setQuestions(questions);
-  }, [questions]);
+  const handleChangeTab = (id) => setActiveTab(id);
 
   return (
-    <div className={styles.container} ref={containerRef}>
-      {filteredQuestions.length > 0 ? (
-        <>
-          {filteredQuestions.map((question) => (
-            <Question key={question.id} {...question} onOk={onOk} />
-          ))}
-        </>
-      ) : (
-        <h1>Empty</h1>
-      )}
+    <div>
+      <Tabs activeTab={activeTab} onChange={handleChangeTab} />
+
+      <div className={styles.container}>
+        {activeTab === TABS.Task && <Tasks questions={questions} />}
+        {activeTab === TABS.Description && <Description questions={questions} />}
+      </div>
     </div>
   );
 };

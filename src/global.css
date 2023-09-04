@@ -1,6 +1,7 @@
 :root {
     --main-color: #32BEA6;
-    --grey-color: #a8a7a7;
+    --grey-color: #d0cfcf;
+    --light-grey-color: #eae8e8;
     --error-color: red;
     --green-color: green;
 }

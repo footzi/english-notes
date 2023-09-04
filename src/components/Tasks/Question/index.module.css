@@ -1,7 +1,7 @@
 .item {
-    border-bottom: 1px solid var(--grey-color);
+    border-bottom: 1px solid var(--light-grey-color);
     padding-bottom: 12px;
-    margin-bottom: 24px;
+    margin-bottom: 12px;
 }
 
 .question {
@@ -34,8 +34,6 @@
 }
 
 .input {
-    /*min-width: 10px;*/
-    /*width: 60px;*/
     border: 1px solid transparent;
     border-bottom: 1px solid var(--grey-color);
     box-shadow: none;

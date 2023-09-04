@@ -85,53 +85,8 @@
     "tasks": ["guess", "at", "reluctant", "delegate", "certain"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Сейчас, Я управляю более крупной командой из 5 человек",
+    "answer": "Currently, I manage a large team of 5 people",
+    "tasks": ["Currently", "manage", "large", "of"]
   }
 ]
