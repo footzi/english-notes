@@ -1,22 +1,21 @@
 export const manifest = {
-  id: '1',
-  scope: '/',
   name: 'English Notes',
   display: 'standalone',
-  start_url: '/',
+  start_url: './index.html',
   short_name: 'English Notes',
   theme_color: '#FFFFFF',
   description: 'English Notes',
-  orientation: 'any',
   background_color: '#FFFFFF',
-  related_applications: [],
-  prefer_related_applications: false,
   icons: [
     {
-      src: 'pwa-icon.png',
-      sizes: [96, 128, 192, 256, 384, 512],
+      src: '/pwa-icon.png',
+      sizes: '512x512',
+      type: 'image/png',
+    },
+    {
+      src: '/pwa-icon-192x192.png',
+      sizes: '192x192',
+      type: 'image/png',
     },
   ],
-  features: ['Cross Platform', 'fast', 'simple'],
-  categories: ['social'],
 };
