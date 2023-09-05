@@ -1,8 +1,9 @@
 import INTERVIEW from './interview.json';
 import COMMON from './common.json';
 import CATEGORIES from './categories.json';
-import DR_JEKYLL_BOOK from './drJekyllBook.json';
+import DR_JEKYLL_BOOK from './dr-jekyll-book.json';
 import TRAITS from './traits.json';
+import IN_ON_AT from './in-on-at.json';
 import { nanoid } from 'nanoid';
 
 const questions = {
@@ -10,6 +11,7 @@ const questions = {
   interview: INTERVIEW,
   drJekyllBook: DR_JEKYLL_BOOK,
   traits: TRAITS,
+  inOnAt: IN_ON_AT,
 };
 
 const prepareQuestions = (questions) => {
@@ -18,6 +20,7 @@ const prepareQuestions = (questions) => {
   return filteredQuestions.reverse().map((item, index) => {
     return {
       id: nanoid(),
+      // todo remove?
       index: index + 1,
       ...item,
     };

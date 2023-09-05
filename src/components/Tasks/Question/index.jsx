@@ -47,7 +47,7 @@ const checkAnswer = (answer, answers, tasks) => {
   return resultString.toUpperCase() === answer.toUpperCase();
 };
 
-export const Question = ({ id, question, answer, tasks, index, onOk }) => {
+export const Question = ({ id, question, answer, tasks, onOk }) => {
   const [isShowAnswer, setIsShowAnswer] = useState(false);
   const [isWrong, setIsWrong] = useState(false);
   const [answers, setAnswers] = useState({});
@@ -87,7 +87,7 @@ export const Question = ({ id, question, answer, tasks, index, onOk }) => {
   return (
     <form className={styles.item} onSubmit={handleSubmit}>
       <div className={styles.question} onClick={handleClickQuestion}>
-        {index}. {question}
+        {question}
       </div>
 
       {isShowAnswer && <div className={styles.answer}>{answer}</div>}

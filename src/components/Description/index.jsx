@@ -14,12 +14,12 @@ const getStringForRender = (answer, tasks) => {
 export const Description = ({ questions }) => {
   return (
     <ul>
-      {questions.map(({ id, question, answer, index, tasks }) => {
+      {questions.map(({ id, question, answer, tasks }) => {
         const answerRender = getStringForRender(answer, tasks);
 
         return (
           <li className={styles.item} key={id}>
-            {index}. {question}
+            {question}
             <div className={styles.answer}>
               {answerRender.map((item, index) => {
                 return <React.Fragment key={index}> {item} </React.Fragment>;
