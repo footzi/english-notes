@@ -8,12 +8,12 @@ export const manifest = {
   background_color: '#FFFFFF',
   icons: [
     {
-      src: '/pwa-icon.png',
+      src: './pwa-icon.png',
       sizes: '512x512',
       type: 'image/png',
     },
     {
-      src: '/pwa-icon-192x192.png',
+      src: './pwa-icon-192x192.png',
       sizes: '192x192',
       type: 'image/png',
     },
