@@ -31,7 +31,7 @@
   },
   {
     "question": "Я динамичный и трудолюбив",
-    "answer": "I'm dynamic and hardworking",
-    "tasks": ["dynamic", "hardworking"]
+    "answer": "I'm dynamic and hard-working",
+    "tasks": ["dynamic", "hard-working"]
   }
 ]

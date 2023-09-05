@@ -22,7 +22,12 @@
     font-size: 16px;
     cursor: pointer;
     text-align: left;
-    white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+    .button {
+        white-space: nowrap;
+    }
 }
 
 .button_is-active {

@@ -6,7 +6,7 @@ import { Tasks } from '../Tasks/index.jsx';
 import { Description } from '../Description/index.jsx';
 
 export const Content = ({ questions }) => {
-  const [activeTab, setActiveTab] = useState(TABS.Description);
+  const [activeTab, setActiveTab] = useState(TABS.Task);
 
   const handleChangeTab = (id) => setActiveTab(id);
 

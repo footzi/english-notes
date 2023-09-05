@@ -11,13 +11,13 @@ export const Tabs = ({ activeTab, onChange }) => {
     <nav>
       <ul className={styles.list}>
         <li>
-          <button className={getCn(TABS.Description)} onClick={() => onChange(TABS.Description)}>
-            Описание
+          <button className={getCn(TABS.Task)} onClick={() => onChange(TABS.Task)}>
+            Тренировка
           </button>
         </li>
         <li>
-          <button className={getCn(TABS.Task)} onClick={() => onChange(TABS.Task)}>
-            Тренировка
+          <button className={getCn(TABS.Description)} onClick={() => onChange(TABS.Description)}>
+            Описание
           </button>
         </li>
       </ul>
