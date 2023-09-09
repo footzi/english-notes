@@ -1,0 +1,138 @@
+[
+  {
+    "question": "1/2",
+    "answer": "half",
+    "tasks": ["half"]
+  },
+  {
+    "question": "1/3",
+    "answer": "one thirds",
+    "tasks": ["one", "thirds"]
+  },
+  {
+    "question": "3/4",
+    "answer": "three quarters",
+    "tasks": ["three", "quarters"]
+  },
+  {
+    "question": "5/2",
+    "answer": "five halves",
+    "tasks": ["five", "halves"]
+  },
+  {
+    "question": "8/9",
+    "answer": "eight ninths",
+    "tasks": ["eight", "ninths"]
+  },
+  {
+    "question": "3/5",
+    "answer": "three fifths",
+    "tasks": ["three", "fifths"]
+  },
+  {
+    "question": "12.17",
+    "answer": "twelve point seventeen",
+    "tasks": ["twelve", "point", "seventeen"]
+  },
+  {
+    "question": "28.56",
+    "answer": "twenty-eight point fifty-six",
+    "tasks": ["twenty-eight", "point", "fifty-six"]
+  },
+  {
+    "question": "3.9",
+    "answer": "three point nine",
+    "tasks": ["three", "point", "nine"]
+  },
+  {
+    "question": "75%",
+    "answer": "seventy-five percent",
+    "tasks": ["seventy-five", "percent"]
+  },
+  {
+    "question": "93%",
+    "answer": "ninety-three percent",
+    "tasks": ["ninety-three", "percent"]
+  },
+  {
+    "question": "38%",
+    "answer": "thirty-eight percent",
+    "tasks": ["thirty-eight", "percent"]
+  },
+  {
+    "question": "3 500 950",
+    "answer": "three million five hundred thousand nine hundred and fifty",
+    "tasks": ["three", "million", "five", "hundred", "thousand", "nine", "hundred", "and", "fifty"]
+  },
+  {
+    "question": "8 934 379",
+    "answer": "eight million nine hundred thirty-four thousand three hundred and seventy-nine",
+    "tasks": [
+      "eight",
+      "million",
+      "nine",
+      "hundred",
+      "thirty-four",
+      "thousand",
+      "three",
+      "hundred",
+      "and",
+      "seventy-nine"
+    ]
+  },
+  {
+    "question": "1 600 000",
+    "answer": "one million six hundred thousand",
+    "tasks": ["one", "million", "six", "hundred", "thousand"]
+  },
+  {
+    "question": "10 900 300",
+    "answer": "ten million nine hundred thousand three hundred",
+    "tasks": ["ten", "million", "nine", "hundred", "thousand", "three", "hundred"]
+  },
+  {
+    "question": "25 324",
+    "answer": "twenty-five thousand three hundred and twenty-four",
+    "tasks": ["twenty-five", "thousand", "three", "hundred", "and", "twenty-four"]
+  },
+  {
+    "question": "13 893",
+    "answer": "thirteen thousand eight hundred and ninety-three",
+    "tasks": ["thirteen", "thousand", "eight", "hundred", "and", "ninety-three"]
+  },
+  {
+    "question": "7 534",
+    "answer": "seven thousand five hundred and thirty-four",
+    "tasks": ["seven", "thousand", "five", "hundred", "and", "thirty-four"]
+  },
+  {
+    "question": "9 600",
+    "answer": "nine thousand six hundred",
+    "tasks": ["nine", "thousand", "six", "hundred"]
+  },
+  {
+    "question": "836",
+    "answer": "eight hundred and thirty-six",
+    "tasks": ["eight", "hundred", "and", "thirty-six"]
+  },
+  {
+    "question": "396",
+    "answer": "three hundred and ninety-six",
+    "tasks": ["three", "hundred", "and", "ninety-six"]
+  },
+  {
+    "question": "25 апреля",
+    "answer": "the twenty-fifth of April",
+    "tasks": ["the", "twenty-fifth", "of", "April"]
+  },
+  {
+    "question": "13 ноября",
+    "answer": "the thirteenth of November",
+    "tasks": ["the", "thirteenth", "of", "November"]
+  },
+  {
+    "question": "31 января",
+    "answer": "the thirty-first of January",
+    "tasks": ["the", "thirty-first", "of", "January"]
+  }
+]

@@ -31,8 +31,8 @@
   },
   {
     "question": "Он унаследовал мои деньги",
-    "answer": "He inherits my money",
-    "tasks": ["inherits"]
+    "answer": "He inherited my money",
+    "tasks": ["inherited"]
   },
   {
     "question": "Я могу избавиться от него",
@@ -41,7 +41,7 @@
   },
   {
     "question": "Он подчиняется ему",
-    "answer": "He obey him",
-    "tasks": ["obey"]
+    "answer": "He obeys him",
+    "tasks": ["obeys"]
   }
 ]

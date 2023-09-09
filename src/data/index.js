@@ -4,10 +4,12 @@ import CATEGORIES from './categories.json';
 import DR_JEKYLL_BOOK from './dr-jekyll-book.json';
 import TRAITS from './traits.json';
 import IN_ON_AT from './in-on-at.json';
+import NUMBERS from './numbers.json';
 import { nanoid } from 'nanoid';
 
 const questions = {
   common: COMMON,
+  numbers: NUMBERS,
   interview: INTERVIEW,
   drJekyllBook: DR_JEKYLL_BOOK,
   traits: TRAITS,
@@ -31,7 +33,7 @@ export const getData = () => {
   const categories = CATEGORIES.map((category) => {
     return {
       ...category,
-      questions: prepareQuestions(questions[category.id]),
+      questions: prepareQuestions(questions[category.id] ?? []),
     };
   });
 
