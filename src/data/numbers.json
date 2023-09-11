@@ -134,5 +134,65 @@
     "question": "31 января",
     "answer": "the thirty-first of January",
     "tasks": ["the", "thirty-first", "of", "January"]
+  },
+  {
+    "question": "1ый",
+    "answer": "first",
+    "tasks": ["first"]
+  },
+  {
+    "question": "2ой",
+    "answer": "second",
+    "tasks": ["second"]
+  },
+  {
+    "question": "3ий",
+    "answer": "third",
+    "tasks": ["third"]
+  },
+  {
+    "question": "4ий",
+    "answer": "fourth",
+    "tasks": ["fourth"]
+  },
+  {
+    "question": "5ый",
+    "answer": "fifth",
+    "tasks": ["fifth"]
+  },
+  {
+    "question": "6ый",
+    "answer": "sixth",
+    "tasks": ["sixth"]
+  },
+  {
+    "question": "8ый",
+    "answer": "eighth",
+    "tasks": ["eighth"]
+  },
+  {
+    "question": "9ый",
+    "answer": "ninth",
+    "tasks": ["ninth"]
+  },
+  {
+    "question": "21ый",
+    "answer": "twenty first",
+    "tasks": ["twenty", "first"]
+  },
+  {
+    "question": "32ой",
+    "answer": "thirty second",
+    "tasks": ["thirty", "second"]
+  },
+  {
+    "question": "43ий",
+    "answer": "forty third",
+    "tasks": ["forty", "third"]
+  },
+  {
+    "question": "55ый",
+    "answer": "fifty fifth",
+    "tasks": ["fifty", "fifth"]
   }
 ]
