@@ -15,9 +15,9 @@
     "tasks": ["inspires"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Мне нужно немного времени, чтобы разобраться с лучшим решением этой проблемы",
+    "answer": "I need some time to figure out the best solution to this problem",
+    "tasks": ["need", "some", "to", "figure", "out", "solution"]
   },
   {
     "question": "",

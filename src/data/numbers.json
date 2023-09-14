@@ -61,17 +61,18 @@
   },
   {
     "question": "3 500 950",
-    "answer": "three million five hundred thousand nine hundred and fifty",
-    "tasks": ["three", "million", "five", "hundred", "thousand", "nine", "hundred", "and", "fifty"]
+    "answer": "three million five hundred and thousand nine hundred and fifty",
+    "tasks": ["three", "million", "five", "hundred", "and", "thousand", "nine", "hundred", "and", "fifty"]
   },
   {
     "question": "8 934 379",
-    "answer": "eight million nine hundred thirty-four thousand three hundred and seventy-nine",
+    "answer": "eight million nine hundred and thirty-four thousand three hundred and seventy-nine",
     "tasks": [
       "eight",
       "million",
       "nine",
       "hundred",
+      "and",
       "thirty-four",
       "thousand",
       "three",
@@ -82,13 +83,13 @@
   },
   {
     "question": "1 600 000",
-    "answer": "one million six hundred thousand",
-    "tasks": ["one", "million", "six", "hundred", "thousand"]
+    "answer": "one million six hundred and thousand",
+    "tasks": ["one", "million", "six", "hundred", "and", "thousand"]
   },
   {
     "question": "10 900 300",
-    "answer": "ten million nine hundred thousand three hundred",
-    "tasks": ["ten", "million", "nine", "hundred", "thousand", "three", "hundred"]
+    "answer": "ten million nine hundred and thousand three hundred",
+    "tasks": ["ten", "million", "nine", "hundred", "and", "thousand", "three", "hundred"]
   },
   {
     "question": "25 324",

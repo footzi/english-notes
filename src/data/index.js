@@ -5,6 +5,7 @@ import DR_JEKYLL_BOOK from './dr-jekyll-book.json';
 import TRAITS from './traits.json';
 import IN_ON_AT from './in-on-at.json';
 import NUMBERS from './numbers.json';
+import IRREGULAR_VERBS from './irregular-verbs.json';
 import { nanoid } from 'nanoid';
 
 const questions = {
@@ -14,6 +15,7 @@ const questions = {
   drJekyllBook: DR_JEKYLL_BOOK,
   traits: TRAITS,
   inOnAt: IN_ON_AT,
+  irregularVerbs: IRREGULAR_VERBS,
 };
 
 const prepareQuestions = (questions) => {

@@ -43,5 +43,25 @@
     "question": "Он подчиняется ему",
     "answer": "He obeys him",
     "tasks": ["obeys"]
+  },
+  {
+    "question": "Он держит палку",
+    "answer": "He is holding a stick",
+    "tasks": ["holding", "stick"]
+  },
+  {
+    "question": "Беспомощный мужчина",
+    "answer": "Helpless man",
+    "tasks": ["Helpless"]
+  },
+  {
+    "question": "Смотреть внимательней",
+    "answer": "look more closely",
+    "tasks": ["look", "more", "closely"]
+  },
+  {
+    "question": "Уносить",
+    "answer": "carry away",
+    "tasks": ["carry", "away"]
   }
 ]
