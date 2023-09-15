@@ -6,6 +6,7 @@ import TRAITS from './traits.json';
 import IN_ON_AT from './in-on-at.json';
 import NUMBERS from './numbers.json';
 import IRREGULAR_VERBS from './irregular-verbs.json';
+import COMPARATIVES from './comparatives.json';
 import { nanoid } from 'nanoid';
 
 const questions = {
@@ -16,6 +17,7 @@ const questions = {
   traits: TRAITS,
   inOnAt: IN_ON_AT,
   irregularVerbs: IRREGULAR_VERBS,
+  comparatives: COMPARATIVES,
 };
 
 const prepareQuestions = (questions) => {
