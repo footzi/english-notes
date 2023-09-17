@@ -11,7 +11,7 @@
   },
   {
     "question": "Люди сегодня более нетерпеливы, чем в прошлом",
-    "answer": "People now more impatient today than in the past",
+    "answer": "People now are more impatient today than in the past",
     "tasks": ["more", "impatient", "than"]
   },
   {
@@ -46,17 +46,17 @@
   },
   {
     "question": "Ее туфли были дороже моих",
-    "answer": "Her shoes were more expensive than my",
+    "answer": "Her shoes were more expensive than mine",
     "tasks": ["more", "expensive", "than"]
   },
   {
     "question": "Мои туфли были не такими дорогими, как у нее",
-    "answer": "My shoes wasn't as expensive as her",
+    "answer": "My shoes aren't as expensive as her",
     "tasks": ["as", "expensive", "as"]
   },
   {
     "question": "Офис моей сестры больше моего",
-    "answer": "My sister's office bigger than mine",
+    "answer": "My sister's office is bigger than mine",
     "tasks": ["bigger", "than"]
   },
   {
