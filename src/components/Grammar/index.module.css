@@ -1,0 +1,10 @@
+.image {
+    width: 100%;
+    max-width: 900px;
+    display: block;
+    object-fit: cover;
+}
+
+.image_vertical {
+    width: 400px;
+}

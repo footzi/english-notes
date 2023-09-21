@@ -20,7 +20,7 @@ export const App = () => {
         activeCategory={activeCategory}
         onChangeCategory={handleActiveCategory}
       />
-      <Content questions={activeCategory.questions} />
+      <Content data={activeCategory} />
     </div>
   );
 };

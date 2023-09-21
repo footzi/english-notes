@@ -35,9 +35,14 @@ const prepareQuestions = (questions) => {
 
 export const getData = () => {
   const categories = CATEGORIES.map((category) => {
+    const source = questions[category.id];
+    // todo убрать после обновления типов
+    const sentences = source?.sentences ?? source ?? [];
+
     return {
       ...category,
-      questions: prepareQuestions(questions[category.id] ?? []),
+      questions: prepareQuestions(sentences),
+      grammar: source?.grammar ?? {},
     };
   });
 

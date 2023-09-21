@@ -20,6 +20,11 @@ export const Tabs = ({ activeTab, onChange }) => {
             Описание
           </button>
         </li>
+        <li>
+          <button className={getCn(TABS.Grammar)} onClick={() => onChange(TABS.Grammar)}>
+            Грамматика
+          </button>
+        </li>
       </ul>
     </nav>
   );

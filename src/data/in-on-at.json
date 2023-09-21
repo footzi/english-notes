@@ -1,132 +1,138 @@
-[
-  {
-    "question": "В Испании (countries)",
-    "answer": "In Spain",
-    "tasks": ["In"]
-  },
-  {
-    "question": "В Москве (countries)",
-    "answer": "In Moscow",
-    "tasks": ["In"]
-  },
-  {
-    "question": "На кухне (rooms)",
-    "answer": "In the kitchen",
-    "tasks": ["In"]
-  },
-  {
-    "question": "В феврале (months)",
-    "answer": "In February",
-    "tasks": ["In"]
-  },
-  {
-    "question": "Зимой (seasons)",
-    "answer": "In winter",
-    "tasks": ["In"]
-  },
-  {
-    "question": "В 2018 (years)",
-    "answer": "In 2018",
-    "tasks": ["In"]
-  },
-  {
-    "question": "Утром (times of day)",
-    "answer": "In the morning",
-    "tasks": ["In"]
-  },
-  {
-    "question": "В магазине (buildings)",
-    "answer": "In the shop",
-    "tasks": ["In"]
-  },
-  {
-    "question": "В музее (buildings)",
-    "answer": "In the museum",
-    "tasks": ["In"]
-  },
-  {
-    "question": "В парке (closed space)",
-    "answer": "In the park",
-    "tasks": ["In"]
-  },
-  {
-    "question": "В саду (closed space)",
-    "answer": "In the garden",
-    "tasks": ["In"]
-  },
-  {
-    "question": "На автобусе (transport)",
-    "answer": "On the bus",
-    "tasks": ["On"]
-  },
-  {
-    "question": "На поезде (transport)",
-    "answer": "On the train",
-    "tasks": ["On"]
-  },
-  {
-    "question": "1 Марта (days)",
-    "answer": "On 1st March",
-    "tasks": ["On"]
-  },
-  {
-    "question": "В четверг (days)",
-    "answer": "On Thursday",
-    "tasks": ["On"]
-  },
-  {
-    "question": "В день святого Валентина (days)",
-    "answer": "On Valentine's Day",
-    "tasks": ["On"]
-  },
-  {
-    "question": "На полу (surface)",
-    "answer": "On the floor",
-    "tasks": ["On"]
-  },
-  {
-    "question": "На балконе (surface)",
-    "answer": "On the balcony",
-    "tasks": ["On"]
-  },
-  {
-    "question": "В школе (places)",
-    "answer": "At school",
-    "tasks": ["At"]
-  },
-  {
-    "question": "Дома (places)",
-    "answer": "At home",
-    "tasks": ["At"]
-  },
-  {
-    "question": "В аэропорту (places)",
-    "answer": "At the airport",
-    "tasks": ["At"]
-  },
-  {
-    "question": "В 6 часов (times)",
-    "answer": "At 6 o'clock",
-    "tasks": ["At"]
-  },
-  {
-    "question": "Ночью (times)",
-    "answer": "At night",
-    "tasks": ["At"]
-  },
-  {
-    "question": "В 2:30 (times)",
-    "answer": "At half past two",
-    "tasks": ["At"]
-  },
-  {
-    "question": "В выходные (times)",
-    "answer": "At the weekend",
-    "tasks": ["At"]
-  },
-  {
-    "question": "В рождество (festival periods)",
-    "answer": "At Christmas",
-    "tasks": ["At"]
+{
+  "sentences": [
+    {
+      "question": "В Испании (countries)",
+      "answer": "In Spain",
+      "tasks": ["In"]
+    },
+    {
+      "question": "В Москве (countries)",
+      "answer": "In Moscow",
+      "tasks": ["In"]
+    },
+    {
+      "question": "На кухне (rooms)",
+      "answer": "In the kitchen",
+      "tasks": ["In"]
+    },
+    {
+      "question": "В феврале (months)",
+      "answer": "In February",
+      "tasks": ["In"]
+    },
+    {
+      "question": "Зимой (seasons)",
+      "answer": "In winter",
+      "tasks": ["In"]
+    },
+    {
+      "question": "В 2018 (years)",
+      "answer": "In 2018",
+      "tasks": ["In"]
+    },
+    {
+      "question": "Утром (times of day)",
+      "answer": "In the morning",
+      "tasks": ["In"]
+    },
+    {
+      "question": "В магазине (buildings)",
+      "answer": "In the shop",
+      "tasks": ["In"]
+    },
+    {
+      "question": "В музее (buildings)",
+      "answer": "In the museum",
+      "tasks": ["In"]
+    },
+    {
+      "question": "В парке (closed space)",
+      "answer": "In the park",
+      "tasks": ["In"]
+    },
+    {
+      "question": "В саду (closed space)",
+      "answer": "In the garden",
+      "tasks": ["In"]
+    },
+    {
+      "question": "На автобусе (transport)",
+      "answer": "On the bus",
+      "tasks": ["On"]
+    },
+    {
+      "question": "На поезде (transport)",
+      "answer": "On the train",
+      "tasks": ["On"]
+    },
+    {
+      "question": "1 Марта (days)",
+      "answer": "On 1st March",
+      "tasks": ["On"]
+    },
+    {
+      "question": "В четверг (days)",
+      "answer": "On Thursday",
+      "tasks": ["On"]
+    },
+    {
+      "question": "В день святого Валентина (days)",
+      "answer": "On Valentine's Day",
+      "tasks": ["On"]
+    },
+    {
+      "question": "На полу (surface)",
+      "answer": "On the floor",
+      "tasks": ["On"]
+    },
+    {
+      "question": "На балконе (surface)",
+      "answer": "On the balcony",
+      "tasks": ["On"]
+    },
+    {
+      "question": "В школе (places)",
+      "answer": "At school",
+      "tasks": ["At"]
+    },
+    {
+      "question": "Дома (places)",
+      "answer": "At home",
+      "tasks": ["At"]
+    },
+    {
+      "question": "В аэропорту (places)",
+      "answer": "At the airport",
+      "tasks": ["At"]
+    },
+    {
+      "question": "В 6 часов (times)",
+      "answer": "At 6 o'clock",
+      "tasks": ["At"]
+    },
+    {
+      "question": "Ночью (times)",
+      "answer": "At night",
+      "tasks": ["At"]
+    },
+    {
+      "question": "В 2:30 (times)",
+      "answer": "At half past two",
+      "tasks": ["At"]
+    },
+    {
+      "question": "В выходные (times)",
+      "answer": "At the weekend",
+      "tasks": ["At"]
+    },
+    {
+      "question": "В рождество (festival periods)",
+      "answer": "At Christmas",
+      "tasks": ["At"]
+    }
+  ],
+  "grammar": {
+    "src": "./grammar/in-on-at.webp",
+    "layout": "vertical"
   }
-]
+}

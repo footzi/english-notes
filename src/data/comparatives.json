@@ -1,102 +1,107 @@
-[
-  {
-    "question": "Я занят больше, чем пять лет назад",
-    "answer": "I'm busier than I was five years ago",
-    "tasks": ["busier", "than"]
-  },
-  {
-    "question": "В этом году я менее расслаблен, чем в прошлом году",
-    "answer": "I'm less relaxed this year than I was last year",
-    "tasks": ["less", "relaxed", "than"]
-  },
-  {
-    "question": "Люди сегодня более нетерпеливы, чем в прошлом",
-    "answer": "People now are more impatient today than in the past",
-    "tasks": ["more", "impatient", "than"]
-  },
-  {
-    "question": "Обслуживание в этом ресторане не такое хорошее, как раньше",
-    "answer": "The service in this restaurant isn't as good as it was",
-    "tasks": ["as", "good", "as"]
-  },
-  {
-    "question": "Новый маршрут до офиса короче старого",
-    "answer": "The new route to the office is shorter than the old one",
-    "tasks": ["shorter", "than"]
-  },
-  {
-    "question": "Сегодня я чувствую себя еще более напряженным, чем вчера",
-    "answer": "I feel even more stressed today than I did yesterday",
-    "tasks": ["more", "stressed", "than"]
-  },
-  {
-    "question": "Сегодня погода менее жаркая, чем вчера",
-    "answer": "Today's weather is less hot than yesterday",
-    "tasks": ["less", "hot", "than"]
-  },
-  {
-    "question": "Сегодня погода жарче, чем вчера",
-    "answer": "Today's weather is hotter than yesterday",
-    "tasks": ["hotter", "than"]
-  },
-  {
-    "question": "Сегодня погода такая же жаркая как и вчера",
-    "answer": "Today the weather is as hot as yesterday",
-    "tasks": ["as", "hot", "as"]
-  },
-  {
-    "question": "Ее туфли были дороже моих",
-    "answer": "Her shoes were more expensive than mine",
-    "tasks": ["more", "expensive", "than"]
-  },
-  {
-    "question": "Мои туфли были не такими дорогими, как у нее",
-    "answer": "My shoes aren't as expensive as her",
-    "tasks": ["as", "expensive", "as"]
-  },
-  {
-    "question": "Офис моей сестры больше моего",
-    "answer": "My sister's office is bigger than mine",
-    "tasks": ["bigger", "than"]
-  },
-  {
-    "question": "Мой офис не такой большой, как у моей сестры",
-    "answer": "My office isn't as big as my sister's",
-    "tasks": ["as", "big", "as"]
-  },
-  {
-    "question": "Люди ходят быстрее, чем раньше",
-    "answer": "People walk more quickly than in the past",
-    "tasks": ["more", "quickly", "than"]
-  },
-  {
-    "question": "Мой брат говорит по-французски, но хуже, чем я",
-    "answer": "My brother speaks French, but less fluently than me",
-    "tasks": ["less", "fluently", "than"]
-  },
-  {
-    "question": "Она ездит не так быстро, как ее брат",
-    "answer": "She doesn't drive as fast as her brother",
-    "tasks": ["as", "fast", "as"]
-  },
-  {
-    "question": "Испания играла лучше Германии",
-    "answer": "Spain played better than Germany",
-    "tasks": ["better", "than"]
-  },
-  {
-    "question": "Германия играла не так хорошо, как Испания",
-    "answer": "Germany didn't play as well as Spain",
-    "tasks": ["as", "well", "as"]
-  },
-  {
-    "question": "Ты водишь осторожнее меня",
-    "answer": "You drive more carefully than me",
-    "tasks": ["more", "carefully", "than"]
-  },
-  {
-    "question": "Я вожу не так осторожно, как ты",
-    "answer": "I don't drive as carefully as you",
-    "tasks": ["as", "carefully", "as"]
+{
+  "sentences": [
+    {
+      "question": "Я занят больше, чем пять лет назад",
+      "answer": "I'm busier than I was five years ago",
+      "tasks": ["busier", "than"]
+    },
+    {
+      "question": "В этом году я менее расслаблен, чем в прошлом году",
+      "answer": "I'm less relaxed this year than I was last year",
+      "tasks": ["less", "relaxed", "than"]
+    },
+    {
+      "question": "Люди сегодня более нетерпеливы, чем в прошлом",
+      "answer": "People now are more impatient today than in the past",
+      "tasks": ["more", "impatient", "than"]
+    },
+    {
+      "question": "Обслуживание в этом ресторане не такое хорошее, как раньше",
+      "answer": "The service in this restaurant isn't as good as it was",
+      "tasks": ["as", "good", "as"]
+    },
+    {
+      "question": "Новый маршрут до офиса короче старого",
+      "answer": "The new route to the office is shorter than the old one",
+      "tasks": ["shorter", "than"]
+    },
+    {
+      "question": "Сегодня я чувствую себя еще более напряженным, чем вчера",
+      "answer": "I feel even more stressed today than I did yesterday",
+      "tasks": ["more", "stressed", "than"]
+    },
+    {
+      "question": "Сегодня погода менее жаркая, чем вчера",
+      "answer": "Today's weather is less hot than yesterday",
+      "tasks": ["less", "hot", "than"]
+    },
+    {
+      "question": "Сегодня погода жарче, чем вчера",
+      "answer": "Today's weather is hotter than yesterday",
+      "tasks": ["hotter", "than"]
+    },
+    {
+      "question": "Сегодня погода такая же жаркая как и вчера",
+      "answer": "Today the weather is as hot as yesterday",
+      "tasks": ["as", "hot", "as"]
+    },
+    {
+      "question": "Ее туфли были дороже моих",
+      "answer": "Her shoes were more expensive than mine",
+      "tasks": ["more", "expensive", "than"]
+    },
+    {
+      "question": "Мои туфли были не такими дорогими, как у нее",
+      "answer": "My shoes aren't as expensive as her",
+      "tasks": ["as", "expensive", "as"]
+    },
+    {
+      "question": "Офис моей сестры больше моего",
+      "answer": "My sister's office is bigger than mine",
+      "tasks": ["bigger", "than"]
+    },
+    {
+      "question": "Мой офис не такой большой, как у моей сестры",
+      "answer": "My office isn't as big as my sister's",
+      "tasks": ["as", "big", "as"]
+    },
+    {
+      "question": "Люди ходят быстрее, чем раньше",
+      "answer": "People walk more quickly than in the past",
+      "tasks": ["more", "quickly", "than"]
+    },
+    {
+      "question": "Мой брат говорит по-французски, но хуже, чем я",
+      "answer": "My brother speaks French, but less fluently than me",
+      "tasks": ["less", "fluently", "than"]
+    },
+    {
+      "question": "Она ездит не так быстро, как ее брат",
+      "answer": "She doesn't drive as fast as her brother",
+      "tasks": ["as", "fast", "as"]
+    },
+    {
+      "question": "Испания играла лучше Германии",
+      "answer": "Spain played better than Germany",
+      "tasks": ["better", "than"]
+    },
+    {
+      "question": "Германия играла не так хорошо, как Испания",
+      "answer": "Germany didn't play as well as Spain",
+      "tasks": ["as", "well", "as"]
+    },
+    {
+      "question": "Ты водишь осторожнее меня",
+      "answer": "You drive more carefully than me",
+      "tasks": ["more", "carefully", "than"]
+    },
+    {
+      "question": "Я вожу не так осторожно, как ты",
+      "answer": "I don't drive as carefully as you",
+      "tasks": ["as", "carefully", "as"]
+    }
+  ],
+  "grammar": {
+    "src": "./grammar/comparatives.webp"
   }
-]
+}
