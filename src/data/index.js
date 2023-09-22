@@ -7,6 +7,7 @@ import IN_ON_AT from './in-on-at.json';
 import NUMBERS from './numbers.json';
 import IRREGULAR_VERBS from './irregular-verbs.json';
 import COMPARATIVES from './comparatives.json';
+import OXFORD_WORDS from './oxford-words-a2-b1.json';
 import { nanoid } from 'nanoid';
 
 const questions = {
@@ -18,6 +19,7 @@ const questions = {
   inOnAt: IN_ON_AT,
   irregularVerbs: IRREGULAR_VERBS,
   comparatives: COMPARATIVES,
+  oxfordWords: OXFORD_WORDS,
 };
 
 const prepareQuestions = (questions) => {

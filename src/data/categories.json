@@ -4,12 +4,16 @@
     "name": "Общие"
   },
   {
+    "id": "oxfordWords",
+    "name": "🏫 Слова из Oxford 5000 (A2/B1)"
+  },
+  {
     "id": "inOnAt",
     "name": "in/on/at"
   },
   {
     "id": "numbers",
-    "name": "Числа"
+    "name": "🔢 Числа"
   },
   {
     "id": "interview",
@@ -21,7 +25,7 @@
   },
   {
     "id": "drJekyllBook",
-    "name": "Книга Dr. Jekyll and Mr.Hide"
+    "name": "📓 Книга Dr. Jekyll and Mr.Hide"
   },
   {
     "id": "irregularVerbs",

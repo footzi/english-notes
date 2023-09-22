@@ -1,0 +1,217 @@
+{
+  "sentences": [
+    {
+      "question": "Наличие хорошего образования может стать преимуществом",
+      "answer": "Having a strong educational background can be an advantage",
+      "tasks": ["advantage"]
+    },
+    {
+      "question": "Изменение погоды может повлиять на наши планы",
+      "answer": "The change in weather can affect our plans",
+      "tasks": ["affect"]
+    },
+    {
+      "question": "Мы посетили древний храм",
+      "answer": "We visited an ancient temple",
+      "tasks": ["ancient"]
+    },
+    {
+      "question": "Мне нужно забронировать жилье для нашего предстоящего отпуска.",
+      "answer": "I need to book accommodation for our upcoming vacation",
+      "tasks": ["accommodation"]
+    },
+    {
+      "question": "Я могу позволить себе купить новую машину прямо сейчас",
+      "answer": "I can afford to buy a new car right now",
+      "tasks": ["afford"]
+    },
+    {
+      "question": "Двое друзей жили в разных городах, за тысячи миль друг от друга.",
+      "answer": "The two friends lived in different cities, thousands of miles apart",
+      "tasks": ["apart"]
+    },
+    {
+      "question": "Я ценю твою помощь и поддержку",
+      "answer": "I appreciate your help and support",
+      "tasks": ["appreciate"]
+    },
+    {
+      "question": "Наше путешествие займет около 40 часов.",
+      "answer": "Our journey takes approximately 40 hours",
+      "tasks": ["approximately"]
+    },
+    {
+      "question": "Пожалуйста, организуйте встречу с командой",
+      "answer": "Please arrange a meeting with the team",
+      "tasks": ["arrange"]
+    },
+    {
+      "question": "Вы не соблюдаете наши договоренности",
+      "answer": "You are not complying with our arrangements",
+      "tasks": ["complying", "arrangements"]
+    },
+    {
+      "question": "Мне нужно выполнить задание до конца недели",
+      "answer": "I need to complete my assignment by the end of the week",
+      "tasks": ["assignment"]
+    },
+    {
+      "question": "Я буду присутствовать на конференции на следующей неделе",
+      "answer": "I will attend the conference next week",
+      "tasks": ["attend"]
+    },
+    {
+      "question": "Вам лучше избегать сладкого",
+      "answer": "You better avoid sweets",
+      "tasks": ["avoid"]
+    },
+    {
+      "question": "Я осознаю потенциальные риски",
+      "answer": "I'm aware of the potential risks",
+      "tasks": ["aware"]
+    },
+    {
+      "question": "Вам нужно научить своих детей вести себя вежливо",
+      "answer": "You need to teach your children how to behave politely",
+      "tasks": ["behave"]
+    },
+    {
+      "question": "Ее вера в успех мотивирует всю команду",
+      "answer": "Her belief in success motivates all team",
+      "tasks": ["belief"]
+    },
+    {
+      "question": "Я не хочу тебя беспокоить",
+      "answer": "I don't want to bother you",
+      "tasks": ["bother"]
+    },
+    {
+      "question": "Потолок в этом соборе прекрасен",
+      "answer": "The ceiling in this cathedral is beautiful",
+      "tasks": ["ceiling"]
+    },
+    {
+      "question": "Велосипедная цепь сломалась",
+      "answer": "The bicycle chain was broken",
+      "tasks": ["chain"]
+    },
+    {
+      "question": "Мы тратим немного денег на благотворительность",
+      "answer": "We spend some money on charity",
+      "tasks": ["charity"]
+    },
+    {
+      "question": "Она решила получить приз после выигрыша в лотерею.",
+      "answer": "She decided to claim the prize after winning the lottery",
+      "tasks": ["claim"]
+    },
+    {
+      "question": "В договоре есть пункт о конфиденциальности",
+      "answer": "The contract includes a confidentiality clause",
+      "tasks": ["clause"]
+    },
+    {
+      "question": "Он обыскал комнату в поисках подсказки, кто был убийцей",
+      "answer": "He searched the room for any clue as to who was killer",
+      "tasks": ["clue"]
+    },
+    {
+      "question": "Две компании конкурируют друг с другом",
+      "answer": "Two companies compete with each other",
+      "tasks": ["compete"]
+    },
+    {
+      "question": "Это было потрясающее соревнование между двумя спортсменами",
+      "answer": "It was an amazing competition between two sportsmen",
+      "tasks": ["competition"]
+    },
+    {
+      "question": "Рынок труда конкурентен",
+      "answer": "The job market is competitive",
+      "tasks": ["competitive"]
+    },
+    {
+      "question": "Apple — наш главный конкурент",
+      "answer": "Apple is our main competitor",
+      "tasks": ["competitor"]
+    },
+    {
+      "question": "Я часто жалуюсь на свою работу",
+      "answer": "I often complain about my work",
+      "tasks": ["complain"]
+    },
+    {
+      "question": "Я могу сделать вывод, что проект должен уложиться в сроки",
+      "answer": "I can conclude that the project is to meet a deadline",
+      "tasks": ["conclude"]
+    },
+    {
+      "question": "Заключение врача очень порадовало",
+      "answer": "The doctor's conclusion is very glad",
+      "tasks": ["conclusion"]
+    },
+    {
+      "question": "Она уверена в своей презентации",
+      "answer": "She feels confident about her presentation",
+      "tasks": ["confident"]
+    },
+    {
+      "question": "Эта инструкция может запутать кого угодно",
+      "answer": "This instruction can confuse anyone",
+      "tasks": ["confuse"]
+    },
+    {
+      "question": "Если мы не разработаем этот проект, последствия будут ужасными",
+      "answer": "If we don't design this project, the consequences will awful",
+      "tasks": ["consequences"]
+    },
+    {
+      "question": "Важно учитывать все факторы",
+      "answer": "It's important to consider all the factors",
+      "tasks": ["consider"]
+    },
+    {
+      "question": "Рецепт состоит из множества разных овощей",
+      "answer": "The receipt consists of many different vegetables",
+      "tasks": ["consists"]
+    },
+    {
+      "question": "Эта машина потребляет слишком много бензина",
+      "answer": "This car consumes too much gasoline",
+      "tasks": ["consumes"]
+    },
+    {
+      "question": "Интернет-шопинг – это удобно",
+      "answer": "Online shopping is convenient",
+      "tasks": ["convenient"]
+    },
+    {
+      "question": "Он может убедить очень быстро",
+      "answer": "He can convince very faster",
+      "tasks": ["convince"]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    }
+  ],
+  "grammar": {
+    "url": ""
+  }
+}

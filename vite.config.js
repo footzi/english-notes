@@ -5,5 +5,5 @@ import { manifest } from './manifest.js';
 
 export default defineConfig({
   base: './',
-  plugins: [react(), VitePWA({ injectRegister: 'inline', manifest })],
+  plugins: [react(), VitePWA({ injectRegister: 'inline', manifest, registerType: 'autoUpdate' })],
 });

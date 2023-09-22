@@ -1,13 +1,13 @@
 [
   {
     "question": "1/2",
-    "answer": "half",
+    "answer": "a half",
     "tasks": ["half"]
   },
   {
     "question": "1/3",
-    "answer": "one thirds",
-    "tasks": ["one", "thirds"]
+    "answer": "third",
+    "tasks": ["third"]
   },
   {
     "question": "3/4",
