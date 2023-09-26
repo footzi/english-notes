@@ -11,10 +11,10 @@ const getStringForRender = (answer, tasks) => {
   });
 };
 
-export const Description = ({ questions }) => {
+export const Description = ({ descriptions }) => {
   return (
     <ul>
-      {questions.map(({ id, question, answer, tasks }) => {
+      {descriptions.map(({ id, question, answer, tasks }) => {
         const answerRender = getStringForRender(answer, tasks);
 
         return (

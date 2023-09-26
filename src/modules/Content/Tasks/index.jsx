@@ -1,8 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Question } from './Question/index.jsx';
-import { shuffleArray } from '../../utils/shuffleArray.js';
-
-const randomizeQuestions = (array) => shuffleArray(array);
 
 export const Tasks = ({ questions }) => {
   const [filteredQuestions, setQuestions] = useState(questions);
@@ -21,7 +18,7 @@ export const Tasks = ({ questions }) => {
   };
 
   useEffect(() => {
-    setQuestions(randomizeQuestions(questions));
+    setQuestions(questions);
   }, [questions]);
 
   return (

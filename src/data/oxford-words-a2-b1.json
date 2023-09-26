@@ -36,8 +36,8 @@
       "tasks": ["appreciate"]
     },
     {
-      "question": "Наше путешествие займет около 40 часов.",
-      "answer": "Our journey takes approximately 40 hours",
+      "question": "Наше путешествие займет около 40 часов",
+      "answer": "Our journey will take approximately 40 hours",
       "tasks": ["approximately"]
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "question": "Ее вера в успех мотивирует всю команду",
-      "answer": "Her belief in success motivates all team",
+      "answer": "Her belief in success motivates all the team",
       "tasks": ["belief"]
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "question": "Он обыскал комнату в поисках подсказки, кто был убийцей",
-      "answer": "He searched the room for any clue as to who was killer",
+      "answer": "He searched the room for any clue as to who was a killer",
       "tasks": ["clue"]
     },
     {
@@ -146,8 +146,8 @@
       "tasks": ["conclude"]
     },
     {
-      "question": "Заключение врача очень порадовало",
-      "answer": "The doctor's conclusion is very glad",
+      "question": "Заключение врача очень позитивное",
+      "answer": "The doctor's conclusion is very positive",
       "tasks": ["conclusion"]
     },
     {
@@ -162,7 +162,7 @@
     },
     {
       "question": "Если мы не разработаем этот проект, последствия будут ужасными",
-      "answer": "If we don't design this project, the consequences will awful",
+      "answer": "If we don't design this project, the consequences will be awful",
       "tasks": ["consequences"]
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "question": "Рецепт состоит из множества разных овощей",
-      "answer": "The receipt consists of many different vegetables",
+      "answer": "The recipe consists of many different vegetables",
       "tasks": ["consists"]
     },
     {
@@ -187,7 +187,7 @@
     },
     {
       "question": "Он может убедить очень быстро",
-      "answer": "He can convince very faster",
+      "answer": "He can convince very fast",
       "tasks": ["convince"]
     },
     {

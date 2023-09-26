@@ -1,0 +1,23 @@
+.content {
+    margin-top: 44px;
+    padding: 12px;
+}
+
+@media (max-width: 600px) {
+    .content {
+        margin-top: 88px;
+    }
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    column-gap: 14px;
+    border-bottom: 1px solid var(--grey-color);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.05);
+    background-color: var(--background-color);
+    z-index: 2;
+}

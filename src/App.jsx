@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { Categories } from './components/Categories';
-import { Content } from './components/Content';
+import { Categories } from './modules/Categories';
+import { Content } from './modules/Content';
 import { getData } from './data';
 import styles from './index.module.css';
 

@@ -1,8 +1,9 @@
 import React, { useMemo, useState } from 'react';
 import cn from 'classnames';
-import DoneIcon from '../../../assets/done.svg';
 
 import styles from './index.module.css';
+import { Button } from '../../../../components/Button';
+import { FaCircleCheck } from 'react-icons/fa6';
 
 const getWidthForInput = (word) => {
   return word.length * 10;
@@ -22,7 +23,7 @@ const getStringForRender = (id, answer, tasks, handleChangeInput) => {
           key={inputId}
           className={styles.input}
           type="text"
-          autoComplete="none"
+          autoComplete="off"
           style={{ width: `${width}px` }}
           onChange={(event) => handleChangeInput(event, index)}
         />
@@ -99,9 +100,7 @@ export const Question = ({ id, question, answer, tasks, onOk }) => {
           ))}
         </span>
 
-        <button aria-label="Ответить" className={styles['button-done']} type="submit">
-          <img src={DoneIcon} alt="" />
-        </button>
+        <Button Icon={FaCircleCheck} ariaLabel="Ответить" type="submit" />
       </div>
     </form>
   );
