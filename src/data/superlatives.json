@@ -52,8 +52,8 @@
     },
     {
       "question": "Кто твой самый скромный друг?",
-      "answer": "Who's your the shiest friend?",
-      "tasks": ["the", "shiest"]
+      "answer": "Who's your shiest friend?",
+      "tasks": ["shiest"]
     },
     {
       "question": "Какой самый опасный поступок ты когда-либо совершала?",
