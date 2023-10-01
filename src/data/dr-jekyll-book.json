@@ -63,5 +63,65 @@
     "question": "Уносить",
     "answer": "carry away",
     "tasks": ["carry", "away"]
+  },
+  {
+    "question": "Он смотрит лихорадочным взглядом",
+    "answer": "He looks with a feverish look",
+    "tasks": ["feverish"]
+  },
+  {
+    "question": "Он предстанет перед судом",
+    "answer": "He will to trial",
+    "tasks": ["trial"]
+  },
+  {
+    "question": "Я был ей благодарен",
+    "answer": "I was grateful to her",
+    "tasks": ["grateful"]
+  },
+  {
+    "question": "Он не причинит ему вред",
+    "answer": "He won't harm him",
+    "tasks": ["won't", "harm"]
+  },
+  {
+    "question": "Я стараюсь помочь, когда кто-то просит",
+    "answer": "I try to help whenever someone asks",
+    "tasks": ["whenever", "someone"]
+  },
+  {
+    "question": "Они отчаянно пытаются найти убийцу",
+    "answer": "They try desperately to find a killer",
+    "tasks": ["desperately"]
+  },
+  {
+    "question": "Он живет в мире с самим собой",
+    "answer": "He lives at peace with himself",
+    "tasks": ["at", "peace", "with", "himself"]
+  },
+  {
+    "question": "Я дрожу",
+    "answer": "I tremble",
+    "tasks": ["tremble"]
+  },
+  {
+    "question": "Я колеблюсь",
+    "answer": "I hesitate",
+    "tasks": ["hesitate"]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
   }
 ]

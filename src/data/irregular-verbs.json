@@ -3,5 +3,10 @@
     "question": "Трясти, встряхивать",
     "answer": "shake shook shaken",
     "tasks": ["shake", "shook", "shaken"]
+  },
+  {
+    "question": "Вести за собой",
+    "answer": "lead led led",
+    "tasks": ["lead", "led", "led"]
   }
 ]
