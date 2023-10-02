@@ -110,14 +110,14 @@
     "tasks": ["hesitate"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Он хочет раскрыть правду",
+    "answer": "He wants to uncover the truth",
+    "tasks": ["uncover"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Его жизнь была полна зависти",
+    "answer": "His life was full of jealous",
+    "tasks": ["jealous"]
   },
   {
     "question": "",

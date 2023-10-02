@@ -25,6 +25,51 @@
     "tasks": ["pavement"]
   },
   {
+    "question": "Мне все равно",
+    "answer": "I don't care",
+    "tasks": ["I", "don't", "care"]
+  },
+  {
+    "question": "Это зависит от тебя",
+    "answer": "It's up to you",
+    "tasks": ["It's", "up", "to", "you"]
+  },
+  {
+    "question": "Как она выглядит?",
+    "answer": "What does she look like ?",
+    "tasks": ["What", "does", "she", "look", "like"]
+  },
+  {
+    "question": "Какой у него характер?",
+    "answer": "What is he like ?",
+    "tasks": ["What", "is", "he", "like"]
+  },
+  {
+    "question": "Какой он?",
+    "answer": "What is it like ?",
+    "tasks": ["What", "is", "it", "like"]
+  },
+  {
+    "question": "Давай пойдем на этот холм",
+    "answer": "Let's go to this hill",
+    "tasks": ["hill"]
+  },
+  {
+    "question": "Я хочу посмотреть ратушу",
+    "answer": "I want to see a town hall",
+    "tasks": ["town", "hall"]
+  },
+  {
+    "question": "Нам корабль приходит в гавань",
+    "answer": "Out ship come to a harbor",
+    "tasks": ["harbor"]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
     "question": "",
     "answer": "",
     "tasks": [""]
