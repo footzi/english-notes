@@ -45,7 +45,7 @@
     "tasks": ["What", "is", "he", "like"]
   },
   {
-    "question": "Какой он?",
+    "question": "Какой он? (город)",
     "answer": "What is it like ?",
     "tasks": ["What", "is", "it", "like"]
   },
@@ -61,8 +61,8 @@
   },
   {
     "question": "Нам корабль приходит в гавань",
-    "answer": "Out ship come to a harbor",
-    "tasks": ["harbor"]
+    "answer": "Out ship come to a harbour",
+    "tasks": ["harbour"]
   },
   {
     "question": "",

@@ -51,6 +51,11 @@
       "tasks": ["complying", "arrangements"]
     },
     {
+      "question": "Я назначу ее на новую должность",
+      "answer": "I will assign her to the new position",
+      "tasks": ["assign"]
+    },
+    {
       "question": "Мне нужно выполнить задание до конца недели",
       "answer": "I need to complete my assignment by the end of the week",
       "tasks": ["assignment"]
