@@ -106,8 +106,8 @@
       "tasks": ["charity"]
     },
     {
-      "question": "Она решила получить приз после выигрыша в лотерею.",
-      "answer": "She decided to claim the prize after winning the lottery",
+      "question": "Она решила потребовать свои деньги обратно",
+      "answer": "She decided to claim her money back",
       "tasks": ["claim"]
     },
     {
@@ -126,7 +126,7 @@
       "tasks": ["compete"]
     },
     {
-      "question": "Это было потрясающее соревнование между двумя спортсменами",
+      "question": "Это была потрясающая конкуренция между двумя спортсменами",
       "answer": "It was an amazing competition between two sportsmen",
       "tasks": ["competition"]
     },
