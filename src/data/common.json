@@ -60,8 +60,8 @@
     "tasks": ["town", "hall"]
   },
   {
-    "question": "Нам корабль приходит в гавань",
-    "answer": "Out ship come to a harbour",
+    "question": "Наш корабль приходит в гавань",
+    "answer": "Our ship comes to a harbour",
     "tasks": ["harbour"]
   },
   {
