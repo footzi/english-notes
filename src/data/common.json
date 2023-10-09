@@ -65,29 +65,29 @@
     "tasks": ["harbour"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Это еще не ясно",
+    "answer": "It's not clear yet",
+    "tasks": ["It's", "not", "clear", "yet"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Мы узнали, кто был убийцей",
+    "answer": "We found out who was a killer",
+    "tasks": ["found", "out"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Я не люблю молочные продукты",
+    "answer": "I don't like dairy",
+    "tasks": ["dairy"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Я никогда не пью газировку",
+    "answer": "I never drink fizzy",
+    "tasks": ["fizzy"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Я разбил кувшин",
+    "answer": "I broke the jug",
+    "tasks": ["jug"]
   },
   {
     "question": "",
