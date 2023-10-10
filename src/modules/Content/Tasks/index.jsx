@@ -44,9 +44,9 @@ export const Tasks = ({ questions }) => {
       }
     };
 
-    containerRef?.current.addEventListener('keydown', handleCancel);
+    containerRef?.current?.addEventListener('keydown', handleCancel);
 
-    return () => containerRef?.current.removeEventListener('keydown', handleCancel);
+    return () => containerRef?.current?.removeEventListener('keydown', handleCancel);
   }, [containerRef, lastAnsweredQuestion]);
 
   return (
