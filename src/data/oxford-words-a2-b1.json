@@ -166,6 +166,11 @@
       "tasks": ["confuse"]
     },
     {
+      "question": "Я запутался",
+      "answer": "I'm confused",
+      "tasks": ["I'm", "confused"]
+    },
+    {
       "question": "Если мы не разработаем этот проект, последствия будут ужасными",
       "answer": "If we don't design this project, the consequences will be awful",
       "tasks": ["consequences"]
@@ -176,9 +181,14 @@
       "tasks": ["consider"]
     },
     {
+      "question": "Я учел все требования",
+      "answer": "I considered all requirements",
+      "tasks": ["considered"]
+    },
+    {
       "question": "Рецепт состоит из множества разных овощей",
       "answer": "The recipe consists of many different vegetables",
-      "tasks": ["consists"]
+      "tasks": ["consists", "of"]
     },
     {
       "question": "Эта машина потребляет слишком много бензина",
@@ -196,9 +206,9 @@
       "tasks": ["convince"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Я решил убедить тебя",
+      "answer": "I decide to convince you",
+      "tasks": ["convince"]
     },
     {
       "question": "",
