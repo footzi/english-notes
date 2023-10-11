@@ -131,8 +131,8 @@
   },
   {
     "question": "Конечно, это вполне обычное дело",
-    "answer": "Surely, that's quite usual",
-    "tasks": ["Surely"]
+    "answer": "Surely , that's quite usual",
+    "tasks": ["Surely", "that's", "quite", "usual"]
   },
   {
     "question": "",
