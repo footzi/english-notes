@@ -120,6 +120,31 @@
     "tasks": ["jealousy"]
   },
   {
+    "question": "Он был бледен",
+    "answer": "He was pale",
+    "tasks": ["pale"]
+  },
+  {
+    "question": "Он кивнул ему",
+    "answer": "He nodded him",
+    "tasks": ["nodded"]
+  },
+  {
+    "question": "Конечно, это вполне обычное дело",
+    "answer": "Surely, that's quite usual",
+    "tasks": ["Surely"]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
     "question": "",
     "answer": "",
     "tasks": [""]
