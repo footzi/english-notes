@@ -1,0 +1,57 @@
+{
+  "sentences": [
+    {
+      "question": "Я слишком много думаю о своей жизни",
+      "answer": "I think about my life too much",
+      "tasks": ["too", "much"]
+    },
+    {
+      "question": "Я провожу слишком много времени за компьютером",
+      "answer": "I spend too much time on computer",
+      "tasks": ["spend", "too", "much"]
+    },
+    {
+      "question": "Я смотрю слишком много онлайн-видео",
+      "answer": "I watch too many online videos",
+      "tasks": ["too", "many"]
+    },
+    {
+      "question": "Я слишком голоден",
+      "answer": "I'm too hungry",
+      "tasks": ["I'm", "too"]
+    },
+    {
+      "question": "Я слишком красивый",
+      "answer": "I'm too handsome",
+      "tasks": ["I'm", "too"]
+    },
+    {
+      "question": "Вчера я съел достаточно вредной еды",
+      "answer": "I ate enough junk food yesterday",
+      "tasks": ["ate", "enough"]
+    },
+    {
+      "question": "Я недостаточно гуляю",
+      "answer": "I don't walk enough",
+      "tasks": ["walk", "enough"]
+    },
+    {
+      "question": "Это получилось достаточно вкусно",
+      "answer": "It was turned out delicious enough",
+      "tasks": ["turned", "out", "delicious", "enough"]
+    },
+    {
+      "question": "Мой стол для меня недостаточно удобен",
+      "answer": "My table isn't comfortable enough for me",
+      "tasks": ["comfortable", "enough"]
+    },
+    {
+      "question": "Мои волосы достаточно сухие",
+      "answer": "My hair is dry enough",
+      "tasks": ["dry", "enough"]
+    }
+  ],
+  "grammar": {
+    "src": "./grammar/quantifiers.webp"
+  }
+}

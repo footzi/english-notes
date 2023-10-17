@@ -9,6 +9,7 @@ import IRREGULAR_VERBS from './irregular-verbs.json';
 import COMPARATIVES from './comparatives.json';
 import OXFORD_WORDS from './oxford-words-a2-b1.json';
 import SUPERLATIVES from './superlatives.json';
+import QUANTIFIERS from './quantifiers.json';
 import { nanoid } from 'nanoid';
 
 const questions = {
@@ -22,6 +23,7 @@ const questions = {
   comparatives: COMPARATIVES,
   oxfordWords: OXFORD_WORDS,
   superlatives: SUPERLATIVES,
+  quantifiers: QUANTIFIERS,
 };
 
 const prepareQuestions = (questions) => {

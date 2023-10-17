@@ -95,6 +95,51 @@
     "tasks": ["joint"]
   },
   {
+    "question": "Это противоречит нашим правилам",
+    "answer": "It contradicts our rules",
+    "tasks": ["contradicts"]
+  },
+  {
+    "question": "Получается вкусно",
+    "answer": "It's turned out delicious",
+    "tasks": ["It's", "turned", "out"]
+  },
+  {
+    "question": "Я снижаю риск болезни",
+    "answer": "I reduce the risk of illness",
+    "tasks": ["reduce"]
+  },
+  {
+    "question": "Кофе не дает заснуть",
+    "answer": "Сoffee keeps you awake",
+    "tasks": ["keeps", "you", "awake"]
+  },
+  {
+    "question": "Я пью много молока",
+    "answer": "I drink a lot of milk",
+    "tasks": ["a", "lot", "of"]
+  },
+  {
+    "question": "Выпить немного красного вина может быть полезно",
+    "answer": "Drinking a little red wine can be good for you",
+    "tasks": ["a", "little"]
+  },
+  {
+    "question": "Я пью всего несколько банок Колы",
+    "answer": "I only have a few cans of Coke",
+    "tasks": ["a", "few"]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
     "question": "",
     "answer": "",
     "tasks": [""]
