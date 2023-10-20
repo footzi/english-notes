@@ -7,7 +7,7 @@
     },
     {
       "question": "Я провожу слишком много времени за компьютером",
-      "answer": "I spend too much time on computer",
+      "answer": "I spend too much time on the computer",
       "tasks": ["spend", "too", "much"]
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "question": "Это получилось достаточно вкусно",
-      "answer": "It was turned out delicious enough",
+      "answer": "It turned out delicious enough",
       "tasks": ["turned", "out", "delicious", "enough"]
     },
     {

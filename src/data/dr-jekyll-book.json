@@ -135,6 +135,51 @@
     "tasks": ["Surely", "that's", "quite", "usual"]
   },
   {
+    "question": "Когда он особенно занят работой",
+    "answer": "When he is particularly busy with work",
+    "tasks": ["particularly"]
+  },
+  {
+    "question": "Порошки нечисты, поэтому бесполезны",
+    "answer": "The powders are impure therefore useless",
+    "tasks": ["powders", "impure", "therefore", "useless"]
+  },
+  {
+    "question": "Он плачет",
+    "answer": "He's weeping",
+    "tasks": ["weeping"]
+  },
+  {
+    "question": "Это признание его друга",
+    "answer": "It's his a friend’s confession",
+    "tasks": ["confession"]
+  },
+  {
+    "question": "Летающая тарелка",
+    "answer": "flying saucer",
+    "tasks": ["flying", "saucer"]
+  },
+  {
+    "question": "Дверь открывается внутрь",
+    "answer": "The door opens inwards",
+    "tasks": ["inwards"]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
     "question": "",
     "answer": "",
     "tasks": [""]
