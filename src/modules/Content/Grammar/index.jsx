@@ -5,7 +5,7 @@ import styles from './index.module.css';
 export const Grammar = ({ grammar }) => {
   const { src, layout } = grammar;
 
-  if (!src) {
+  if (!src?.length) {
     return <h1>Пока пусто</h1>;
   }
 
@@ -13,5 +13,11 @@ export const Grammar = ({ grammar }) => {
     [styles['image_vertical']]: layout === 'vertical',
   });
 
-  return <>{src && <img className={cnImage} src={src} alt="" />}</>;
+  return (
+    <>
+      {src.map((item) => (
+        <img key={item} className={cnImage} src={item} alt="" />
+      ))}
+    </>
+  );
 };

@@ -3,6 +3,7 @@
     max-width: 900px;
     display: block;
     object-fit: cover;
+    margin-bottom: 20px;
 }
 
 .image_vertical {

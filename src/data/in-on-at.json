@@ -132,7 +132,7 @@
     }
   ],
   "grammar": {
-    "src": "./grammar/in-on-at.webp",
+    "src": ["./grammar/in-on-at.webp"],
     "layout": "vertical"
   }
 }

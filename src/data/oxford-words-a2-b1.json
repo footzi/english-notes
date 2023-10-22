@@ -211,6 +211,111 @@
       "tasks": ["convince"]
     },
     {
+      "question": "Я быстро определил сорт овоща",
+      "answer": "I quickly defined a sort of vegetable",
+      "tasks": ["defined"]
+    },
+    {
+      "question": "Это определенно плохая идея",
+      "answer": "It's definitely a bad idea",
+      "tasks": ["definitely"]
+    },
+    {
+      "question": "Несмотря на погоду, мы собираемся гулять",
+      "answer": "Despite of weather, we're going to walk",
+      "tasks": ["Despite"]
+    },
+    {
+      "question": "Нам нужно определить причину ошибки",
+      "answer": "We need to determine the cause of the error",
+      "tasks": ["determine"]
+    },
+    {
+      "question": "Вам нужно приложить больше усилий",
+      "answer": "You need to do more effort",
+      "tasks": ["effort"]
+    },
+    {
+      "question": "Она меня смущает",
+      "answer": "She is embarrassed me",
+      "tasks": ["embarrassed"]
+    },
+    {
+      "question": "Мои родители часто поощряют меня",
+      "answer": "My parents often encourage me",
+      "tasks": ["encourage"]
+    },
+    {
+      "question": "Я редко развлекаюсь",
+      "answer": "I rarely entertain",
+      "tasks": ["entertain"]
+    },
+    {
+      "question": "Это существенная проблема",
+      "answer": "It's essential problem",
+      "tasks": ["essential"]
+    },
+    {
+      "question": "В конце концов я приготовил обед",
+      "answer": "Eventually , I cooked lunch",
+      "tasks": ["Eventually"]
+    },
+    {
+      "question": "Я был слишком взволнован",
+      "answer": "I was too excitement",
+      "tasks": ["excitement"]
+    },
+    {
+      "question": "Мы расширяем нашу компанию",
+      "answer": "We expand out company",
+      "tasks": ["expand"]
+    },
+    {
+      "question": "Она была очаровательна",
+      "answer": "She was fascinating",
+      "tasks": ["fascinating"]
+    },
+    {
+      "question": "Застегните ремень",
+      "answer": "Fasten your belt",
+      "tasks": ["fasten"]
+    },
+    {
+      "question": "Он прыгает через забор",
+      "answer": "He jumps through a fence",
+      "tasks": ["fence"]
+    },
+    {
+      "question": "Наводнение было страшным",
+      "answer": "The flood was scary",
+      "tasks": ["flood"]
+    },
+    {
+      "question": "Часто задаваемые вопросы",
+      "answer": "Frequently asked questions",
+      "tasks": ["frequently"]
+    },
+    {
+      "question": "Шерсть моей кошки где угодно",
+      "answer": "The fur of my cat is everywhere",
+      "tasks": ["fur"]
+    },
+    {
+      "question": "Дальше я пойду спать",
+      "answer": "Further, I'm going to sleep",
+      "tasks": ["Further"]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
       "question": "",
       "answer": "",
       "tasks": [""]
@@ -227,6 +332,6 @@
     }
   ],
   "grammar": {
-    "url": ""
+    "src": []
   }
 }

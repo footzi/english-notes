@@ -77,6 +77,6 @@
     }
   ],
   "grammar": {
-    "src": "./grammar/superlatives.webp"
+    "src": ["./grammar/superlatives.webp"]
   }
 }

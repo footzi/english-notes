@@ -102,6 +102,6 @@
     }
   ],
   "grammar": {
-    "src": "./grammar/comparatives.webp"
+    "src": ["./grammar/comparatives.webp"]
   }
 }

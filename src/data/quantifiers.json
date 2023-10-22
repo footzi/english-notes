@@ -49,9 +49,44 @@
       "question": "Мои волосы достаточно сухие",
       "answer": "My hair is dry enough",
       "tasks": ["dry", "enough"]
+    },
+    {
+      "question": "Я пью много молока",
+      "answer": "I drink a lot of milk",
+      "tasks": ["a", "lot", "of"]
+    },
+    {
+      "question": "Выпить немного красного вина может быть полезно",
+      "answer": "Drinking a little red wine can be good for you",
+      "tasks": ["a", "little"]
+    },
+    {
+      "question": "Я пью всего несколько банок Колы",
+      "answer": "I only have a few cans of Coke",
+      "tasks": ["a", "few"]
+    },
+    {
+      "question": "В холодильнике было мало еды. Там было почти пусто",
+      "answer": "There was little food in the fridge. It was nearly empty",
+      "tasks": ["little"]
+    },
+    {
+      "question": "Нам нужно сходить в магазин. Картошки осталось мало",
+      "answer": "We need to go to the shop. There are few potatoes left",
+      "tasks": ["few"]
+    },
+    {
+      "question": "Мне нужно немного сахара для торта.",
+      "answer": "I need a bit of sugar for the cake.",
+      "tasks": ["a", "bit"]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
     }
   ],
   "grammar": {
-    "src": "./grammar/quantifiers.webp"
+    "src": ["./grammar/quantifiers.webp", "./grammar/quantifiers-2.jpeg"]
   }
 }

@@ -115,24 +115,9 @@
     "tasks": ["keeps", "you", "awake"]
   },
   {
-    "question": "Я пью много молока",
-    "answer": "I drink a lot of milk",
-    "tasks": ["a", "lot", "of"]
-  },
-  {
-    "question": "Выпить немного красного вина может быть полезно",
-    "answer": "Drinking a little red wine can be good for you",
-    "tasks": ["a", "little"]
-  },
-  {
-    "question": "Я пью всего несколько банок Колы",
-    "answer": "I only have a few cans of Coke",
-    "tasks": ["a", "few"]
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Я не увлечен бегом",
+    "answer": "I'm not keen on running",
+    "tasks": ["keen", "on"]
   },
   {
     "question": "",
