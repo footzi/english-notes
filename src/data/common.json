@@ -115,7 +115,7 @@
     "tasks": ["keeps", "you", "awake"]
   },
   {
-    "question": "Я не увлечен бегом",
+    "question": "Я не очень люблю бегать",
     "answer": "I'm not keen on running",
     "tasks": ["keen", "on"]
   },

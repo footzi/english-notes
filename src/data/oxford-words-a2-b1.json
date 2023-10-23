@@ -278,7 +278,7 @@
     {
       "question": "Застегните ремень",
       "answer": "Fasten your belt",
-      "tasks": ["fasten"]
+      "tasks": ["Fasten"]
     },
     {
       "question": "Он прыгает через забор",
@@ -293,7 +293,7 @@
     {
       "question": "Часто задаваемые вопросы",
       "answer": "Frequently asked questions",
-      "tasks": ["frequently"]
+      "tasks": ["Frequently"]
     },
     {
       "question": "Шерсть моей кошки где угодно",
@@ -302,7 +302,7 @@
     },
     {
       "question": "Дальше я пойду спать",
-      "answer": "Further, I'm going to sleep",
+      "answer": "Further , I'm going to sleep",
       "tasks": ["Further"]
     },
     {
