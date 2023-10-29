@@ -101,8 +101,8 @@
   },
   {
     "question": "Получается вкусно",
-    "answer": "It's turned out delicious",
-    "tasks": ["It's", "turned", "out"]
+    "answer": "It turned out delicious",
+    "tasks": ["It", "turned", "out"]
   },
   {
     "question": "Я снижаю риск болезни",
@@ -110,7 +110,7 @@
     "tasks": ["reduce"]
   },
   {
-    "question": "Кофе не дает заснуть",
+    "question": "Кофе не дает вам заснуть",
     "answer": "Сoffee keeps you awake",
     "tasks": ["keeps", "you", "awake"]
   },
@@ -118,6 +118,181 @@
     "question": "Я не очень люблю бегать",
     "answer": "I'm not keen on running",
     "tasks": ["keen", "on"]
+  },
+  {
+    "question": "Давай, не отставай",
+    "answer": "Come on, keep up",
+    "tasks": ["Come", "on", "keep", "up"]
+  },
+  {
+    "question": "Я в хорошей форме",
+    "answer": "I'm in good shape",
+    "tasks": ["in", "good", "shape"]
+  },
+  {
+    "question": "Я поддерживаю форму",
+    "answer": "I keep fit",
+    "tasks": ["keep", "fit"]
+  },
+  {
+    "question": "Я останусь здесь еще на 3 недели",
+    "answer": "I stay here for another 3 weeks",
+    "tasks": ["for", "another"]
+  },
+  {
+    "question": "Почему бы тебе не купить ей цветы?",
+    "answer": "Why don't you buy her some flowers?",
+    "tasks": ["Why", "don't", "you"]
+  },
+  {
+    "question": "79c",
+    "answer": "seventy-nine cents",
+    "tasks": ["seventy-nine", "cents"]
+  },
+  {
+    "question": "$30.49",
+    "answer": "thirty dollars forty-nine",
+    "tasks": ["thirty", "dollars", "forty-nine"]
+  },
+  {
+    "question": "59p",
+    "answer": "fifty-nine pence",
+    "tasks": ["fifty-nine", "pence"]
+  },
+  {
+    "question": "€10.55",
+    "answer": "ten euros fifty-five",
+    "tasks": ["ten", "euros", "fifty-five"]
+  },
+  {
+    "question": "£3.27",
+    "answer": "three pounds twenty-seven",
+    "tasks": ["three", "pounds", "twenty-seven"]
+  },
+  {
+    "question": "Примерь эту футболку",
+    "answer": "Try on this t-short",
+    "tasks": ["Try", "on"]
+  },
+  {
+    "question": "Можем ли мы сделать это немного позже?",
+    "answer": "Сan we make it a bit later ?",
+    "tasks": ["Сan", "we", "make", "it", "a", "bit", "later"]
+  },
+  {
+    "question": "Ты знаешь, собрания",
+    "answer": "You know, meetings",
+    "tasks": ["You", "know  "]
+  },
+  {
+    "question": "Давай сделаем это в 7",
+    "answer": "Let's make it seven",
+    "tasks": ["Let's", "make", "it"]
+  },
+  {
+    "question": "Он часто хвалит своего ребенка",
+    "answer": "He often praise his child",
+    "tasks": ["praise"]
+  },
+  {
+    "question": "У тебя был хороший день?",
+    "answer": "Have you had a good day ?",
+    "tasks": ["Have", "you", "had", "a", "good", "day"]
+  },
+  {
+    "question": "А ты?",
+    "answer": "What about you ?",
+    "tasks": ["What", "about", "you"]
+  },
+  {
+    "question": "В какое время?",
+    "answer": "What time ?",
+    "tasks": ["What", "time"]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
   },
   {
     "question": "",
