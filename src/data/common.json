@@ -150,11 +150,6 @@
     "tasks": ["seventy-nine", "cents"]
   },
   {
-    "question": "$30.49",
-    "answer": "thirty dollars forty-nine",
-    "tasks": ["thirty", "dollars", "forty-nine"]
-  },
-  {
     "question": "59p",
     "answer": "fifty-nine pence",
     "tasks": ["fifty-nine", "pence"]
@@ -181,8 +176,8 @@
   },
   {
     "question": "Ты знаешь, собрания",
-    "answer": "You know, meetings",
-    "tasks": ["You", "know  "]
+    "answer": "You know , meetings",
+    "tasks": ["You", "know"]
   },
   {
     "question": "Давай сделаем это в 7",
