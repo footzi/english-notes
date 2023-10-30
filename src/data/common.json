@@ -210,8 +210,8 @@
     "tasks": ["What", "time"]
   },
   {
-    "question": "Will it work for you",
-    "answer": "Подойдет ли это вам?",
+    "question": "Подойдет ли это вам?",
+    "answer": "Will it work for you ?",
     "tasks": ["Will", "it", "work", "for", "you"]
   },
   {
