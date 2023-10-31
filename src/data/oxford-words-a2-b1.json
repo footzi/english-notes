@@ -306,6 +306,206 @@
       "tasks": ["Further"]
     },
     {
+      "question": "Он сложил футболку",
+      "answer": "He folded his T-short",
+      "tasks": ["folded"]
+    },
+    {
+      "question": "Она попросила всех собраться",
+      "answer": "She asked everyone to gather",
+      "tasks": ["gather"]
+    },
+    {
+      "question": "Мои школьные оценки были ужасными",
+      "answer": "My school grades were awful",
+      "tasks": ["grades"]
+    },
+    {
+      "question": "Я закончил экономический университет",
+      "answer": "I graduated from the economic university",
+      "tasks": ["graduated"]
+    },
+    {
+      "question": "Он был виновен в убийстве",
+      "answer": "He was guilty of the murder",
+      "tasks": ["guilty"]
+    },
+    {
+      "question": "Я обычно не вешаю платье",
+      "answer": "I usually don't hang dress",
+      "tasks": ["hang"]
+    },
+    {
+      "question": "Мы не используем отопление в нашем доме",
+      "answer": "We don't use heating in our house",
+      "tasks": ["heating"]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
       "question": "",
       "answer": "",
       "tasks": [""]

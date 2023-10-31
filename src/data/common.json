@@ -186,8 +186,8 @@
   },
   {
     "question": "Он часто хвалит своего ребенка",
-    "answer": "He often praise his child",
-    "tasks": ["praise"]
+    "answer": "He often praises his child",
+    "tasks": ["praises"]
   },
   {
     "question": "У тебя был хороший день?",
@@ -205,9 +205,114 @@
     "tasks": ["What", "time"]
   },
   {
-    "question": "Подойдет ли это вам?",
+    "question": "Подойдет ли это вам? (Про время)",
     "answer": "Will it work for you ?",
     "tasks": ["Will", "it", "work", "for", "you"]
+  },
+  {
+    "question": "Я бы с удовольствием приготовил завтрак для тебя",
+    "answer": "I would love to cook breakfast for you",
+    "tasks": ["I", "would", "love", "to", "cook"]
+  },
+  {
+    "question": "Ой, извини, продолжай",
+    "answer": "Oh sorry , go on",
+    "tasks": ["sorry", "go", "on"]
+  },
+  {
+    "question": "Мне кажется, моя собака толстая",
+    "answer": "It seems to me my dog is fat",
+    "tasks": ["It", "seems", "to", "me"]
+  },
+  {
+    "question": "Он занял у меня деньги",
+    "answer": "He borrowed money from me",
+    "tasks": ["borrowed", "money", "from", "me"]
+  },
+  {
+    "question": "Я одалживаю ему деньги",
+    "answer": "I lend money to him",
+    "tasks": ["lend", "money", "to", "him"]
+  },
+  {
+    "question": "Я обычно теряю ключи",
+    "answer": "I usually lose my keys",
+    "tasks": ["lose"]
+  },
+  {
+    "question": "Я сдал экзамен",
+    "answer": "I passed on exam",
+    "tasks": ["passed", "on"]
+  },
+  {
+    "question": "Я провалил экзамен",
+    "answer": "I failed on exam",
+    "tasks": ["failed", "on"]
+  },
+  {
+    "question": "Я приеду в 6",
+    "answer": "I'll arrive at 6",
+    "tasks": ["I'll", "arrive", "at"]
+  },
+  {
+    "question": "Я уйду в 10",
+    "answer": "I'll leave at 10",
+    "tasks": ["I'll", "leave", "at"]
+  },
+  {
+    "question": "Я починю твои очки",
+    "answer": "I'll mend your glasses",
+    "tasks": ["I'll", "mend"]
+  },
+  {
+    "question": "Если побежим, то успеем на поезд в 6.14",
+    "answer": "If we run, we can catch the 6.14 train",
+    "tasks": ["catch"]
+  },
+  {
+    "question": "Если не побежим, то опоздаем на поезд в 5",
+    "answer": "If we don't run, we miss the 5 train",
+    "tasks": ["miss"]
+  },
+  {
+    "question": "Я собираюсь на станцию забрать Тима",
+    "answer": "I'm going to station to pick up Tim",
+    "tasks": ["pick", "up"]
+  },
+  {
+    "question": "Я собираюсь на станцию высадить Тима",
+    "answer": "I'm going to station to drop off Tim",
+    "tasks": ["drop", "off"]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
   },
   {
     "question": "",
