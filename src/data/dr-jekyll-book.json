@@ -71,7 +71,7 @@
   },
   {
     "question": "Он предстанет перед судом",
-    "answer": "He will to trial",
+    "answer": "He will face trial",
     "tasks": ["trial"]
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "question": "Он кивнул ему",
-    "answer": "He nodded him",
+    "answer": "He nodded at him",
     "tasks": ["nodded"]
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "question": "Это признание его друга",
-    "answer": "It's his a friend’s confession",
+    "answer": "It's his friend’s confession",
     "tasks": ["confession"]
   },
   {
@@ -165,33 +165,43 @@
     "tasks": ["inwards"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Мне было стыдно за его поведение",
+    "answer": "I was ashamed of his behavior",
+    "tasks": ["was", "ashamed", "of"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Он безответственный человек",
+    "answer": "He's an irresponsible man",
+    "tasks": ["irresponsible"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Это был изумительный опыт",
+    "answer": "It was amused experience",
+    "tasks": ["was", "amused"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Он изумил ее",
+    "answer": "He amused her",
+    "tasks": ["amused"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Я в страшной опасности",
+    "answer": "I'm in fearful danger",
+    "tasks": ["in", "fearful"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Не подведи его",
+    "answer": "Not fail him",
+    "tasks": ["Not", "fail"]
+  },
+  {
+    "question": "Я был весьма удивлен ",
+    "answer": "I was rather surprised",
+    "tasks": ["rather"]
+  },
+  {
+    "question": "Он пристально посмотрел на меня",
+    "answer": "He looked sharply at me",
+    "tasks": ["looked", "sharply", "at"]
   }
 ]

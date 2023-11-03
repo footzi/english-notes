@@ -222,7 +222,7 @@
     },
     {
       "question": "Несмотря на погоду, мы собираемся гулять",
-      "answer": "Despite of weather, we're going to walk",
+      "answer": "Despite the weather, we're going to walk",
       "tasks": ["Despite"]
     },
     {
@@ -232,12 +232,12 @@
     },
     {
       "question": "Вам нужно приложить больше усилий",
-      "answer": "You need to do more effort",
-      "tasks": ["effort"]
+      "answer": "You need to put in more effort",
+      "tasks": ["to", "put", "in", "effort"]
     },
     {
       "question": "Она меня смущает",
-      "answer": "She is embarrassed me",
+      "answer": "She embarrasses me",
       "tasks": ["embarrassed"]
     },
     {
@@ -252,7 +252,7 @@
     },
     {
       "question": "Это существенная проблема",
-      "answer": "It's essential problem",
+      "answer": "It's an essential problem",
       "tasks": ["essential"]
     },
     {
@@ -261,13 +261,13 @@
       "tasks": ["Eventually"]
     },
     {
-      "question": "Я был слишком взволнован",
-      "answer": "I was too excitement",
-      "tasks": ["excitement"]
+      "question": "Мое волнение смутило его",
+      "answer": "My excitement embarrassed him",
+      "tasks": ["excitement", "embarrassed"]
     },
     {
       "question": "Мы расширяем нашу компанию",
-      "answer": "We expand out company",
+      "answer": "We expand our company",
       "tasks": ["expand"]
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "question": "Он прыгает через забор",
-      "answer": "He jumps through a fence",
+      "answer": "He jumps over a fence",
       "tasks": ["fence"]
     },
     {

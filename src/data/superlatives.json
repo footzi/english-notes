@@ -2,7 +2,7 @@
   "sentences": [
     {
       "question": "Он самый грубый человек, которого я когда-либо встречал",
-      "answer": "He's rudest person I've ever met",
+      "answer": "He's the rudest person I've ever met",
       "tasks": ["rudest", "I've", "ever", "met"]
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "question": "Кто твой самый скромный друг?",
-      "answer": "Who's your shiest friend?",
+      "answer": "Who's your shyest friend?",
       "tasks": ["shiest"]
     },
     {
       "question": "Какой самый опасный поступок ты когда-либо совершала?",
-      "answer": "What's the most dangerous things You've ever done ?",
+      "answer": "What's the most dangerous thing You've ever done ?",
       "tasks": ["the", "most", "dangerous"]
     },
     {

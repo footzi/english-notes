@@ -285,9 +285,9 @@
     "tasks": ["drop", "off"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Она попросила его приготовить ужин",
+    "answer": "She asked him for cook dinner",
+    "tasks": ["asked", "for"]
   },
   {
     "question": "",
