@@ -290,29 +290,29 @@
     "tasks": ["asked", "for"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Я сомневаюсь в этом",
+    "answer": "I doubt it",
+    "tasks": ["I", "doubt", "it"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Этот фильм был отстой",
+    "answer": "This film was suck",
+    "tasks": ["suck"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "айфон прослужит много времени",
+    "answer": "iPhone will serve a lot of time",
+    "tasks": ["serve"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Я обычно побеждаю в шахматах",
+    "answer": "I usually defeat at chess",
+    "tasks": ["defeat"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Я ем обычный хлеб",
+    "answer": "I eat usual bread",
+    "tasks": ["usual"]
   },
   {
     "question": "",
