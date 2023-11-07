@@ -172,7 +172,7 @@
   {
     "question": "Он безответственный человек",
     "answer": "He's an irresponsible man",
-    "tasks": ["irresponsible"]
+    "tasks": ["an", "irresponsible"]
   },
   {
     "question": "Это был изумительный опыт",
@@ -187,7 +187,7 @@
   {
     "question": "Я в страшной опасности",
     "answer": "I'm in fearful danger",
-    "tasks": ["in", "fearful"]
+    "tasks": ["in", "fearful", "danger"]
   },
   {
     "question": "Не подведи его",

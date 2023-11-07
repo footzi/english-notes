@@ -158,7 +158,7 @@
     {
       "question": "Она уверена в своей презентации",
       "answer": "She feels confident about her presentation",
-      "tasks": ["confident"]
+      "tasks": ["feels", "confident"]
     },
     {
       "question": "Эта инструкция может запутать кого угодно",
@@ -233,12 +233,12 @@
     {
       "question": "Вам нужно приложить больше усилий",
       "answer": "You need to put in more effort",
-      "tasks": ["to", "put", "in", "effort"]
+      "tasks": ["to", "put", "in", "more", "effort"]
     },
     {
       "question": "Она меня смущает",
       "answer": "She embarrasses me",
-      "tasks": ["embarrassed"]
+      "tasks": ["embarrasses"]
     },
     {
       "question": "Мои родители часто поощряют меня",

@@ -171,8 +171,8 @@
   },
   {
     "question": "Можем ли мы сделать это немного позже?",
-    "answer": "Сan we make it a bit later ?",
-    "tasks": ["Сan", "we", "make", "it", "a", "bit", "later"]
+    "answer": "Can we make it a bit later ?",
+    "tasks": ["Can", "we", "make", "it", "a", "bit", "later"]
   },
   {
     "question": "Ты знаешь, собрания",
