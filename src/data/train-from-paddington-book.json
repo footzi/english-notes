@@ -1,0 +1,217 @@
+{
+  "sentences": [
+    {
+      "question": "Она хрупкая женщина",
+      "answer": "She's a fragile woman",
+      "tasks": ["fragile"]
+    },
+    {
+      "question": "Я не буду душить женщину",
+      "answer": "I won’t strangle a woman",
+      "tasks": ["strangle"]
+    },
+    {
+      "question": "Свидетель не хочет говорить",
+      "answer": "A witness doesn't want to speak",
+      "tasks": ["witness"]
+    },
+    {
+      "question": "Убийца избавился от трупа",
+      "answer": "The murderer got rid of the corpse",
+      "tasks": ["got", "rid", "of", "corpse"]
+    },
+    {
+      "question": "Книга выскользнула из моих рук",
+      "answer": "The book slipped from my hands",
+      "tasks": ["slipped"]
+    },
+    {
+      "question": "Она ахнула, ее вздох был громким",
+      "answer": "She gasped , her gasp was loud",
+      "tasks": ["gasped", "gasp"]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    }
+  ],
+  "grammar": {
+    "src": []
+  }
+}
