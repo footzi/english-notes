@@ -1,0 +1,31 @@
+.container {
+    padding: 12px 12px 12px 24px;
+}
+
+.list {
+    list-style-type: circle;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+}
+
+.list-item {
+    border-bottom: 1px solid var(--grey-color);
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+}
+
+.example-list {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    column-gap: 8px;
+    margin-top: 12px;
+}
+
+.example-item {
+    display: flex;
+    align-items: center;
+}

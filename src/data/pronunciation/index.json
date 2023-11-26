@@ -1,0 +1,144 @@
+[
+  {
+    "name": "/ɪə/",
+    "sound": "./pronunciation/ɪə.m4a",
+    "description": "ИЭ",
+    "examples": [
+      {
+        "name": "hear",
+        "sound": "./pronunciation/hear.m4a"
+      },
+      {
+        "name": "near",
+        "sound": "./pronunciation/near.m4a"
+      }
+    ]
+  },
+  {
+    "name": "/ʊə/",
+    "sound": "./pronunciation/ʊə.m4a",
+    "description": "УЭ",
+    "examples": [
+      {
+        "name": "tour",
+        "sound": "./pronunciation/tour.m4a"
+      },
+      {
+        "name": "cure",
+        "sound": "./pronunciation/cure.m4a"
+      },
+      {
+        "name": "pour"
+      }
+    ]
+  },
+  {
+    "name": "/aɪ/",
+    "sound": "./pronunciation/aɪ.m4a",
+    "description": "АЙ",
+    "examples": [
+      {
+        "name": "price"
+      },
+      {
+        "name": "high"
+      },
+      {
+        "name": "try"
+      }
+    ]
+  },
+  {
+    "name": "/ɔɪ/",
+    "sound": "./pronunciation/ɔɪ.m4a",
+    "description": "ОИ",
+    "examples": [
+      {
+        "name": "choice"
+      },
+      {
+        "name": "noise"
+      },
+      {
+        "name": "boy"
+      }
+    ]
+  },
+  {
+    "name": "/əʊ/",
+    "sound": "./pronunciation/əʊ.m4a",
+    "description": "ОУ",
+    "examples": [
+      {
+        "name": "boat"
+      },
+      {
+        "name": "show"
+      },
+      {
+        "name": "know"
+      }
+    ]
+  },
+  {
+    "name": "/eə/",
+    "sound": "./pronunciation/eə.m4a",
+    "description": "ЭА",
+    "examples": [
+      {
+        "name": "square"
+      },
+      {
+        "name": "fair"
+      },
+      {
+        "name": "pair"
+      }
+    ]
+  },
+  {
+    "name": "/aʊ/",
+    "sound": "./pronunciation/aʊ.m4a",
+    "description": "АУ",
+    "examples": [
+      {
+        "name": "now"
+      },
+      {
+        "name": "fowl"
+      }
+    ]
+  },
+  {
+    "name": "/eɪ/",
+    "sound": "./pronunciation/eɪ.m4a",
+    "description": "",
+    "examples": [
+      {
+        "name": "face"
+      },
+      {
+        "name": "day"
+      },
+      {
+        "name": "break"
+      }
+    ]
+  },
+  {
+    "name": "//",
+    "sound": "./pronunciation/.m4a",
+    "description": "",
+    "examples": [
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      }
+    ]
+  }
+]

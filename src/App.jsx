@@ -1,26 +1,19 @@
-import React, { useState } from 'react';
-import { Categories } from './modules/Categories';
-import { Content } from './modules/Content';
-import { getData } from './data';
-import styles from './index.module.css';
+import React from 'react';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { CategoriesPage } from './pages/Categories/index.jsx';
+import { PronunciationPage } from './pages/Pronunciation/index.jsx';
+
+const router = createBrowserRouter([
+  {
+    path: '/',
+    element: <CategoriesPage />,
+  },
+  {
+    path: '/pronunciation',
+    element: <PronunciationPage />,
+  },
+]);
 
 export const App = () => {
-  const data = getData();
-  const [activeCategory, setActiveCategory] = useState(data.categories[0]);
-
-  const handleActiveCategory = (id) =>
-    setActiveCategory(() => {
-      return data.categories.find((category) => category.id === id);
-    });
-
-  return (
-    <div className={styles.container}>
-      <Categories
-        categories={data.categories}
-        activeCategory={activeCategory}
-        onChangeCategory={handleActiveCategory}
-      />
-      <Content data={activeCategory} />
-    </div>
-  );
+  return <RouterProvider router={router} />;
 };

@@ -390,6 +390,131 @@
     "tasks": ["judgment"]
   },
   {
+    "question": "Это идет не так",
+    "answer": "It goes wrong",
+    "tasks": ["goes", "wrong"]
+  },
+  {
+    "question": "Мне срочно нужно это фото",
+    "answer": "I need that photo urgently",
+    "tasks": ["urgently"]
+  },
+  {
+    "question": "Мне приготовить тебе сэндвич? (Offer)",
+    "answer": "Shall I make you a sandwich?",
+    "tasks": ["Shall", "I", "make"]
+  },
+  {
+    "question": "Мы мгновенно испугались",
+    "answer": "We were instantly scared",
+    "tasks": ["instantly"]
+  },
+  {
+    "question": "Мы не обнимались",
+    "answer": "We didn't hug",
+    "tasks": ["hug"]
+  },
+  {
+    "question": "Завтра отец отвезет меня домой",
+    "answer": "My father will take me home tomorrow",
+    "tasks": ["take", "me", "home"]
+  },
+  {
+    "question": "Они поменялись номерами телефонов",
+    "answer": "They swapped phone numbers",
+    "tasks": ["swapped"]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
     "question": "",
     "answer": "",
     "tasks": [""]
