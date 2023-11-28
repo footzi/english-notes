@@ -425,14 +425,14 @@
     "tasks": ["swapped"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Я перезвоню тебе через 15 минут",
+    "answer": "I'll call you back in 15 minutes",
+    "tasks": ["call", "you", "back"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Я верну тебе деньги на следующей неделе",
+    "answer": "I'll pay you back next week",
+    "tasks": ["pay", "you", "back"]
   },
   {
     "question": "",
