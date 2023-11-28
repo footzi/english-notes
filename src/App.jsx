@@ -1,9 +1,9 @@
 import React from 'react';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createHashRouter, RouterProvider } from 'react-router-dom';
 import { CategoriesPage } from './pages/Categories/index.jsx';
 import { PronunciationPage } from './pages/Pronunciation/index.jsx';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: '/',
     element: <CategoriesPage />,

@@ -1,4 +1,4 @@
-.list {
+.navigation {
     position: fixed;
     width: 200px;
     padding: 12px;
@@ -8,10 +8,17 @@
     border-right: 1px solid var(--grey-color);
     height: 100%;
     z-index: 1;
+    justify-content: space-between;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
 }
 
 @media (max-width: 600px) {
-    .list {
+    .navigation {
         width: 100%;
         height: auto;
         display: flex;
@@ -22,7 +29,14 @@
         background-color: var(--background-color);
         box-shadow: 0 3px 6px rgba(0, 0, 0, 0.05);
     }
+
+    .list {
+        display: flex;
+        flex-direction: row;
+        column-gap: 16px;
+    }
 }
+
 
 .button {
     transition: 0.3s opacity;
