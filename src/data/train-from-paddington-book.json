@@ -96,44 +96,44 @@
       "tasks": ["pick", "up"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Этот куст роз прекрасен",
+      "answer": "This rose bush is amazing",
+      "tasks": ["bush"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "он бледен",
+      "answer": "He is pale",
+      "tasks": ["pale"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Шерсть (мех) кошки мягкая",
+      "answer": "The cat`s fur is soft",
+      "tasks": ["fur"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Крутой склон",
+      "answer": "This is the steep slope",
+      "tasks": ["the", "steep", "slope"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Я потеряла мою пудреницу",
+      "answer": "I missed my powder compact",
+      "tasks": ["powder", "compact"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Это трудный путь",
+      "answer": "This is a rough path",
+      "tasks": ["rough", "path"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Вдохновленный Люси, я сделал домашнее задание.",
+      "answer": "Encouraged by Lucy, I did my homework",
+      "tasks": ["Encouraged", "by"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Это срочная задача",
+      "answer": "It's urgent task",
+      "tasks": ["urgent"]
     },
     {
       "question": "",
