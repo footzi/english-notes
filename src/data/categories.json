@@ -12,30 +12,6 @@
     "name": "⏰ Времена"
   },
   {
-    "id": "trainFromPaddingtonBook",
-    "name": "📓 Книга 4:50 from Paddington"
-  },
-  {
-    "id": "drJekyllBook",
-    "name": "📓 Книга Dr. Jekyll and Mr.Hide"
-  },
-  {
-    "id": "inOnAt",
-    "name": "in/on/at"
-  },
-  {
-    "id": "numbers",
-    "name": "🔢 Числа"
-  },
-  {
-    "id": "interview",
-    "name": "Собеседования"
-  },
-  {
-    "id": "traits",
-    "name": "Черты характера"
-  },
-  {
     "id": "irregularVerbs",
     "name": "Неправильные глаголы"
   },
@@ -50,5 +26,29 @@
   {
     "id": "quantifiers",
     "name": "Количественные местоимения"
+  },
+  {
+    "id": "inOnAt",
+    "name": "in/on/at"
+  },
+  {
+    "id": "numbers",
+    "name": "🔢 Числа"
+  },
+  {
+    "id": "trainFromPaddingtonBook",
+    "name": "📓 Книга 4:50 from Paddington"
+  },
+  {
+    "id": "drJekyllBook",
+    "name": "📓 Книга Dr. Jekyll and Mr.Hide"
+  },
+  {
+    "id": "interview",
+    "name": "Собеседования"
+  },
+  {
+    "id": "traits",
+    "name": "Черты характера"
   }
 ]

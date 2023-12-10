@@ -1,12 +1,17 @@
-[
-  {
-    "question": "Трясти, встряхивать",
-    "answer": "shake shook shaken",
-    "tasks": ["shake", "shook", "shaken"]
+{
+  "grammar": {
+    "src": ["./grammar/irregular-verbs.webp"]
   },
-  {
-    "question": "Вести за собой",
-    "answer": "lead led led",
-    "tasks": ["lead", "led", "led"]
-  }
-]
+  "sentences": [
+    {
+      "question": "Трясти, встряхивать",
+      "answer": "shake shook shaken",
+      "tasks": ["shake", "shook", "shaken"]
+    },
+    {
+      "question": "Вести за собой",
+      "answer": "lead led led",
+      "tasks": ["lead", "led", "led"]
+    }
+  ]
+}
