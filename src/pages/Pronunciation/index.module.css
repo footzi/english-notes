@@ -2,8 +2,19 @@
     padding: 12px 12px 12px 24px;
 }
 
+.list-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.item-wrapper {
+    padding-right: 8px;
+    padding-left: 8px;
+    border-right: 1px solid var(--grey-color);
+}
+
 .list {
-    list-style-type: circle;
+    margin-top: 8px;
 }
 
 .item {
@@ -28,4 +39,11 @@
 .example-item {
     display: flex;
     align-items: center;
+}
+
+
+@media (max-width: 600px) {
+    .list-wrapper {
+        display: block;
+    }
 }

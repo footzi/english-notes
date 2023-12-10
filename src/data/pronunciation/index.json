@@ -1,144 +1,478 @@
-[
-  {
-    "name": "/ɪə/",
-    "sound": "./pronunciation/ɪə.m4a",
-    "description": "ИЭ",
-    "examples": [
-      {
-        "name": "hear",
-        "sound": "./pronunciation/hear.m4a"
-      },
-      {
-        "name": "near",
-        "sound": "./pronunciation/near.m4a"
-      }
-    ]
-  },
-  {
-    "name": "/ʊə/",
-    "sound": "./pronunciation/ʊə.m4a",
-    "description": "УЭ",
-    "examples": [
-      {
-        "name": "tour",
-        "sound": "./pronunciation/tour.m4a"
-      },
-      {
-        "name": "cure",
-        "sound": "./pronunciation/cure.m4a"
-      },
-      {
-        "name": "pour"
-      }
-    ]
-  },
-  {
-    "name": "/aɪ/",
-    "sound": "./pronunciation/aɪ.m4a",
-    "description": "АЙ",
-    "examples": [
-      {
-        "name": "price"
-      },
-      {
-        "name": "high"
-      },
-      {
-        "name": "try"
-      }
-    ]
-  },
-  {
-    "name": "/ɔɪ/",
-    "sound": "./pronunciation/ɔɪ.m4a",
-    "description": "ОИ",
-    "examples": [
-      {
-        "name": "choice"
-      },
-      {
-        "name": "noise"
-      },
-      {
-        "name": "boy"
-      }
-    ]
-  },
-  {
-    "name": "/əʊ/",
-    "sound": "./pronunciation/əʊ.m4a",
-    "description": "ОУ",
-    "examples": [
-      {
-        "name": "boat"
-      },
-      {
-        "name": "show"
-      },
-      {
-        "name": "know"
-      }
-    ]
-  },
-  {
-    "name": "/eə/",
-    "sound": "./pronunciation/eə.m4a",
-    "description": "ЭА",
-    "examples": [
-      {
-        "name": "square"
-      },
-      {
-        "name": "fair"
-      },
-      {
-        "name": "pair"
-      }
-    ]
-  },
-  {
-    "name": "/aʊ/",
-    "sound": "./pronunciation/aʊ.m4a",
-    "description": "АУ",
-    "examples": [
-      {
-        "name": "now"
-      },
-      {
-        "name": "fowl"
-      }
-    ]
-  },
-  {
-    "name": "/eɪ/",
-    "sound": "./pronunciation/eɪ.m4a",
-    "description": "",
-    "examples": [
-      {
-        "name": "face"
-      },
-      {
-        "name": "day"
-      },
-      {
-        "name": "break"
-      }
-    ]
-  },
-  {
-    "name": "//",
-    "sound": "./pronunciation/.m4a",
-    "description": "",
-    "examples": [
-      {
-        "name": ""
-      },
-      {
-        "name": ""
-      },
-      {
-        "name": ""
-      }
-    ]
-  }
-]
+{
+  "groups": [
+    {
+      "id": 1,
+      "name": "Diphthongs"
+    },
+    {
+      "id": 2,
+      "name": "Voiceless Consonants (Глухие согласные)"
+    },
+    {
+      "id": 3,
+      "name": "Voiced Consonants (Звонкие согласные)"
+    }
+  ],
+  "values": [
+    {
+      "name": "/ɪə/",
+      "sound": "./pronunciation/ɪə.m4a",
+      "description": "ИЭ",
+      "groupId": 1,
+      "examples": [
+        {
+          "name": "hear"
+        },
+        {
+          "name": "near"
+        }
+      ]
+    },
+    {
+      "name": "/ʊə/",
+      "sound": "./pronunciation/ʊə.m4a",
+      "description": "УЭ",
+      "groupId": 1,
+      "examples": [
+        {
+          "name": "tour"
+        },
+        {
+          "name": "cure"
+        },
+        {
+          "name": "pour"
+        }
+      ]
+    },
+    {
+      "name": "/aɪ/",
+      "sound": "./pronunciation/aɪ.m4a",
+      "description": "АЙ",
+      "groupId": 1,
+      "examples": [
+        {
+          "name": "price"
+        },
+        {
+          "name": "high"
+        },
+        {
+          "name": "try"
+        }
+      ]
+    },
+    {
+      "name": "/ɔɪ/",
+      "sound": "./pronunciation/ɔɪ.m4a",
+      "description": "ОИ",
+      "groupId": 1,
+      "examples": [
+        {
+          "name": "choice"
+        },
+        {
+          "name": "noise"
+        },
+        {
+          "name": "boy"
+        }
+      ]
+    },
+    {
+      "name": "/əʊ/",
+      "sound": "./pronunciation/əʊ.m4a",
+      "description": "ОУ",
+      "groupId": 1,
+      "examples": [
+        {
+          "name": "boat"
+        },
+        {
+          "name": "show"
+        },
+        {
+          "name": "know"
+        }
+      ]
+    },
+    {
+      "name": "/eə/",
+      "sound": "./pronunciation/eə.m4a",
+      "description": "ЭА",
+      "groupId": 1,
+      "examples": [
+        {
+          "name": "square"
+        },
+        {
+          "name": "fair"
+        },
+        {
+          "name": "pair"
+        }
+      ]
+    },
+    {
+      "name": "/aʊ/",
+      "sound": "./pronunciation/aʊ.m4a",
+      "description": "АУ",
+      "groupId": 1,
+      "examples": [
+        {
+          "name": "now"
+        },
+        {
+          "name": "fowl"
+        }
+      ]
+    },
+    {
+      "name": "/eɪ/",
+      "sound": "./pronunciation/eɪ.m4a",
+      "description": "",
+      "groupId": 1,
+      "examples": [
+        {
+          "name": "face"
+        },
+        {
+          "name": "day"
+        },
+        {
+          "name": "break"
+        }
+      ]
+    },
+    {
+      "name": "/p/",
+      "sound": "./pronunciation/p.m4a",
+      "description": "П",
+      "groupId": 2,
+      "examples": [
+        {
+          "name": "pan"
+        },
+        {
+          "name": "happen"
+        },
+        {
+          "name": "hop"
+        }
+      ]
+    },
+    {
+      "name": "/t/",
+      "sound": "./pronunciation/t.m4a",
+      "description": "Т",
+      "groupId": 2,
+      "examples": [
+        {
+          "name": "tin"
+        },
+        {
+          "name": "button"
+        },
+        {
+          "name": "get"
+        }
+      ]
+    },
+    {
+      "name": "/tʃ/",
+      "sound": "./pronunciation/tʃ.m4a",
+      "description": "Ч",
+      "groupId": 2,
+      "examples": [
+        {
+          "name": "choke"
+        },
+        {
+          "name": "teacher"
+        },
+        {
+          "name": "match"
+        },
+        {
+          "name": "church"
+        }
+      ]
+    },
+    {
+      "name": "/k/",
+      "sound": "./pronunciation/k.m4a",
+      "description": "K",
+      "groupId": 2,
+      "examples": [
+        {
+          "name": "came"
+        },
+        {
+          "name": "lucky"
+        },
+        {
+          "name": "sick"
+        },
+        {
+          "name": "clock"
+        }
+      ]
+    },
+    {
+      "name": "/f/",
+      "sound": "./pronunciation/f.m4a",
+      "description": "Ф",
+      "groupId": 2,
+      "examples": [
+        {
+          "name": "fat"
+        },
+        {
+          "name": "coffee"
+        },
+        {
+          "name": "rough"
+        },
+        {
+          "name": "fluff"
+        }
+      ]
+    },
+    {
+      "name": "/θ/",
+      "sound": "./pronunciation/θ.m4a",
+      "description": "TH",
+      "groupId": 2,
+      "examples": [
+        {
+          "name": "thin"
+        },
+        {
+          "name": "throw"
+        },
+        {
+          "name": "thumb"
+        },
+        {
+          "name": "healthy"
+        },
+        {
+          "name": "birth"
+        }
+      ]
+    },
+    {
+      "name": "/s/",
+      "sound": "./pronunciation/s.m4a",
+      "description": "C",
+      "groupId": 2,
+      "examples": [
+        {
+          "name": "soon"
+        },
+        {
+          "name": "mister"
+        },
+        {
+          "name": "hiss"
+        },
+        {
+          "name": "cease"
+        }
+      ]
+    },
+    {
+      "name": "/ʃ/",
+      "sound": "./pronunciation/ʃ.m4a",
+      "description": "Ш",
+      "groupId": 2,
+      "examples": [
+        {
+          "name": "ship"
+        },
+        {
+          "name": "sure"
+        },
+        {
+          "name": "nation"
+        },
+        {
+          "name": "fish"
+        }
+      ]
+    },
+    {
+      "name": "/b/",
+      "sound": "./pronunciation/b.m4a",
+      "description": "Б",
+      "groupId": 3,
+      "examples": [
+        {
+          "name": "back"
+        },
+        {
+          "name": "habit"
+        },
+        {
+          "name": "bob"
+        }
+      ]
+    },
+    {
+      "name": "/d/",
+      "sound": "./pronunciation/d.m4a",
+      "description": "Д",
+      "groupId": 3,
+      "examples": [
+        {
+          "name": "dame"
+        },
+        {
+          "name": "ladder"
+        },
+        {
+          "name": "odd"
+        },
+        {
+          "name": "did"
+        }
+      ]
+    },
+    {
+      "name": "/dʒ/",
+      "sound": "./pronunciation/dʒ.m4a",
+      "description": "ДЖ",
+      "groupId": 3,
+      "examples": [
+        {
+          "name": "joke"
+        },
+        {
+          "name": "lodger"
+        },
+        {
+          "name": "bridge"
+        },
+        {
+          "name": "judge"
+        }
+      ]
+    },
+    {
+      "name": "/ɡ/",
+      "sound": "./pronunciation/ɡ.m4a",
+      "description": "Г",
+      "groupId": 3,
+      "examples": [
+        {
+          "name": "glue"
+        },
+        {
+          "name": "struggle"
+        },
+        {
+          "name": "bag"
+        },
+        {
+          "name": "gig"
+        }
+      ]
+    },
+    {
+      "name": "/v/",
+      "sound": "./pronunciation/v.m4a",
+      "description": "В",
+      "groupId": 3,
+      "examples": [
+        {
+          "name": "very"
+        },
+        {
+          "name": "heavy"
+        },
+        {
+          "name": "move"
+        },
+        {
+          "name": "verve"
+        }
+      ]
+    },
+    {
+      "name": "/ð/",
+      "sound": "./pronunciation/ð.m4a",
+      "description": "З",
+      "groupId": 3,
+      "examples": [
+        {
+          "name": "then"
+        },
+        {
+          "name": "this"
+        },
+        {
+          "name": "there"
+        },
+        {
+          "name": "other"
+        },
+        {
+          "name": "smooth"
+        }
+      ]
+    },
+    {
+      "name": "/z/",
+      "sound": "./pronunciation/z.m4a",
+      "description": "З",
+      "groupId": 3,
+      "examples": [
+        {
+          "name": "zero"
+        },
+        {
+          "name": "music"
+        },
+        {
+          "name": "buzz"
+        },
+        {
+          "name": "roses"
+        }
+      ]
+    },
+    {
+      "name": "/ʒ/",
+      "sound": "./pronunciation/ʒ.m4a",
+      "description": "Ж",
+      "groupId": 3,
+      "examples": [
+        {
+          "name": "leisure"
+        },
+        {
+          "name": "pleasure"
+        },
+        {
+          "name": "vision"
+        }
+      ]
+    },
+    {
+      "name": "//",
+      "sound": "./pronunciation/.m4a",
+      "description": "",
+      "examples": [
+        {
+          "name": ""
+        },
+        {
+          "name": ""
+        },
+        {
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
