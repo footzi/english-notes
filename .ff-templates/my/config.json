@@ -1,0 +1,14 @@
+{
+  "alias": "my",
+  "files": [
+    {
+      "template": "react-component.hbs",
+      "fileName": "index.tsx"
+    },
+    {
+      "template": "test.hbs",
+      "folderPath": "__spec__",
+      "fileName": "index.spec.ts"
+    }
+  ]
+}

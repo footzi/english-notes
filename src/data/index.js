@@ -11,6 +11,7 @@ import OXFORD_WORDS from './oxford-words-a2-b1.json';
 import SUPERLATIVES from './superlatives.json';
 import QUANTIFIERS from './quantifiers.json';
 import TRAIN_FROM_PADDINGTON_BOOK from './train-from-paddington-book.json';
+import TENSES from './tenses.json';
 import { nanoid } from 'nanoid';
 
 const questions = {
@@ -26,6 +27,7 @@ const questions = {
   superlatives: SUPERLATIVES,
   quantifiers: QUANTIFIERS,
   trainFromPaddingtonBook: TRAIN_FROM_PADDINGTON_BOOK,
+  tenses: TENSES,
 };
 
 const prepareQuestions = (questions) => {
