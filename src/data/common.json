@@ -480,8 +480,8 @@
     "tasks": ["4-dimension"]
   },
   {
-    "question": "We traversed this line",
-    "answer": "Мы пересекли эту линию",
+    "question": "Мы пересекли эту линию",
+    "answer": "We traversed this line",
     "tasks": ["traversed"]
   },
   {

@@ -136,14 +136,14 @@
       "tasks": ["urgent"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "У меня болит грудь",
+      "answer": "my chest hurts",
+      "tasks": ["chest"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Ваше утверждение не верно",
+      "answer": "Your statement isn't correct",
+      "tasks": ["statement"]
     },
     {
       "question": "",
