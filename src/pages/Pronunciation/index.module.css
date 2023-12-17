@@ -11,6 +11,7 @@
     padding-right: 8px;
     padding-left: 8px;
     border-right: 1px solid var(--grey-color);
+    margin-bottom: 36px;
 }
 
 .list {
@@ -25,22 +26,15 @@
 .list-item {
     border-bottom: 1px solid var(--grey-color);
     padding-bottom: 8px;
+}
+
+.list-item:not(:last-child) {
     margin-bottom: 12px;
 }
 
-.example-list {
-    display: flex;
-    align-items: center;
-    flex-direction: row;
-    column-gap: 8px;
+.examples {
     margin-top: 12px;
 }
-
-.example-item {
-    display: flex;
-    align-items: center;
-}
-
 
 @media (max-width: 600px) {
     .list-wrapper {

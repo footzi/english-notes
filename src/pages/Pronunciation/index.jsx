@@ -43,15 +43,13 @@ export const PronunciationPage = () => {
                         />
                       </div>
 
-                      <ul className={styles['example-list']}>
-                        {item.examples?.map((example) => {
-                          return (
-                            <li key={example.name} className={styles['example-item']}>
-                              <span>{example.name}</span>
-                            </li>
-                          );
+                      <div className={styles.examples}>
+                        {item.examples?.map((example, index) => {
+                          const string = index === 0 ? `${example.name}` : `, ${example.name}`;
+
+                          return <React.Fragment key={example.name}>{string}</React.Fragment>;
                         })}
-                      </ul>
+                      </div>
                     </li>
                   );
                 })}

@@ -11,6 +11,10 @@
     {
       "id": 3,
       "name": "Voiced Consonants (Звонкие согласные)"
+    },
+    {
+      "id": 4,
+      "name": "Other Consonants (Остальные согласные)"
     }
   ],
   "values": [
@@ -459,18 +463,174 @@
       ]
     },
     {
-      "name": "//",
-      "sound": "./pronunciation/.m4a",
-      "description": "",
+      "name": "/m/",
+      "sound": "./pronunciation/m.m4a",
+      "description": "M",
+      "groupId": 4,
       "examples": [
         {
-          "name": ""
+          "name": "more /mɔːr/"
         },
         {
-          "name": ""
+          "name": "hammer /ˈhæmər/"
         },
         {
-          "name": ""
+          "name": "sum /sʌm/"
+        },
+        {
+          "name": "mime /maɪm/"
+        }
+      ]
+    },
+    {
+      "name": "/n/",
+      "sound": "./pronunciation/n.m4a",
+      "description": "Н",
+      "groupId": 4,
+      "examples": [
+        {
+          "name": "nice /naɪs/"
+        },
+        {
+          "name": "funny /ˈfʌni/"
+        },
+        {
+          "name": "son /sʌn/"
+        },
+        {
+          "name": "none /nʌn/"
+        }
+      ]
+    },
+    {
+      "name": "/ŋ/",
+      "sound": "./pronunciation/ŋ.m4a",
+      "description": "НН",
+      "groupId": 4,
+      "examples": [
+        {
+          "name": "rung /rʌŋ/"
+        },
+        {
+          "name": "anger /ˈæŋɡər/"
+        },
+        {
+          "name": "thanks /θæŋks/"
+        }
+      ]
+    },
+    {
+      "name": "/h/",
+      "sound": "./pronunciation/h.m4a",
+      "description": "Х",
+      "groupId": 4,
+      "examples": [
+        {
+          "name": "hear /hɪə/"
+        },
+        {
+          "name": "hot /hɑːt/"
+        },
+        {
+          "name": "ahead /əˈhed/"
+        }
+      ]
+    },
+    {
+      "name": "/l/",
+      "sound": "./pronunciation/l.m4a",
+      "description": "Л",
+      "groupId": 4,
+      "examples": [
+        {
+          "name": "light /laɪt/"
+        },
+        {
+          "name": "valley /ˈvæli/"
+        },
+        {
+          "name": "bell /bel/"
+        },
+        {
+          "name": "level /ˈlevl/"
+        }
+      ]
+    },
+    {
+      "name": "/r/",
+      "sound": "./pronunciation/r.m4a",
+      "description": "",
+      "groupId": 4,
+      "examples": [
+        {
+          "name": "right /raɪt/"
+        },
+        {
+          "name": "wrong /rɒŋ/"
+        },
+        {
+          "name": "sorry /ˈsɒri/"
+        },
+        {
+          "name": "arrange /əˈreɪndʒ/"
+        }
+      ]
+    },
+    {
+      "name": "/w/",
+      "sound": "./pronunciation/w.m4a",
+      "description": "В",
+      "groupId": 4,
+      "examples": [
+        {
+          "name": "wet /wet/"
+        },
+        {
+          "name": "one /wʌn/"
+        },
+        {
+          "name": "when /wen/"
+        },
+        {
+          "name": "beware /bɪˈweə/"
+        },
+        {
+          "name": "quick /kwɪk/"
+        },
+        {
+          "name": "queen /kwiːn/"
+        }
+      ]
+    },
+    {
+      "name": "/j/",
+      "sound": "./pronunciation/j.m4a",
+      "description": "У / Ю",
+      "groupId": 4,
+      "examples": [
+        {
+          "name": "yet /jet/"
+        },
+        {
+          "name": "use /juːz/"
+        },
+        {
+          "name": "yellow /ˈjeləʊ/"
+        },
+        {
+          "name": "useful /ˈjuːsfl/"
+        },
+        {
+          "name": "beauty /ˈbjuːti/"
+        },
+        {
+          "name": "few /fjuː/"
+        },
+        {
+          "name": "cute /kjuːt/"
+        },
+        {
+          "name": "accuse /əˈkjuːz/"
         }
       ]
     }
