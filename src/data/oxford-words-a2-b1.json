@@ -341,64 +341,74 @@
       "tasks": ["heating"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Наши региональные меры оказали значительное влияние на уровень безработицы",
+      "answer": "Our regional measures have had a significant impact on unemployment",
+      "tasks": ["significant", "impact"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Они создают впечатление, что все сладко и светло",
+      "answer": "They give the impression that all is sweetness and light",
+      "tasks": ["impression"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Улучшение отношений Восток-Запад",
+      "answer": "An improvement in East–West relations",
+      "tasks": ["improvement"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Этот актер невероятно известен",
+      "answer": "This actor is incredibly famous",
+      "tasks": ["incredibly"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Не ожидалось, что это продлится долго, и действительно, это заняло менее трех недель",
+      "answer": "It was not expected to last long, and indeed it took less than three weeks",
+      "tasks": ["indeed"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Полная занятость окажет косвенное влияние на уровень заработной платы",
+      "answer": "Full employment would have an indirect effect on wage levels",
+      "tasks": ["indirect", "effect"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Мой кот ранил меня",
+      "answer": "My cat injured me",
+      "tasks": ["injured"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Он намеревался к вечеру вернуться домой",
+      "answer": "He intended to return home by evening",
+      "tasks": ["intended"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Деньги не проблема",
+      "answer": "Money is not an issue",
+      "tasks": ["issue"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Я увлечен спортом",
+      "answer": "I keen on sport",
+      "tasks": ["keen"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "На корабле нет недостатка в развлечениях",
+      "answer": "There is no lack of entertainment aboard ship",
+      "tasks": ["lack", "of", "entertainment"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Oна положила ребенка в его кроватку",
+      "answer": "She laid the baby in his cri",
+      "tasks": ["laid"]
+    },
+    {
+      "question": "Кожаная куртка",
+      "answer": "А leather jacket",
+      "tasks": ["leather"]
+    },
+    {
+      "question": "Люди со слишком большим количеством вынужденного досуга",
+      "answer": "People with too much enforced leisure",
+      "tasks": ["enforced", "leisure"]
     },
     {
       "question": "",
