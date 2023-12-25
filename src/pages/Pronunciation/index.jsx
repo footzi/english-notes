@@ -37,10 +37,12 @@ export const PronunciationPage = () => {
                     <li key={item.name} className={styles['list-item']}>
                       <div className={styles.item}>
                         <b>{item.name}</b> - <i>{item.description}</i>
-                        <Button
-                          Icon={playingSrc === item.sound ? FaCirclePause : FaCirclePlay}
-                          onClick={() => play(item.sound)}
-                        />
+                        {item.sound && (
+                          <Button
+                            Icon={playingSrc === item.sound ? FaCirclePause : FaCirclePlay}
+                            onClick={() => play(item.sound)}
+                          />
+                        )}
                       </div>
 
                       <div className={styles.examples}>

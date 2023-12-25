@@ -490,24 +490,24 @@
     "tasks": ["occurred"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "У вас недостаточно уверенности в своих способностях",
+    "answer": "You don't have enough confidence in your ability",
+    "tasks": ["confidence", "ability"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Это враждебная часть страны",
+    "answer": "It is a hostile part of the country",
+    "tasks": ["hostile"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Ее советники решили",
+    "answer": "Her advisers decided",
+    "tasks": ["advisers"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Его маршрут включал официальный визит в Канаду.",
+    "answer": "His itinerary included an official visit to Canada",
+    "tasks": ["itinerary"]
   },
   {
     "question": "",

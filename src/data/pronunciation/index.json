@@ -15,6 +15,10 @@
     {
       "id": 4,
       "name": "Other Consonants (Остальные согласные)"
+    },
+    {
+      "id": 5,
+      "name": "Short Vowels (Короткие гласные)"
     }
   ],
   "values": [
@@ -631,6 +635,157 @@
         },
         {
           "name": "accuse /əˈkjuːz/"
+        }
+      ]
+    },
+    {
+      "name": "/ɪ/",
+      "sound": "",
+      "description": "И",
+      "groupId": 5,
+      "examples": [
+        {
+          "name": "kit /kɪt/"
+        },
+        {
+          "name": "bid /bɪd/"
+        },
+        {
+          "name": "hymn /hɪm/"
+        },
+        {
+          "name": "minute /ˈmɪnɪt/"
+        }
+      ]
+    },
+    {
+      "name": "/ʊ/",
+      "sound": "",
+      "description": "У",
+      "groupId": 5,
+      "examples": [
+        {
+          "name": "foot /fʊt/"
+        },
+        {
+          "name": "put /pʊt/"
+        },
+        {
+          "name": "good /ɡʊd/"
+        }
+      ]
+    },
+    {
+      "name": "/ʌ/",
+      "sound": "",
+      "description": "A",
+      "groupId": 5,
+      "examples": [
+        {
+          "name": "strut /strʌt/"
+        },
+        {
+          "name": "mud /mʌd/"
+        },
+        {
+          "name": "love /lʌv/"
+        },
+        {
+          "name": "blood /blʌd/"
+        }
+      ]
+    },
+    {
+      "name": "/ɒ/",
+      "sound": "",
+      "description": "O",
+      "groupId": 5,
+      "examples": [
+        {
+          "name": "lot /lɒt/"
+        },
+        {
+          "name": "odd /ɒd/"
+        },
+        {
+          "name": "wash /wɒʃ/"
+        }
+      ]
+    },
+    {
+      "name": "/ə/",
+      "sound": "",
+      "description": "Э",
+      "groupId": 5,
+      "examples": [
+        {
+          "name": "about /əˈbaʊt/"
+        },
+        {
+          "name": "common /ˈkɒmən/"
+        },
+        {
+          "name": "standard /ˈstændəd/"
+        },
+        {
+          "name": "butter /ˈbʌtər/"
+        }
+      ]
+    },
+    {
+      "name": "/e/",
+      "sound": "",
+      "description": "ЭЕ",
+      "groupId": 5,
+      "examples": [
+        {
+          "name": "dress /dres/"
+        },
+        {
+          "name": "head /hed/"
+        },
+        {
+          "name": "bed /bed/"
+        },
+        {
+          "name": "many /ˈmeni/"
+        }
+      ]
+    },
+    {
+      "name": "/æ/",
+      "sound": "",
+      "description": "AA",
+      "groupId": 5,
+      "examples": [
+        {
+          "name": "trap /træp/"
+        },
+        {
+          "name": "stamp /stæmp/"
+        },
+        {
+          "name": "back /bæk/"
+        },
+        {
+          "name": "lap /læp/"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "sound": "",
+      "description": "И",
+      "groupId": 0,
+      "examples": [
+        {
+          "name": ""
+        },
+        {
+          "name": ""
+        },
+        {
+          "name": ""
         }
       ]
     }
