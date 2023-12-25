@@ -403,12 +403,14 @@
     {
       "question": "Кожаная куртка",
       "answer": "А leather jacket",
-      "tasks": ["leather"]
+      "tasks": ["leather"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lea/leath/leather__gb_1.mp3"
     },
     {
       "question": "Люди со слишком большим количеством вынужденного досуга",
       "answer": "People with too much enforced leisure",
-      "tasks": ["enforced", "leisure"]
+      "tasks": ["enforced", "leisure"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lei/leisu/leisure__gb_1.mp3"
     },
     {
       "question": "",

@@ -1,10 +1,13 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Question } from './Question/index.jsx';
+import { usePlayAudio } from '../../hooks/usePlayAudio.js';
 
 export const Tasks = ({ questions }) => {
   const [filteredQuestions, setQuestions] = useState(questions);
   const [lastAnsweredQuestion, setLastAnsweredQuestion] = useState(null);
   const containerRef = useRef(null);
+
+  const { play, playingSrc } = usePlayAudio();
 
   const focusElement = () => {
     setTimeout(() => {
@@ -54,7 +57,7 @@ export const Tasks = ({ questions }) => {
       {filteredQuestions.length > 0 ? (
         <>
           {filteredQuestions.map((question) => (
-            <Question key={question.id} {...question} onOk={onOk} />
+            <Question key={question.id} {...question} onOk={onOk} onPlay={play} playingSrc={playingSrc} />
           ))}
         </>
       ) : (

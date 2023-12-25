@@ -3,7 +3,7 @@ import cn from 'classnames';
 
 import styles from './index.module.css';
 import { Button } from '../../../../components/Button';
-import { FaCircleCheck } from 'react-icons/fa6';
+import { FaCircleCheck, FaCirclePause, FaCirclePlay } from 'react-icons/fa6';
 
 const getWidthForInput = (word) => {
   return word.length * 10;
@@ -48,7 +48,7 @@ const checkAnswer = (answer, answers, tasks) => {
   return resultString.toUpperCase() === answer.toUpperCase();
 };
 
-export const Question = ({ id, question, answer, tasks, onOk }) => {
+export const Question = ({ id, question, answer, tasks, onOk, sound, onPlay, playingSrc }) => {
   const [isShowAnswer, setIsShowAnswer] = useState(false);
   const [isWrong, setIsWrong] = useState(false);
   const [answers, setAnswers] = useState({});
@@ -101,6 +101,8 @@ export const Question = ({ id, question, answer, tasks, onOk }) => {
         </span>
 
         <Button Icon={FaCircleCheck} ariaLabel="Ответить" type="submit" />
+
+        {sound && <Button Icon={playingSrc === sound ? FaCirclePause : FaCirclePlay} onClick={() => onPlay(sound)} />}
       </div>
     </form>
   );
