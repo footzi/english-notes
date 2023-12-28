@@ -146,34 +146,34 @@
       "tasks": ["statement"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Он наклонился вперед",
+      "answer": "He leaned forward",
+      "tasks": ["leaned", "forward"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Он жестокий подозрительный тип",
+      "answer": "He is a violent suspicious fellow",
+      "tasks": ["violent", "suspicious", "fellow"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Полиция подозревает его",
+      "answer": "The police suspect him",
+      "tasks": ["suspect"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Расследование носило формальный характер.",
+      "answer": "The inquest was a formal affair",
+      "tasks": ["inquest", "formal", "affair"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "К сожалению, нам придется работать в следующие выходные",
+      "answer": "We unfortunately have to work next weekend",
+      "tasks": ["unfortunately"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Офицера осудили за отказ подчиняться приказам",
+      "answer": "The officer was convicted for refusing to obey orders",
+      "tasks": ["convicted", "refusing", "obey"]
     },
     {
       "question": "",

@@ -510,14 +510,14 @@
     "tasks": ["itinerary"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Можете ли вы рассказать мне о правилах компании, если они есть?",
+    "answer": "Can you tell me about company rules, if there are any ?",
+    "tasks": ["there", "are", "any"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Я понял",
+    "answer": "I got it",
+    "tasks": ["I", "got", "it"]
   },
   {
     "question": "",

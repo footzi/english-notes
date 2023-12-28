@@ -1,9 +1,8 @@
 import React from 'react';
-import { FaCirclePlay, FaCirclePause } from 'react-icons/fa6';
-import { Button } from '../../components/Button/index.jsx';
 import DATA from '../../data/pronunciation/index.json';
 import styles from './index.module.css';
 import { usePlayAudio } from '../../modules/hooks/usePlayAudio.js';
+import { AudioButton } from '../../components/AudioButton/index.jsx';
 
 const prepareData = () => {
   return DATA.groups.map((group) => {
@@ -37,12 +36,7 @@ export const PronunciationPage = () => {
                     <li key={item.name} className={styles['list-item']}>
                       <div className={styles.item}>
                         <b>{item.name}</b> - <i>{item.description}</i>
-                        {item.sound && (
-                          <Button
-                            Icon={playingSrc === item.sound ? FaCirclePause : FaCirclePlay}
-                            onClick={() => play(item.sound)}
-                          />
-                        )}
+                        {item.sound && <AudioButton src={playingSrc} sound={item.sound} onPlay={play} />}
                       </div>
 
                       <div className={styles.examples}>

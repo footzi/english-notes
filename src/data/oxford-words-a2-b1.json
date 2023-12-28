@@ -413,134 +413,156 @@
       "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lei/leisu/leisure__gb_1.mp3"
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Тем временем Джули нашла себе еще одного партнера по танцам.",
+      "answer": "Julie has meanwhile found herself another dancing partner",
+      "tasks": ["meanwhile"]
+    },
+    {
+      "question": "Трудно измерить педагогические способности",
+      "answer": "It is hard to measure teaching ability",
+      "tasks": ["measure"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/measu/measure__gb_3.mp3"
+    },
+    {
+      "question": "Мои волосы были в беспорядке",
+      "answer": "My hair was a mess",
+      "tasks": ["mess"]
+    },
+    {
+      "question": "A mild Italian cheese",
+      "answer": "Мягкий итальянский сыр",
+      "tasks": ["mild"]
+    },
+    {
+      "question": "он явно был в настроении",
+      "answer": "He was obviously in a mood",
+      "tasks": ["obviously", "mood"]
+    },
+    {
+      "question": "Грязь была повсюду",
+      "answer": "Mud was everywhere",
+      "tasks": ["Mud"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mud/mud__/mud__gb_2.mp3"
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     },
     {
       "question": "",
       "answer": "",
-      "tasks": [""]
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "tasks": [""],
+      "sound": ""
     }
   ],
   "grammar": {

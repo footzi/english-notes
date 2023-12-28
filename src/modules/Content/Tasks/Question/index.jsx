@@ -3,7 +3,8 @@ import cn from 'classnames';
 
 import styles from './index.module.css';
 import { Button } from '../../../../components/Button';
-import { FaCircleCheck, FaCirclePause, FaCirclePlay } from 'react-icons/fa6';
+import { FaCircleCheck } from 'react-icons/fa6';
+import { AudioButton } from '../../../../components/AudioButton/index.jsx';
 
 const getWidthForInput = (word) => {
   return word.length * 10;
@@ -102,7 +103,7 @@ export const Question = ({ id, question, answer, tasks, onOk, sound, onPlay, pla
 
         <Button Icon={FaCircleCheck} ariaLabel="Ответить" type="submit" />
 
-        {sound && <Button Icon={playingSrc === sound ? FaCirclePause : FaCirclePlay} onClick={() => onPlay(sound)} />}
+        {sound && <AudioButton src={playingSrc} sound={sound} onPlay={onPlay} />}
       </div>
     </form>
   );
