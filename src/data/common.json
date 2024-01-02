@@ -520,6 +520,41 @@
     "tasks": ["I", "got", "it"]
   },
   {
+    "question": "Ждать автобус",
+    "answer": "Wait for a bus",
+    "tasks": ["Wait", "for"]
+  },
+  {
+    "question": "Говорить со своим учителем",
+    "answer": "Speak to your teacher",
+    "tasks": ["Speak", "to"]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
     "question": "",
     "answer": "",
     "tasks": [""]
