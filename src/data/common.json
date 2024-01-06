@@ -629,6 +629,12 @@
     "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/competent__gb_1.mp3"
   },
   {
+    "question": "Я чувствую тревогу, когда вижу ее",
+    "answer": "I'm feeling anxiety when I see her",
+    "tasks": ["anxiety"],
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anx/anxie/anxiety__gb_1.mp3"
+  },
+  {
     "question": "",
     "answer": "",
     "tasks": [""],

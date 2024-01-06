@@ -429,12 +429,12 @@
       "tasks": ["mess"]
     },
     {
-      "question": "A mild Italian cheese",
-      "answer": "Мягкий итальянский сыр",
+      "question": "Мягкий итальянский сыр",
+      "answer": "A mild Italian cheese",
       "tasks": ["mild"]
     },
     {
-      "question": "он явно был в настроении",
+      "question": "Он явно был в настроении",
       "answer": "He was obviously in a mood",
       "tasks": ["obviously", "mood"]
     },
@@ -445,10 +445,10 @@
       "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mud/mud__/mud__gb_2.mp3"
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
-      "sound": ""
+      "question": "Я чувствую тревогу, когда вижу ее",
+      "answer": "I'm feeling anxiety when I see her",
+      "tasks": ["anxiety"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anx/anxie/anxiety__gb_1.mp3"
     },
     {
       "question": "",
