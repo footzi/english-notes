@@ -12,6 +12,7 @@ import SUPERLATIVES from './superlatives.json';
 import QUANTIFIERS from './quantifiers.json';
 import TRAIN_FROM_PADDINGTON_BOOK from './train-from-paddington-book.json';
 import TENSES from './tenses.json';
+import TO_GERUND from './to-&-gerund.json';
 import { nanoid } from 'nanoid';
 
 const questions = {
@@ -28,6 +29,7 @@ const questions = {
   quantifiers: QUANTIFIERS,
   trainFromPaddingtonBook: TRAIN_FROM_PADDINGTON_BOOK,
   tenses: TENSES,
+  toGerund: TO_GERUND,
 };
 
 const prepareQuestions = (questions) => {

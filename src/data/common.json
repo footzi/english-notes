@@ -635,21 +635,21 @@
     "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anx/anxie/anxiety__gb_1.mp3"
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Он подвезет нас до станции",
+    "answer": "He'll give us a lift to the station",
+    "tasks": ["give", "us", "a", "lift"],
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Босс спросил ее, не слишком ли маленькие для нее дети.",
+    "answer": "The boss asked her If the children were too young for her",
+    "tasks": ["If"],
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Мне трудно вспомнить словарный запас, когда я разговариваю с людьми",
+    "answer": "It's difficult to recall vocabulary when I'm speaking with people",
+    "tasks": ["recall"],
     "sound": ""
   },
   {

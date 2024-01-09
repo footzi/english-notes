@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "question": "Мне нужно улучшить свои навыки разговорной речи и аудирования на английском языке.",
+      "answer": "I need to improve my speaking and listening skills in English",
+      "tasks": ["need", "to", "improve"]
+    },
+    {
+      "question": "Я надеюсь не потерять свой багаж в аэропорту",
+      "answer": "I hope to not lose my luggage in an airport",
+      "tasks": ["hope", "to", "not", "lose"]
+    },
+    {
+      "question": "Трудно говорить с новыми людьми",
+      "answer": "It's hard to speak with new people",
+      "tasks": ["hard", "to", "speak"]
+    },
+    {
+      "question": "Важно не попасть в аварию",
+      "answer": "It's important to not have an accident",
+      "tasks": ["important", "to", "not", "have"]
+    },
+    {
+      "question": "Я не знаю, как улучшить свои знания английского языка",
+      "answer": "I don't know how to improve my English skills",
+      "tasks": ["how", "to", "improve"]
+    },
+    {
+      "question": "Она разослала много приглашений на вечеринку, но не знает, кто их пример",
+      "answer": "She sent a lot of invitations to the party, but she doesn't know who to accept them",
+      "tasks": ["know", "to", "accept"]
+    },
+    {
+      "question": "Я ем здоровую пищу, чтобы похудеть",
+      "answer": "I eat healthy food to reduce my weight",
+      "tasks": ["to", "reduce"]
+    },
+    {
+      "question": "Я просыпаюсь рано, чтобы успеть сделать много полезных дел",
+      "answer": "I wake up early to have time to do many useful things",
+      "tasks": ["to", "have", "time", "to", "do"]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": []
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": []
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": []
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": []
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": []
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": []
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": []
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": []
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": []
+    }
+  ],
+  "grammar": {
+    "src": ["./grammar/to-&-gerund.webp"],
+    "layout": ""
+  }
+}

@@ -12,6 +12,10 @@
     "name": "⏰ Времена"
   },
   {
+    "id": "toGerund",
+    "name": "To + gerund"
+  },
+  {
     "id": "irregularVerbs",
     "name": "Неправильные глаголы"
   },
