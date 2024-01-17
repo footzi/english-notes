@@ -653,28 +653,28 @@
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Предложите оплатить половину счета, но не настаивайте.",
+    "answer": "Offer to pay your half of the bill, but don't insist",
+    "tasks": ["insist"],
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Она слишком молода, чтобы курить",
+    "answer": "She's too young so that she cannot smoke",
+    "tasks": ["so", "that"],
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
+    "question": "Это соответствует нашим правилам",
+    "answer": "It appropriates our rules",
+    "tasks": ["appropriates"],
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appro/appropriate__gb_4.mp3"
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
+    "question": "Я бросил кататься на скейтборде",
+    "answer": "I quit skateboarding",
+    "tasks": ["quit"],
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quit_/quit__gb_1.mp3"
   },
   {
     "question": "",
