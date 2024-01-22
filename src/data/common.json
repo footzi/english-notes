@@ -677,39 +677,39 @@
     "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quit_/quit__gb_1.mp3"
   },
   {
-    "question": "Мне сегодня не хочется готовить",
+    "question": "У меня нет настроения сегодня готовить",
     "answer": "I don't feel like cooking today",
     "tasks": ["don't", "feel", "like"],
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Я их не снимаю",
+    "answer": "I don't take off them",
+    "tasks": ["take", "off", "them"],
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Давай залезем в горячую ванную",
+    "answer": "Lets to get into a hot tub",
+    "tasks": ["get", "into", "tub"],
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Он хочет обменять свой кекс на шоколадку.",
+    "answer": "He wants to swap his cupcake for a candy bar.",
+    "tasks": ["swap"],
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Я хочу сделать это в своем собственном темпе",
+    "answer": "I want to do this at my own pace",
+    "tasks": ["at", "my", "own", "pace"],
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Я не могу исправить свои недостатки",
+    "answer": "I can't fix my drawbacks",
+    "tasks": ["drawbacks"],
     "sound": ""
   },
   {

@@ -176,7 +176,7 @@
     {
       "name": "/t/",
       "sound": "./pronunciation/t.m4a",
-      "description": "Т",
+      "description": "Т (с придыханием)",
       "groupId": 2,
       "examples": [
         {
@@ -530,7 +530,7 @@
     {
       "name": "/h/",
       "sound": "./pronunciation/h.m4a",
-      "description": "Х",
+      "description": "Х (с придыханием)",
       "groupId": 4,
       "examples": [
         {
@@ -587,7 +587,7 @@
     {
       "name": "/w/",
       "sound": "./pronunciation/w.m4a",
-      "description": "В",
+      "description": "УИ",
       "groupId": 4,
       "examples": [
         {
@@ -719,7 +719,7 @@
     {
       "name": "/ə/",
       "sound": "./pronunciation/ə.m4a",
-      "description": "Э",
+      "description": "(Безударная/нейтралка)",
       "groupId": 5,
       "examples": [
         {
@@ -759,7 +759,7 @@
     {
       "name": "/æ/",
       "sound": "./pronunciation/æ.m4a",
-      "description": "AA",
+      "description": "AA (Лягушка)",
       "groupId": 5,
       "examples": [
         {
@@ -853,7 +853,7 @@
     {
       "name": "/ɜː/",
       "sound": "./pronunciation/ɜː.m4a",
-      "description": "ЭЭЭ",
+      "description": "ЭЭЭ (Французкий багет)",
       "groupId": 6,
       "examples": [
         {
