@@ -677,9 +677,9 @@
     "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quit_/quit__gb_1.mp3"
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Мне сегодня не хочется готовить",
+    "answer": "I don't feel like cooking today",
+    "tasks": ["don't", "feel", "like"],
     "sound": ""
   },
   {

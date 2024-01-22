@@ -19,6 +19,10 @@
     {
       "id": 5,
       "name": "Short Vowels (Короткие гласные)"
+    },
+    {
+      "id": 6,
+      "name": "Long Vowels (Длинные гласные)"
     }
   ],
   "values": [
@@ -640,7 +644,7 @@
     },
     {
       "name": "/ɪ/",
-      "sound": "",
+      "sound": "./pronunciation/ɪ.m4a",
       "description": "И",
       "groupId": 5,
       "examples": [
@@ -660,7 +664,7 @@
     },
     {
       "name": "/ʊ/",
-      "sound": "",
+      "sound": "./pronunciation/ʊ.m4a",
       "description": "У",
       "groupId": 5,
       "examples": [
@@ -677,7 +681,7 @@
     },
     {
       "name": "/ʌ/",
-      "sound": "",
+      "sound": "./pronunciation/ʌ.m4a",
       "description": "A",
       "groupId": 5,
       "examples": [
@@ -697,7 +701,7 @@
     },
     {
       "name": "/ɒ/",
-      "sound": "",
+      "sound": "./pronunciation/ɒ.m4a",
       "description": "O",
       "groupId": 5,
       "examples": [
@@ -714,7 +718,7 @@
     },
     {
       "name": "/ə/",
-      "sound": "",
+      "sound": "./pronunciation/ə.m4a",
       "description": "Э",
       "groupId": 5,
       "examples": [
@@ -734,7 +738,7 @@
     },
     {
       "name": "/e/",
-      "sound": "",
+      "sound": "./pronunciation/e.m4a",
       "description": "ЭЕ",
       "groupId": 5,
       "examples": [
@@ -754,7 +758,7 @@
     },
     {
       "name": "/æ/",
-      "sound": "",
+      "sound": "./pronunciation/æ.m4a",
       "description": "AA",
       "groupId": 5,
       "examples": [
@@ -773,19 +777,96 @@
       ]
     },
     {
-      "name": "",
-      "sound": "",
-      "description": "И",
-      "groupId": 0,
+      "name": "/iː/",
+      "sound": "./pronunciation/iː.m4a",
+      "description": "ИИИ",
+      "groupId": 6,
       "examples": [
         {
-          "name": ""
+          "name": "fleece /fliːs/"
         },
         {
-          "name": ""
+          "name": "sea /siː/"
         },
         {
-          "name": ""
+          "name": "machine /məˈʃiːn/"
+        }
+      ]
+    },
+    {
+      "name": "/uː/",
+      "sound": "./pronunciation/uː.m4a",
+      "description": "УУУ",
+      "groupId": 6,
+      "examples": [
+        {
+          "name": "goose /ɡuːs/"
+        },
+        {
+          "name": "two /tuː/"
+        },
+        {
+          "name": "blue /bluː/"
+        },
+        {
+          "name": "group /ɡruːp/"
+        }
+      ]
+    },
+    {
+      "name": "/ɑː/",
+      "sound": "./pronunciation/ɑː.m4a",
+      "description": "AAA",
+      "groupId": 6,
+      "examples": [
+        {
+          "name": "father /ˈfɑːðə(r)/"
+        },
+        {
+          "name": "start /stɑːt/"
+        },
+        {
+          "name": "hard /hɑːd/"
+        }
+      ]
+    },
+    {
+      "name": "/ɔː/",
+      "sound": "./pronunciation/ɔː.m4a",
+      "description": "ООО",
+      "groupId": 6,
+      "examples": [
+        {
+          "name": "thought /θɔːt/"
+        },
+        {
+          "name": "law /lɔː/"
+        },
+        {
+          "name": "north /nɔːθ/"
+        },
+        {
+          "name": "war /wɔː/"
+        }
+      ]
+    },
+    {
+      "name": "/ɜː/",
+      "sound": "./pronunciation/ɜː.m4a",
+      "description": "ЭЭЭ",
+      "groupId": 6,
+      "examples": [
+        {
+          "name": "nurse /nɜːs/"
+        },
+        {
+          "name": "stir /stɜː/"
+        },
+        {
+          "name": "learn /lɜːn/"
+        },
+        {
+          "name": "refer /rɪˈfɜː/"
         }
       ]
     }

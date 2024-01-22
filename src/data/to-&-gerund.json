@@ -87,7 +87,7 @@
     }
   ],
   "grammar": {
-    "src": ["./grammar/to-&-gerund.webp"],
+    "src": ["./grammar/to-&-gerund.webp", "./grammar/verbs+ing.webp"],
     "layout": ""
   }
 }
