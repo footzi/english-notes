@@ -176,24 +176,24 @@
       "tasks": ["convicted", "refusing", "obey"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Это стоит целое состояние",
+      "answer": "It costs a fortune",
+      "tasks": ["costs", "a fortune"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Она разумная девушка",
+      "answer": "She is a sensible girl",
+      "tasks": ["sensible"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "На удивление там оказалась коробочка с деньгами",
+      "answer": "Surprisingly, there was a box with money",
+      "tasks": ["Surprisingly"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Как жаль",
+      "answer": "It is a pity",
+      "tasks": ["it", "is", "a pity"]
     },
     {
       "question": "",

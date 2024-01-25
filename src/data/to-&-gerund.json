@@ -87,7 +87,7 @@
     }
   ],
   "grammar": {
-    "src": ["./grammar/to-&-gerund.webp", "./grammar/verbs+ing.webp"],
+    "src": ["./grammar/to-&-gerund.webp", "./grammar/verbs+infinitive.webp", "./grammar/verbs+ing.webp"],
     "layout": ""
   }
 }
