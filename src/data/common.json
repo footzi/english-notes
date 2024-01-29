@@ -719,9 +719,24 @@
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Их свободное время",
+    "answer": "Their non-leisure time",
+    "tasks": ["non-leisure"]
+  },
+  {
+    "question": "Она сказала, что отчет обнадеживает",
+    "answer": "She said the report was encouraging",
+    "tasks": ["encouraging"]
+  },
+  {
+    "question": "Наименее близкое мне это",
+    "answer": "The least relatable to me is",
+    "tasks": ["least", "relatable", "to"]
+  },
+  {
+    "question": "Ваша доля прибыли составит 20%",
+    "answer": "Your share of the profit will be 20%",
+    "tasks": ["share", "profit"],
     "sound": ""
   },
   {

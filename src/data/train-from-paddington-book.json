@@ -194,21 +194,6 @@
       "question": "Как жаль",
       "answer": "It is a pity",
       "tasks": ["it", "is", "a pity"]
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
     }
   ],
   "grammar": {
