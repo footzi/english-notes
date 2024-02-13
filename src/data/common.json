@@ -760,7 +760,7 @@
   {
     "question": "Что касается вызова такси",
     "answer": "As for getting taxi",
-    "tasks": ["as", "for"],
+    "tasks": ["As", "for"],
     "sound": ""
   },
   {

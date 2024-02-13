@@ -7,7 +7,7 @@ export const useControls = (dataQuestions) => {
   const [questions, setQuestions] = useState(dataQuestions);
   const [descriptions, setDescriptions] = useState(dataQuestions);
   const [isRandom, setIsRandom] = useState(false);
-  const [isReverse, setIsReverse] = useState(false);
+  const [isReverse, setIsReverse] = useState(true);
 
   const updateQuestion = (questions, isRandom, isReverse) => {
     if (isRandom) {
