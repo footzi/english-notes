@@ -1,64 +1,63 @@
 {
   "sentences": [
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
-      "sound": ""
-    },
-    {
-      "question": "",
-      "answer": "",
+      "question": "Мы должны покинуть нашу квартиру через 1 месяц",
+      "answer": "We have to leave our apartment in 1 month",
       "tasks": [""]
     },
     {
-      "question": "",
-      "answer": "",
+      "question": "Я должен присутствовать на всех рабочих собраниях",
+      "answer": "I have to attend all work meetings",
       "tasks": [""]
     },
     {
-      "question": "",
-      "answer": "",
+      "question": "Тебе необязательно есть здоровую пищу каждый день",
+      "answer": "You don't have to eat healthy food every day",
       "tasks": [""]
     },
     {
-      "question": "",
-      "answer": "",
+      "question": "Ему необязательно везти родителей в аэропорт",
+      "answer": "He doesn't have to take his parents to the airport",
       "tasks": [""]
     },
     {
-      "question": "",
-      "answer": "",
+      "question": "Должен ли я сообщить об этом происшествии?",
+      "answer": "Do I have to report on this accident?",
       "tasks": [""]
     },
     {
-      "question": "",
-      "answer": "",
+      "question": "Когда она должна оплатить этот счет?",
+      "answer": "When does she have to pay this bill?",
       "tasks": [""]
     },
     {
-      "question": "",
-      "answer": "",
+      "question": "Я должен делать упражнения каждый день после завтрака",
+      "answer": "I must do exercise every day after breakfast",
       "tasks": [""]
     },
     {
-      "question": "",
-      "answer": "",
+      "question": "Она должна выглядеть красиво на свидании",
+      "answer": "She must look pretty on the date",
       "tasks": [""]
     },
     {
-      "question": "",
-      "answer": "",
+      "question": "Вам запрещено курить в самолете",
+      "answer": "You mustn't smoke on the airplane",
       "tasks": [""]
     },
     {
-      "question": "",
-      "answer": "",
+      "question": "Его ребенку запрещено гулять в одиночку",
+      "answer": "His child mustn't walk alone",
       "tasks": [""]
     },
     {
-      "question": "",
-      "answer": "",
+      "question": "В какое время нам нужно делать покупки?",
+      "answer": "What time must we do the shopping?",
+      "tasks": [""]
+    },
+    {
+      "question": "Должен ли он мыть посуду после каждого завтрака?",
+      "answer": "Must he do the washing-up after every breakfast?",
       "tasks": [""]
     },
     {
@@ -213,6 +212,6 @@
     }
   ],
   "grammar": {
-    "src": ["./grammar/***.webp"]
+    "src": ["./grammar/must+have-to.webp"]
   }
 }

@@ -7,8 +7,8 @@
     },
     {
       "question": "Я надеюсь не потерять свой багаж в аэропорту",
-      "answer": "I hope to not lose my luggage in an airport",
-      "tasks": ["hope", "to", "not", "lose"]
+      "answer": "I hope not to lose my luggage in an airport",
+      "tasks": ["hope", "not", "to", "lose"]
     },
     {
       "question": "Трудно говорить с новыми людьми",
@@ -17,8 +17,8 @@
     },
     {
       "question": "Важно не попасть в аварию",
-      "answer": "It's important to not have an accident",
-      "tasks": ["important", "to", "not", "have"]
+      "answer": "It's important not to have an accident",
+      "tasks": ["important", "not", "to", "have"]
     },
     {
       "question": "Я не знаю, как улучшить свои знания английского языка",
@@ -41,49 +41,49 @@
       "tasks": ["to", "have", "time", "to", "do"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": []
+      "question": "Покупка новой одежды делает мою жену счастливее",
+      "answer": "Buying new clothes makes my wife happier",
+      "tasks": ["Buying"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": []
+      "question": "Mы рассматриваем возможность присутствия на встрече",
+      "answer": "We are considering the possibility of attending the meeting",
+      "tasks": ["attending"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": []
+      "question": "Мне нравится расслабляться и слушать музыку после тяжелой работы",
+      "answer": "I like relaxing and listening to music after hard work",
+      "tasks": ["relaxing", "listening"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": []
+      "question": "Он лег спать не поужинав",
+      "answer": "He went to bed without having supper",
+      "tasks": ["having"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": []
+      "question": "Я сожалею, что не учил английский в школе",
+      "answer": "I regret not learning English at school",
+      "tasks": ["learning"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": []
+      "question": "Мне не хочется просыпаться слишком рано",
+      "answer": "I don't feel like waking up too early ",
+      "tasks": ["waking"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": []
+      "question": "Я думаю сменить работу",
+      "answer": "I'm thinking of changing my work",
+      "tasks": ["changing"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": []
+      "question": "Она не против путешествовать со мной",
+      "answer": "She don't mind travelling with me",
+      "tasks": ["travelling"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": []
+      "question": "Я не хочу целый год жить в Армении.",
+      "answer": "I don't want to go on living in Armenia whole year",
+      "tasks": ["living"]
     }
   ],
   "grammar": {

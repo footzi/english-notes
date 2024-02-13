@@ -740,27 +740,27 @@
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Эта раковина очень грязная",
+    "answer": "This sink is very dirty",
+    "tasks": ["sink"],
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Он хочет продолжать играть на гитаре",
+    "answer": "He wants to carry on playing guitar",
+    "tasks": ["carry", "on"],
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Я обдумываю новый план",
+    "answer": "I think over new plan",
+    "tasks": ["think", "over"],
     "sound": ""
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
+    "question": "Что касается вызова такси",
+    "answer": "As for getting taxi",
+    "tasks": ["as", "for"],
     "sound": ""
   },
   {
