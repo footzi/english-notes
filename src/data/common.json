@@ -1,868 +1,874 @@
-[
-  {
-    "question": "Это делаем меня грустным",
-    "answer": "It makes me sad",
-    "tasks": ["makes", "sad"]
-  },
-  {
-    "question": "Я очень раздражен этим",
-    "answer": "I am very annoyed by this",
-    "tasks": ["annoyed", "by"]
-  },
-  {
-    "question": "Эта картина меня вдохновляет",
-    "answer": "This picture inspires me",
-    "tasks": ["inspires"]
-  },
-  {
-    "question": "Мне нужно немного времени, чтобы разобраться с лучшим решением этой проблемы",
-    "answer": "I need some time to figure out the best solution to this problem",
-    "tasks": ["need", "some", "to", "figure", "out", "solution"]
-  },
-  {
-    "question": "Я потерял свой кошелек на тротуаре",
-    "answer": "I lost my wallet on the pavement",
-    "tasks": ["pavement"]
-  },
-  {
-    "question": "Мне все равно",
-    "answer": "I don't care",
-    "tasks": ["I", "don't", "care"]
-  },
-  {
-    "question": "Это зависит от тебя",
-    "answer": "It's up to you",
-    "tasks": ["It's", "up", "to", "you"]
-  },
-  {
-    "question": "Как она выглядит?",
-    "answer": "What does she look like ?",
-    "tasks": ["What", "does", "she", "look", "like"]
-  },
-  {
-    "question": "Какой у него характер?",
-    "answer": "What is he like ?",
-    "tasks": ["What", "is", "he", "like"]
-  },
-  {
-    "question": "Какой он? (город)",
-    "answer": "What is it like ?",
-    "tasks": ["What", "is", "it", "like"]
-  },
-  {
-    "question": "Давай пойдем на этот холм",
-    "answer": "Let's go to this hill",
-    "tasks": ["hill"]
-  },
-  {
-    "question": "Я хочу посмотреть ратушу",
-    "answer": "I want to see a town hall",
-    "tasks": ["town", "hall"]
-  },
-  {
-    "question": "Наш корабль приходит в гавань",
-    "answer": "Our ship comes to a harbour",
-    "tasks": ["harbour"]
-  },
-  {
-    "question": "Это еще не ясно",
-    "answer": "It's not clear yet",
-    "tasks": ["It's", "not", "clear", "yet"]
-  },
-  {
-    "question": "Мы узнали, кто был убийцей",
-    "answer": "We found out who was a killer",
-    "tasks": ["found", "out"]
-  },
-  {
-    "question": "Я не люблю молочные продукты",
-    "answer": "I don't like dairy",
-    "tasks": ["dairy"]
-  },
-  {
-    "question": "Я никогда не пью газировку",
-    "answer": "I never drink fizzy",
-    "tasks": ["fizzy"]
-  },
-  {
-    "question": "Я разбил кувшин",
-    "answer": "I broke the jug",
-    "tasks": ["jug"]
-  },
-  {
-    "question": "Они разделили второе место",
-    "answer": "They joint second place",
-    "tasks": ["joint"]
-  },
-  {
-    "question": "Это противоречит нашим правилам",
-    "answer": "It contradicts our rules",
-    "tasks": ["contradicts"]
-  },
-  {
-    "question": "Получается вкусно",
-    "answer": "It turned out delicious",
-    "tasks": ["It", "turned", "out"]
-  },
-  {
-    "question": "Я снижаю риск болезни",
-    "answer": "I reduce the risk of illness",
-    "tasks": ["reduce"]
-  },
-  {
-    "question": "Кофе не дает вам заснуть",
-    "answer": "Сoffee keeps you awake",
-    "tasks": ["keeps", "you", "awake"]
-  },
-  {
-    "question": "Я не очень люблю бегать",
-    "answer": "I'm not keen on running",
-    "tasks": ["keen", "on"]
-  },
-  {
-    "question": "Давай, не отставай",
-    "answer": "Come on, keep up",
-    "tasks": ["Come", "on", "keep", "up"]
-  },
-  {
-    "question": "Я в хорошей форме",
-    "answer": "I'm in good shape",
-    "tasks": ["in", "good", "shape"]
-  },
-  {
-    "question": "Я поддерживаю форму",
-    "answer": "I keep fit",
-    "tasks": ["keep", "fit"]
-  },
-  {
-    "question": "Я останусь здесь еще на 3 недели",
-    "answer": "I stay here for another 3 weeks",
-    "tasks": ["for", "another"]
-  },
-  {
-    "question": "Почему бы тебе не купить ей цветы?",
-    "answer": "Why don't you buy her some flowers?",
-    "tasks": ["Why", "don't", "you"]
-  },
-  {
-    "question": "79c",
-    "answer": "seventy-nine cents",
-    "tasks": ["seventy-nine", "cents"]
-  },
-  {
-    "question": "59p",
-    "answer": "fifty-nine pence",
-    "tasks": ["fifty-nine", "pence"]
-  },
-  {
-    "question": "€10.55",
-    "answer": "ten euros fifty-five",
-    "tasks": ["ten", "euros", "fifty-five"]
-  },
-  {
-    "question": "£3.27",
-    "answer": "three pounds twenty-seven",
-    "tasks": ["three", "pounds", "twenty-seven"]
-  },
-  {
-    "question": "Примерь эту футболку",
-    "answer": "Try on this t-short",
-    "tasks": ["Try", "on"]
-  },
-  {
-    "question": "Можем ли мы сделать это немного позже?",
-    "answer": "Can we make it a bit later ?",
-    "tasks": ["Can", "we", "make", "it", "a", "bit", "later"]
-  },
-  {
-    "question": "Ты знаешь, собрания",
-    "answer": "You know , meetings",
-    "tasks": ["You", "know"]
-  },
-  {
-    "question": "Давай сделаем это в 7",
-    "answer": "Let's make it seven",
-    "tasks": ["Let's", "make", "it"]
-  },
-  {
-    "question": "Он часто хвалит своего ребенка",
-    "answer": "He often praises his child",
-    "tasks": ["praises"]
-  },
-  {
-    "question": "У тебя был хороший день?",
-    "answer": "Have you had a good day ?",
-    "tasks": ["Have", "you", "had", "a", "good", "day"]
-  },
-  {
-    "question": "А ты?",
-    "answer": "What about you ?",
-    "tasks": ["What", "about", "you"]
-  },
-  {
-    "question": "В какое время?",
-    "answer": "What time ?",
-    "tasks": ["What", "time"]
-  },
-  {
-    "question": "Подойдет ли это вам? (Про время)",
-    "answer": "Will it work for you ?",
-    "tasks": ["Will", "it", "work", "for", "you"]
-  },
-  {
-    "question": "Я бы с удовольствием приготовил завтрак для тебя",
-    "answer": "I would love to cook breakfast for you",
-    "tasks": ["I", "would", "love", "to", "cook"]
-  },
-  {
-    "question": "Ой, извини, продолжай",
-    "answer": "Oh sorry , go on",
-    "tasks": ["sorry", "go", "on"]
-  },
-  {
-    "question": "Мне кажется, моя собака толстая",
-    "answer": "It seems to me my dog is fat",
-    "tasks": ["It", "seems", "to", "me"]
-  },
-  {
-    "question": "Он занял у меня деньги",
-    "answer": "He borrowed money from me",
-    "tasks": ["borrowed", "money", "from", "me"]
-  },
-  {
-    "question": "Я одалживаю ему деньги",
-    "answer": "I lend money to him",
-    "tasks": ["lend", "money", "to", "him"]
-  },
-  {
-    "question": "Я обычно теряю ключи",
-    "answer": "I usually lose my keys",
-    "tasks": ["lose"]
-  },
-  {
-    "question": "Я сдал экзамен",
-    "answer": "I passed on exam",
-    "tasks": ["passed", "on"]
-  },
-  {
-    "question": "Я провалил экзамен",
-    "answer": "I failed on exam",
-    "tasks": ["failed", "on"]
-  },
-  {
-    "question": "Я приеду в 6",
-    "answer": "I'll arrive at 6",
-    "tasks": ["I'll", "arrive", "at"]
-  },
-  {
-    "question": "Я уйду в 10",
-    "answer": "I'll leave at 10",
-    "tasks": ["I'll", "leave", "at"]
-  },
-  {
-    "question": "Я починю твои очки",
-    "answer": "I'll mend your glasses",
-    "tasks": ["I'll", "mend"]
-  },
-  {
-    "question": "Если побежим, то успеем на поезд в 6.14",
-    "answer": "If we run, we can catch the 6.14 train",
-    "tasks": ["catch"]
-  },
-  {
-    "question": "Если не побежим, то опоздаем на поезд в 5",
-    "answer": "If we don't run, we miss the 5 train",
-    "tasks": ["miss"]
-  },
-  {
-    "question": "Я собираюсь на станцию забрать Тима",
-    "answer": "I'm going to station to pick up Tim",
-    "tasks": ["pick", "up"]
-  },
-  {
-    "question": "Я собираюсь на станцию высадить Тима",
-    "answer": "I'm going to station to drop off Tim",
-    "tasks": ["drop", "off"]
-  },
-  {
-    "question": "Она попросила его приготовить ужин",
-    "answer": "She asked him for cook dinner",
-    "tasks": ["asked", "for"]
-  },
-  {
-    "question": "Я сомневаюсь в этом",
-    "answer": "I doubt it",
-    "tasks": ["I", "doubt", "it"]
-  },
-  {
-    "question": "Этот фильм был отстой",
-    "answer": "This film was suck",
-    "tasks": ["suck"]
-  },
-  {
-    "question": "айфон прослужит много времени",
-    "answer": "iPhone will serve a lot of time",
-    "tasks": ["serve"]
-  },
-  {
-    "question": "Я обычно побеждаю в шахматах",
-    "answer": "I usually defeat at chess",
-    "tasks": ["defeat"]
-  },
-  {
-    "question": "Я ем обычный хлеб",
-    "answer": "I eat usual bread",
-    "tasks": ["usual"]
-  },
-  {
-    "question": "Я справился с тревогой",
-    "answer": "I managed anxiety",
-    "tasks": ["anxiety"]
-  },
-  {
-    "question": "Я могу заранее зарядить их",
-    "answer": "I can charge them in advance",
-    "tasks": ["in", "advance"]
-  },
-  {
-    "question": "Я напомню ему завтра",
-    "answer": "I'll remind him tomorrow",
-    "tasks": ["remind"]
-  },
-  {
-    "question": "Когда я вижу тебя, я становлюсь неуверенным",
-    "answer": "When I see you, I get insecure",
-    "tasks": ["get", "insecure"]
-  },
-  {
-    "question": "Твой ребенок мешает мне",
-    "answer": "Your child hinder me",
-    "tasks": ["hinder"]
-  },
-  {
-    "question": "У меня нет когнитивных искажений",
-    "answer": "I don't have cognitive distortion",
-    "tasks": ["cognitive", "distortion"]
-  },
-  {
-    "question": "Он всегда говорит о крайностях",
-    "answer": "He always talk about extremes",
-    "tasks": ["extremes"]
-  },
-  {
-    "question": "Я предполагаю, это будет работать",
-    "answer": "I assume , It'll be working",
-    "tasks": ["assume"]
-  },
-  {
-    "question": "Я могу восстановить контроль над своим телом",
-    "answer": "I can regain control of my body",
-    "tasks": ["regain", "control", "of"]
-  },
-  {
-    "question": "Вам следует изменить свое восприятие или переосмыслить",
-    "answer": "You should change your perception or reframe",
-    "tasks": ["perception", "reframe"]
-  },
-  {
-    "question": "Его утверждения не верны",
-    "answer": "His affirmations don't correct",
-    "tasks": ["affirmations"]
-  },
-  {
-    "question": "Я обычно потею и сжимаю кулаки",
-    "answer": "I usually sweat and clench fists",
-    "tasks": ["sweat", "clench", "fists"]
-  },
-  {
-    "question": "У нее затрудненное дыхание",
-    "answer": "She has labored breathing",
-    "tasks": ["labored", "breathing"]
-  },
-  {
-    "question": "Я могу побороть свой страх",
-    "answer": "I can overwhelm my fear",
-    "tasks": ["overwhelm"]
-  },
-  {
-    "question": "Они осуждают меня",
-    "answer": "They judgment me",
-    "tasks": ["judgment"]
-  },
-  {
-    "question": "Это идет не так",
-    "answer": "It goes wrong",
-    "tasks": ["goes", "wrong"]
-  },
-  {
-    "question": "Мне срочно нужно это фото",
-    "answer": "I need that photo urgently",
-    "tasks": ["urgently"]
-  },
-  {
-    "question": "Мне приготовить тебе сэндвич? (Offer)",
-    "answer": "Shall I make you a sandwich?",
-    "tasks": ["Shall", "I", "make"]
-  },
-  {
-    "question": "Мы мгновенно испугались",
-    "answer": "We were instantly scared",
-    "tasks": ["instantly"]
-  },
-  {
-    "question": "Мы не обнимались",
-    "answer": "We didn't hug",
-    "tasks": ["hug"]
-  },
-  {
-    "question": "Завтра отец отвезет меня домой",
-    "answer": "My father will take me home tomorrow",
-    "tasks": ["take", "me", "home"]
-  },
-  {
-    "question": "Они поменялись номерами телефонов",
-    "answer": "They swapped phone numbers",
-    "tasks": ["swapped"]
-  },
-  {
-    "question": "Я перезвоню тебе через 15 минут",
-    "answer": "I'll call you back in 15 minutes",
-    "tasks": ["call", "you", "back"]
-  },
-  {
-    "question": "Я верну тебе деньги на следующей неделе",
-    "answer": "I'll pay you back next week",
-    "tasks": ["pay", "you", "back"]
-  },
-  {
-    "question": "Это было всего лишь совпадение",
-    "answer": "It was merely a coincidence",
-    "tasks": ["coincidence"]
-  },
-  {
-    "question": "Это был предвидящий сон",
-    "answer": "It's a precognitive dream",
-    "tasks": ["precognitive"]
-  },
-  {
-    "question": "Мое сознание затуманено",
-    "answer": "My consciousness is clouded",
-    "tasks": ["consciousness"]
-  },
-  {
-    "question": "Учитывая характер задачи",
-    "answer": "Given the nature of task",
-    "tasks": ["Given", "the", "nature", "of"]
-  },
-  {
-    "question": "Мы быстро обсудили это",
-    "answer": "We debated it fast",
-    "tasks": ["debated"]
-  },
-  {
-    "question": "Это будет рассматриваться как убийство",
-    "answer": "It'll be regarded as a murder",
-    "tasks": ["be", "regarded", "as"]
-  },
-  {
-    "question": "Мы одновременно спросили ее",
-    "answer": "We simultaneously asked her",
-    "tasks": ["simultaneously"]
-  },
-  {
-    "question": "Я буду руководить (проводить) этим проект",
-    "answer": "I'll conduct this project",
-    "tasks": ["conduct"]
-  },
-  {
-    "question": "У нас есть 4-мерное пространство.",
-    "answer": "We have 4-dimension in the space",
-    "tasks": ["4-dimension"]
-  },
-  {
-    "question": "Мы пересекли эту линию",
-    "answer": "We traversed this line",
-    "tasks": ["traversed"]
-  },
-  {
-    "question": "Эта история произошла в прошлом году",
-    "answer": "This story occurred last year",
-    "tasks": ["occurred"]
-  },
-  {
-    "question": "У вас недостаточно уверенности в своих способностях",
-    "answer": "You don't have enough confidence in your ability",
-    "tasks": ["confidence", "ability"]
-  },
-  {
-    "question": "Это враждебная часть страны",
-    "answer": "It is a hostile part of the country",
-    "tasks": ["hostile"]
-  },
-  {
-    "question": "Ее советники решили",
-    "answer": "Her advisers decided",
-    "tasks": ["advisers"]
-  },
-  {
-    "question": "Его маршрут включал официальный визит в Канаду.",
-    "answer": "His itinerary included an official visit to Canada",
-    "tasks": ["itinerary"]
-  },
-  {
-    "question": "Можете ли вы рассказать мне о правилах компании, если они есть?",
-    "answer": "Can you tell me about company rules, if there are any ?",
-    "tasks": ["there", "are", "any"]
-  },
-  {
-    "question": "Я понял",
-    "answer": "I got it",
-    "tasks": ["I", "got", "it"]
-  },
-  {
-    "question": "Ждать автобус",
-    "answer": "Wait for a bus",
-    "tasks": ["Wait", "for"]
-  },
-  {
-    "question": "Говорить со своим учителем",
-    "answer": "Speak to your teacher",
-    "tasks": ["Speak", "to"]
-  },
-  {
-    "question": "Это оказалось слишком официально",
-    "answer": "It turned out to be too formal",
-    "tasks": ["turned", "out"]
-  },
-  {
-    "question": "Он стал предметом сплетен",
-    "answer": "He became the subject of gossip",
-    "tasks": ["gossip"]
-  },
-  {
-    "question": "Эта игра имеет решающее значение для нашего выживания",
-    "answer": "This game is crucial to our survival",
-    "tasks": ["crucial"],
-    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cru/cruci/crucial__gb_2.mp3"
-  },
-  {
-    "question": "Мне постоянно интересно",
-    "answer": "I'm constantly wondering",
-    "tasks": ["constantly", "wondering"]
-  },
-  {
-    "question": "Игроки продемонстрировали разную степень компетентности.",
-    "answer": "The players displayed varying degrees of competence",
-    "tasks": ["displayed", "competence"],
-    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/competence__gb_1.mp3"
-  },
-  {
-    "question": "Я не могу взять на себя такое обязательство в данный момент",
-    "answer": "I cannot make such a commitment at the moment",
-    "tasks": ["commitment"]
-  },
-  {
-    "question": "Он выступает за совместимость науки и религии",
-    "answer": "He argues for the compatibility of science and religion",
-    "tasks": ["argue", "compatibility"],
-    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compa/compatibility__gb_1.mp3"
-  },
-  {
-    "question": "Это полный хаос",
-    "answer": "It's utter chaos",
-    "tasks": ["utter", "chaos"],
-    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chaos/chaos__gb_2.mp3"
-  },
-  {
-    "question": "Нам нужен совершенно новый подход к работе",
-    "answer": "We need a whole new approach to the job",
-    "tasks": ["whole", "approach"]
-  },
-  {
-    "question": "Ваш босс хочет этих ожиданий",
-    "answer": "Your boss wants these expectations",
-    "tasks": ["expectations"],
-    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/exp/expec/expectation__gb_1.mp3"
-  },
-  {
-    "question": "Для своих сверстников старайтесь вести себя более повседневно",
-    "answer": "For your peers try to go more casual",
-    "tasks": ["peers", "casual"]
-  },
-  {
-    "question": "Ладить с нами",
-    "answer": "Get along with us",
-    "tasks": ["Get", "along"]
-  },
-  {
-    "question": "Начав разговор, вы выражаете совместимость",
-    "answer": "By initiating conversations you are expressing compatibility",
-    "tasks": ["initiating", "conversations", "expressing", "compatibility"],
-    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compa/compatibility__gb_1.mp3"
-  },
-  {
-    "question": "Ее верность мужу 34 года",
-    "answer": "Her loyalty to her husband of 34 years",
-    "tasks": ["loyalty"]
-  },
-  {
-    "question": "Какое поведение вознаграждается или наказывается ?",
-    "answer": "Which behaviors get rewarded or punished ?",
-    "tasks": ["get", "rewarded", "punished"]
-  },
-  {
-    "question": "Эта линия для плавания не занята",
-    "answer": "This swim lane is unoccupied",
-    "tasks": ["unoccupied"],
-    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/uno/unocc/unoccupied__gb_1.mp3"
-  },
-  {
-    "question": "Эта линия для плавания занята",
-    "answer": "This swim lane is occupied",
-    "tasks": ["occupied"],
-    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/occ/occup/occupied__gb_1.mp3"
-  },
-  {
-    "question": "Я компетентен замечать пробелы",
-    "answer": "I'm competent to spot gaps",
-    "tasks": ["competent", "spot", "gaps"],
-    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/competent__gb_1.mp3"
-  },
-  {
-    "question": "Я чувствую тревогу, когда вижу ее",
-    "answer": "I'm feeling anxiety when I see her",
-    "tasks": ["anxiety"],
-    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anx/anxie/anxiety__gb_1.mp3"
-  },
-  {
-    "question": "Он подвезет нас до станции",
-    "answer": "He'll give us a lift to the station",
-    "tasks": ["give", "us", "a", "lift"],
-    "sound": ""
-  },
-  {
-    "question": "Босс спросил ее, не слишком ли маленькие для нее дети.",
-    "answer": "The boss asked her If the children were too young for her",
-    "tasks": ["If"],
-    "sound": ""
-  },
-  {
-    "question": "Мне трудно вспомнить словарный запас, когда я разговариваю с людьми",
-    "answer": "It's difficult to recall vocabulary when I'm speaking with people",
-    "tasks": ["recall"],
-    "sound": ""
-  },
-  {
-    "question": "Предложите оплатить половину счета, но не настаивайте.",
-    "answer": "Offer to pay your half of the bill, but don't insist",
-    "tasks": ["insist"],
-    "sound": ""
-  },
-  {
-    "question": "Она слишком молода, чтобы курить",
-    "answer": "She's too young so that she cannot smoke",
-    "tasks": ["so", "that"],
-    "sound": ""
-  },
-  {
-    "question": "Это соответствует нашим правилам",
-    "answer": "It appropriates our rules",
-    "tasks": ["appropriates"],
-    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appro/appropriate__gb_4.mp3"
-  },
-  {
-    "question": "Я бросил кататься на скейтборде",
-    "answer": "I quit skateboarding",
-    "tasks": ["quit"],
-    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quit_/quit__gb_1.mp3"
-  },
-  {
-    "question": "У меня нет настроения сегодня готовить",
-    "answer": "I don't feel like cooking today",
-    "tasks": ["don't", "feel", "like"],
-    "sound": ""
-  },
-  {
-    "question": "Я их не снимаю",
-    "answer": "I don't take off them",
-    "tasks": ["take", "off", "them"],
-    "sound": ""
-  },
-  {
-    "question": "Давай залезем в горячую ванную",
-    "answer": "Lets to get into a hot tub",
-    "tasks": ["get", "into", "tub"],
-    "sound": ""
-  },
-  {
-    "question": "Он хочет обменять свой кекс на шоколадку.",
-    "answer": "He wants to swap his cupcake for a candy bar.",
-    "tasks": ["swap"],
-    "sound": ""
-  },
-  {
-    "question": "Я хочу сделать это в своем собственном темпе",
-    "answer": "I want to do this at my own pace",
-    "tasks": ["at", "my", "own", "pace"],
-    "sound": ""
-  },
-  {
-    "question": "Я не могу исправить свои недостатки",
-    "answer": "I can't fix my drawbacks",
-    "tasks": ["drawbacks"],
-    "sound": ""
-  },
-  {
-    "question": "Он часто нас обманывает",
-    "answer": "He often deceives us",
-    "tasks": ["deceives"],
-    "sound": ""
-  },
-  {
-    "question": "Их свободное время",
-    "answer": "Their non-leisure time",
-    "tasks": ["non-leisure"]
-  },
-  {
-    "question": "Она сказала, что отчет обнадеживает",
-    "answer": "She said the report was encouraging",
-    "tasks": ["encouraging"]
-  },
-  {
-    "question": "Наименее близкое мне это",
-    "answer": "The least relatable to me is",
-    "tasks": ["least", "relatable", "to"]
-  },
-  {
-    "question": "Ваша доля прибыли составит 20%",
-    "answer": "Your share of the profit will be 20%",
-    "tasks": ["share", "profit"],
-    "sound": ""
-  },
-  {
-    "question": "Эта раковина очень грязная",
-    "answer": "This sink is very dirty",
-    "tasks": ["sink"],
-    "sound": ""
-  },
-  {
-    "question": "Он хочет продолжать играть на гитаре",
-    "answer": "He wants to carry on playing guitar",
-    "tasks": ["carry", "on"],
-    "sound": ""
-  },
-  {
-    "question": "Я обдумываю новый план",
-    "answer": "I think over new plan",
-    "tasks": ["think", "over"],
-    "sound": ""
-  },
-  {
-    "question": "Что касается вызова такси",
-    "answer": "As for getting taxi",
-    "tasks": ["As", "for"],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
-  },
-  {
-    "question": "",
-    "answer": "",
-    "tasks": [""],
-    "sound": ""
+{
+  "sentences": [
+    {
+      "question": "Это делаем меня грустным",
+      "answer": "It makes me sad",
+      "tasks": ["makes", "sad"]
+    },
+    {
+      "question": "Я очень раздражен этим",
+      "answer": "I am very annoyed by this",
+      "tasks": ["annoyed", "by"]
+    },
+    {
+      "question": "Эта картина меня вдохновляет",
+      "answer": "This picture inspires me",
+      "tasks": ["inspires"]
+    },
+    {
+      "question": "Мне нужно немного времени, чтобы разобраться с лучшим решением этой проблемы",
+      "answer": "I need some time to figure out the best solution to this problem",
+      "tasks": ["need", "some", "to", "figure", "out", "solution"]
+    },
+    {
+      "question": "Я потерял свой кошелек на тротуаре",
+      "answer": "I lost my wallet on the pavement",
+      "tasks": ["pavement"]
+    },
+    {
+      "question": "Мне все равно",
+      "answer": "I don't care",
+      "tasks": ["I", "don't", "care"]
+    },
+    {
+      "question": "Это зависит от тебя",
+      "answer": "It's up to you",
+      "tasks": ["It's", "up", "to", "you"]
+    },
+    {
+      "question": "Как она выглядит?",
+      "answer": "What does she look like ?",
+      "tasks": ["What", "does", "she", "look", "like"]
+    },
+    {
+      "question": "Какой у него характер?",
+      "answer": "What is he like ?",
+      "tasks": ["What", "is", "he", "like"]
+    },
+    {
+      "question": "Какой он? (город)",
+      "answer": "What is it like ?",
+      "tasks": ["What", "is", "it", "like"]
+    },
+    {
+      "question": "Давай пойдем на этот холм",
+      "answer": "Let's go to this hill",
+      "tasks": ["hill"]
+    },
+    {
+      "question": "Я хочу посмотреть ратушу",
+      "answer": "I want to see a town hall",
+      "tasks": ["town", "hall"]
+    },
+    {
+      "question": "Наш корабль приходит в гавань",
+      "answer": "Our ship comes to a harbour",
+      "tasks": ["harbour"]
+    },
+    {
+      "question": "Это еще не ясно",
+      "answer": "It's not clear yet",
+      "tasks": ["It's", "not", "clear", "yet"]
+    },
+    {
+      "question": "Мы узнали, кто был убийцей",
+      "answer": "We found out who was a killer",
+      "tasks": ["found", "out"]
+    },
+    {
+      "question": "Я не люблю молочные продукты",
+      "answer": "I don't like dairy",
+      "tasks": ["dairy"]
+    },
+    {
+      "question": "Я никогда не пью газировку",
+      "answer": "I never drink fizzy",
+      "tasks": ["fizzy"]
+    },
+    {
+      "question": "Я разбил кувшин",
+      "answer": "I broke the jug",
+      "tasks": ["jug"]
+    },
+    {
+      "question": "Они разделили второе место",
+      "answer": "They joint second place",
+      "tasks": ["joint"]
+    },
+    {
+      "question": "Это противоречит нашим правилам",
+      "answer": "It contradicts our rules",
+      "tasks": ["contradicts"]
+    },
+    {
+      "question": "Получается вкусно",
+      "answer": "It turned out delicious",
+      "tasks": ["It", "turned", "out"]
+    },
+    {
+      "question": "Я снижаю риск болезни",
+      "answer": "I reduce the risk of illness",
+      "tasks": ["reduce"]
+    },
+    {
+      "question": "Кофе не дает вам заснуть",
+      "answer": "Сoffee keeps you awake",
+      "tasks": ["keeps", "you", "awake"]
+    },
+    {
+      "question": "Я не очень люблю бегать",
+      "answer": "I'm not keen on running",
+      "tasks": ["keen", "on"]
+    },
+    {
+      "question": "Давай, не отставай",
+      "answer": "Come on, keep up",
+      "tasks": ["Come", "on", "keep", "up"]
+    },
+    {
+      "question": "Я в хорошей форме",
+      "answer": "I'm in good shape",
+      "tasks": ["in", "good", "shape"]
+    },
+    {
+      "question": "Я поддерживаю форму",
+      "answer": "I keep fit",
+      "tasks": ["keep", "fit"]
+    },
+    {
+      "question": "Я останусь здесь еще на 3 недели",
+      "answer": "I stay here for another 3 weeks",
+      "tasks": ["for", "another"]
+    },
+    {
+      "question": "Почему бы тебе не купить ей цветы?",
+      "answer": "Why don't you buy her some flowers?",
+      "tasks": ["Why", "don't", "you"]
+    },
+    {
+      "question": "79c",
+      "answer": "seventy-nine cents",
+      "tasks": ["seventy-nine", "cents"]
+    },
+    {
+      "question": "59p",
+      "answer": "fifty-nine pence",
+      "tasks": ["fifty-nine", "pence"]
+    },
+    {
+      "question": "€10.55",
+      "answer": "ten euros fifty-five",
+      "tasks": ["ten", "euros", "fifty-five"]
+    },
+    {
+      "question": "£3.27",
+      "answer": "three pounds twenty-seven",
+      "tasks": ["three", "pounds", "twenty-seven"]
+    },
+    {
+      "question": "Примерь эту футболку",
+      "answer": "Try on this t-short",
+      "tasks": ["Try", "on"]
+    },
+    {
+      "question": "Можем ли мы сделать это немного позже?",
+      "answer": "Can we make it a bit later ?",
+      "tasks": ["Can", "we", "make", "it", "a", "bit", "later"]
+    },
+    {
+      "question": "Ты знаешь, собрания",
+      "answer": "You know , meetings",
+      "tasks": ["You", "know"]
+    },
+    {
+      "question": "Давай сделаем это в 7",
+      "answer": "Let's make it seven",
+      "tasks": ["Let's", "make", "it"]
+    },
+    {
+      "question": "Он часто хвалит своего ребенка",
+      "answer": "He often praises his child",
+      "tasks": ["praises"]
+    },
+    {
+      "question": "У тебя был хороший день?",
+      "answer": "Have you had a good day ?",
+      "tasks": ["Have", "you", "had", "a", "good", "day"]
+    },
+    {
+      "question": "А ты?",
+      "answer": "What about you ?",
+      "tasks": ["What", "about", "you"]
+    },
+    {
+      "question": "В какое время?",
+      "answer": "What time ?",
+      "tasks": ["What", "time"]
+    },
+    {
+      "question": "Подойдет ли это вам? (Про время)",
+      "answer": "Will it work for you ?",
+      "tasks": ["Will", "it", "work", "for", "you"]
+    },
+    {
+      "question": "Я бы с удовольствием приготовил завтрак для тебя",
+      "answer": "I would love to cook breakfast for you",
+      "tasks": ["I", "would", "love", "to", "cook"]
+    },
+    {
+      "question": "Ой, извини, продолжай",
+      "answer": "Oh sorry , go on",
+      "tasks": ["sorry", "go", "on"]
+    },
+    {
+      "question": "Мне кажется, моя собака толстая",
+      "answer": "It seems to me my dog is fat",
+      "tasks": ["It", "seems", "to", "me"]
+    },
+    {
+      "question": "Он занял у меня деньги",
+      "answer": "He borrowed money from me",
+      "tasks": ["borrowed", "money", "from", "me"]
+    },
+    {
+      "question": "Я одалживаю ему деньги",
+      "answer": "I lend money to him",
+      "tasks": ["lend", "money", "to", "him"]
+    },
+    {
+      "question": "Я обычно теряю ключи",
+      "answer": "I usually lose my keys",
+      "tasks": ["lose"]
+    },
+    {
+      "question": "Я сдал экзамен",
+      "answer": "I passed on exam",
+      "tasks": ["passed", "on"]
+    },
+    {
+      "question": "Я провалил экзамен",
+      "answer": "I failed on exam",
+      "tasks": ["failed", "on"]
+    },
+    {
+      "question": "Я приеду в 6",
+      "answer": "I'll arrive at 6",
+      "tasks": ["I'll", "arrive", "at"]
+    },
+    {
+      "question": "Я уйду в 10",
+      "answer": "I'll leave at 10",
+      "tasks": ["I'll", "leave", "at"]
+    },
+    {
+      "question": "Я починю твои очки",
+      "answer": "I'll mend your glasses",
+      "tasks": ["I'll", "mend"]
+    },
+    {
+      "question": "Если побежим, то успеем на поезд в 6.14",
+      "answer": "If we run, we can catch the 6.14 train",
+      "tasks": ["catch"]
+    },
+    {
+      "question": "Если не побежим, то опоздаем на поезд в 5",
+      "answer": "If we don't run, we miss the 5 train",
+      "tasks": ["miss"]
+    },
+    {
+      "question": "Я собираюсь на станцию забрать Тима",
+      "answer": "I'm going to station to pick up Tim",
+      "tasks": ["pick", "up"]
+    },
+    {
+      "question": "Я собираюсь на станцию высадить Тима",
+      "answer": "I'm going to station to drop off Tim",
+      "tasks": ["drop", "off"]
+    },
+    {
+      "question": "Она попросила его приготовить ужин",
+      "answer": "She asked him for cook dinner",
+      "tasks": ["asked", "for"]
+    },
+    {
+      "question": "Я сомневаюсь в этом",
+      "answer": "I doubt it",
+      "tasks": ["I", "doubt", "it"]
+    },
+    {
+      "question": "Этот фильм был отстой",
+      "answer": "This film was suck",
+      "tasks": ["suck"]
+    },
+    {
+      "question": "айфон прослужит много времени",
+      "answer": "iPhone will serve a lot of time",
+      "tasks": ["serve"]
+    },
+    {
+      "question": "Я обычно побеждаю в шахматах",
+      "answer": "I usually defeat at chess",
+      "tasks": ["defeat"]
+    },
+    {
+      "question": "Я ем обычный хлеб",
+      "answer": "I eat usual bread",
+      "tasks": ["usual"]
+    },
+    {
+      "question": "Я справился с тревогой",
+      "answer": "I managed anxiety",
+      "tasks": ["anxiety"]
+    },
+    {
+      "question": "Я могу заранее зарядить их",
+      "answer": "I can charge them in advance",
+      "tasks": ["in", "advance"]
+    },
+    {
+      "question": "Я напомню ему завтра",
+      "answer": "I'll remind him tomorrow",
+      "tasks": ["remind"]
+    },
+    {
+      "question": "Когда я вижу тебя, я становлюсь неуверенным",
+      "answer": "When I see you, I get insecure",
+      "tasks": ["get", "insecure"]
+    },
+    {
+      "question": "Твой ребенок мешает мне",
+      "answer": "Your child hinder me",
+      "tasks": ["hinder"]
+    },
+    {
+      "question": "У меня нет когнитивных искажений",
+      "answer": "I don't have cognitive distortion",
+      "tasks": ["cognitive", "distortion"]
+    },
+    {
+      "question": "Он всегда говорит о крайностях",
+      "answer": "He always talk about extremes",
+      "tasks": ["extremes"]
+    },
+    {
+      "question": "Я предполагаю, это будет работать",
+      "answer": "I assume , It'll be working",
+      "tasks": ["assume"]
+    },
+    {
+      "question": "Я могу восстановить контроль над своим телом",
+      "answer": "I can regain control of my body",
+      "tasks": ["regain", "control", "of"]
+    },
+    {
+      "question": "Вам следует изменить свое восприятие или переосмыслить",
+      "answer": "You should change your perception or reframe",
+      "tasks": ["perception", "reframe"]
+    },
+    {
+      "question": "Его утверждения не верны",
+      "answer": "His affirmations don't correct",
+      "tasks": ["affirmations"]
+    },
+    {
+      "question": "Я обычно потею и сжимаю кулаки",
+      "answer": "I usually sweat and clench fists",
+      "tasks": ["sweat", "clench", "fists"]
+    },
+    {
+      "question": "У нее затрудненное дыхание",
+      "answer": "She has labored breathing",
+      "tasks": ["labored", "breathing"]
+    },
+    {
+      "question": "Я могу побороть свой страх",
+      "answer": "I can overwhelm my fear",
+      "tasks": ["overwhelm"]
+    },
+    {
+      "question": "Они осуждают меня",
+      "answer": "They judgment me",
+      "tasks": ["judgment"]
+    },
+    {
+      "question": "Это идет не так",
+      "answer": "It goes wrong",
+      "tasks": ["goes", "wrong"]
+    },
+    {
+      "question": "Мне срочно нужно это фото",
+      "answer": "I need that photo urgently",
+      "tasks": ["urgently"]
+    },
+    {
+      "question": "Мне приготовить тебе сэндвич? (Offer)",
+      "answer": "Shall I make you a sandwich?",
+      "tasks": ["Shall", "I", "make"]
+    },
+    {
+      "question": "Мы мгновенно испугались",
+      "answer": "We were instantly scared",
+      "tasks": ["instantly"]
+    },
+    {
+      "question": "Мы не обнимались",
+      "answer": "We didn't hug",
+      "tasks": ["hug"]
+    },
+    {
+      "question": "Завтра отец отвезет меня домой",
+      "answer": "My father will take me home tomorrow",
+      "tasks": ["take", "me", "home"]
+    },
+    {
+      "question": "Они поменялись номерами телефонов",
+      "answer": "They swapped phone numbers",
+      "tasks": ["swapped"]
+    },
+    {
+      "question": "Я перезвоню тебе через 15 минут",
+      "answer": "I'll call you back in 15 minutes",
+      "tasks": ["call", "you", "back"]
+    },
+    {
+      "question": "Я верну тебе деньги на следующей неделе",
+      "answer": "I'll pay you back next week",
+      "tasks": ["pay", "you", "back"]
+    },
+    {
+      "question": "Это было всего лишь совпадение",
+      "answer": "It was merely a coincidence",
+      "tasks": ["coincidence"]
+    },
+    {
+      "question": "Это был предвидящий сон",
+      "answer": "It's a precognitive dream",
+      "tasks": ["precognitive"]
+    },
+    {
+      "question": "Мое сознание затуманено",
+      "answer": "My consciousness is clouded",
+      "tasks": ["consciousness"]
+    },
+    {
+      "question": "Учитывая характер задачи",
+      "answer": "Given the nature of task",
+      "tasks": ["Given", "the", "nature", "of"]
+    },
+    {
+      "question": "Мы быстро обсудили это",
+      "answer": "We debated it fast",
+      "tasks": ["debated"]
+    },
+    {
+      "question": "Это будет рассматриваться как убийство",
+      "answer": "It'll be regarded as a murder",
+      "tasks": ["be", "regarded", "as"]
+    },
+    {
+      "question": "Мы одновременно спросили ее",
+      "answer": "We simultaneously asked her",
+      "tasks": ["simultaneously"]
+    },
+    {
+      "question": "Я буду руководить (проводить) этим проект",
+      "answer": "I'll conduct this project",
+      "tasks": ["conduct"]
+    },
+    {
+      "question": "У нас есть 4-мерное пространство.",
+      "answer": "We have 4-dimension in the space",
+      "tasks": ["4-dimension"]
+    },
+    {
+      "question": "Мы пересекли эту линию",
+      "answer": "We traversed this line",
+      "tasks": ["traversed"]
+    },
+    {
+      "question": "Эта история произошла в прошлом году",
+      "answer": "This story occurred last year",
+      "tasks": ["occurred"]
+    },
+    {
+      "question": "У вас недостаточно уверенности в своих способностях",
+      "answer": "You don't have enough confidence in your ability",
+      "tasks": ["confidence", "ability"]
+    },
+    {
+      "question": "Это враждебная часть страны",
+      "answer": "It is a hostile part of the country",
+      "tasks": ["hostile"]
+    },
+    {
+      "question": "Ее советники решили",
+      "answer": "Her advisers decided",
+      "tasks": ["advisers"]
+    },
+    {
+      "question": "Его маршрут включал официальный визит в Канаду.",
+      "answer": "His itinerary included an official visit to Canada",
+      "tasks": ["itinerary"]
+    },
+    {
+      "question": "Можете ли вы рассказать мне о правилах компании, если они есть?",
+      "answer": "Can you tell me about company rules, if there are any ?",
+      "tasks": ["there", "are", "any"]
+    },
+    {
+      "question": "Я понял",
+      "answer": "I got it",
+      "tasks": ["I", "got", "it"]
+    },
+    {
+      "question": "Ждать автобус",
+      "answer": "Wait for a bus",
+      "tasks": ["Wait", "for"]
+    },
+    {
+      "question": "Говорить со своим учителем",
+      "answer": "Speak to your teacher",
+      "tasks": ["Speak", "to"]
+    },
+    {
+      "question": "Это оказалось слишком официально",
+      "answer": "It turned out to be too formal",
+      "tasks": ["turned", "out"]
+    },
+    {
+      "question": "Он стал предметом сплетен",
+      "answer": "He became the subject of gossip",
+      "tasks": ["gossip"]
+    },
+    {
+      "question": "Эта игра имеет решающее значение для нашего выживания",
+      "answer": "This game is crucial to our survival",
+      "tasks": ["crucial"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cru/cruci/crucial__gb_2.mp3"
+    },
+    {
+      "question": "Мне постоянно интересно",
+      "answer": "I'm constantly wondering",
+      "tasks": ["constantly", "wondering"]
+    },
+    {
+      "question": "Игроки продемонстрировали разную степень компетентности.",
+      "answer": "The players displayed varying degrees of competence",
+      "tasks": ["displayed", "competence"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/competence__gb_1.mp3"
+    },
+    {
+      "question": "Я не могу взять на себя такое обязательство в данный момент",
+      "answer": "I cannot make such a commitment at the moment",
+      "tasks": ["commitment"]
+    },
+    {
+      "question": "Он выступает за совместимость науки и религии",
+      "answer": "He argues for the compatibility of science and religion",
+      "tasks": ["argue", "compatibility"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compa/compatibility__gb_1.mp3"
+    },
+    {
+      "question": "Это полный хаос",
+      "answer": "It's utter chaos",
+      "tasks": ["utter", "chaos"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chaos/chaos__gb_2.mp3"
+    },
+    {
+      "question": "Нам нужен совершенно новый подход к работе",
+      "answer": "We need a whole new approach to the job",
+      "tasks": ["whole", "approach"]
+    },
+    {
+      "question": "Ваш босс хочет этих ожиданий",
+      "answer": "Your boss wants these expectations",
+      "tasks": ["expectations"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/exp/expec/expectation__gb_1.mp3"
+    },
+    {
+      "question": "Для своих сверстников старайтесь вести себя более повседневно",
+      "answer": "For your peers try to go more casual",
+      "tasks": ["peers", "casual"]
+    },
+    {
+      "question": "Ладить с нами",
+      "answer": "Get along with us",
+      "tasks": ["Get", "along"]
+    },
+    {
+      "question": "Начав разговор, вы выражаете совместимость",
+      "answer": "By initiating conversations you are expressing compatibility",
+      "tasks": ["initiating", "conversations", "expressing", "compatibility"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compa/compatibility__gb_1.mp3"
+    },
+    {
+      "question": "Ее верность мужу 34 года",
+      "answer": "Her loyalty to her husband of 34 years",
+      "tasks": ["loyalty"]
+    },
+    {
+      "question": "Какое поведение вознаграждается или наказывается ?",
+      "answer": "Which behaviors get rewarded or punished ?",
+      "tasks": ["get", "rewarded", "punished"]
+    },
+    {
+      "question": "Эта линия для плавания не занята",
+      "answer": "This swim lane is unoccupied",
+      "tasks": ["unoccupied"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/uno/unocc/unoccupied__gb_1.mp3"
+    },
+    {
+      "question": "Эта линия для плавания занята",
+      "answer": "This swim lane is occupied",
+      "tasks": ["occupied"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/occ/occup/occupied__gb_1.mp3"
+    },
+    {
+      "question": "Я компетентен замечать пробелы",
+      "answer": "I'm competent to spot gaps",
+      "tasks": ["competent", "spot", "gaps"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/competent__gb_1.mp3"
+    },
+    {
+      "question": "Я чувствую тревогу, когда вижу ее",
+      "answer": "I'm feeling anxiety when I see her",
+      "tasks": ["anxiety"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anx/anxie/anxiety__gb_1.mp3"
+    },
+    {
+      "question": "Он подвезет нас до станции",
+      "answer": "He'll give us a lift to the station",
+      "tasks": ["give", "us", "a", "lift"],
+      "sound": ""
+    },
+    {
+      "question": "Босс спросил ее, не слишком ли маленькие для нее дети.",
+      "answer": "The boss asked her If the children were too young for her",
+      "tasks": ["If"],
+      "sound": ""
+    },
+    {
+      "question": "Мне трудно вспомнить словарный запас, когда я разговариваю с людьми",
+      "answer": "It's difficult to recall vocabulary when I'm speaking with people",
+      "tasks": ["recall"],
+      "sound": ""
+    },
+    {
+      "question": "Предложите оплатить половину счета, но не настаивайте.",
+      "answer": "Offer to pay your half of the bill, but don't insist",
+      "tasks": ["insist"],
+      "sound": ""
+    },
+    {
+      "question": "Она слишком молода, чтобы курить",
+      "answer": "She's too young so that she cannot smoke",
+      "tasks": ["so", "that"],
+      "sound": ""
+    },
+    {
+      "question": "Это соответствует нашим правилам",
+      "answer": "It appropriates our rules",
+      "tasks": ["appropriates"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appro/appropriate__gb_4.mp3"
+    },
+    {
+      "question": "Я бросил кататься на скейтборде",
+      "answer": "I quit skateboarding",
+      "tasks": ["quit"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quit_/quit__gb_1.mp3"
+    },
+    {
+      "question": "У меня нет настроения сегодня готовить",
+      "answer": "I don't feel like cooking today",
+      "tasks": ["don't", "feel", "like"],
+      "sound": ""
+    },
+    {
+      "question": "Я их не снимаю",
+      "answer": "I don't take off them",
+      "tasks": ["take", "off", "them"],
+      "sound": ""
+    },
+    {
+      "question": "Давай залезем в горячую ванную",
+      "answer": "Lets to get into a hot tub",
+      "tasks": ["get", "into", "tub"],
+      "sound": ""
+    },
+    {
+      "question": "Он хочет обменять свой кекс на шоколадку.",
+      "answer": "He wants to swap his cupcake for a candy bar.",
+      "tasks": ["swap"],
+      "sound": ""
+    },
+    {
+      "question": "Я хочу сделать это в своем собственном темпе",
+      "answer": "I want to do this at my own pace",
+      "tasks": ["at", "my", "own", "pace"],
+      "sound": ""
+    },
+    {
+      "question": "Я не могу исправить свои недостатки",
+      "answer": "I can't fix my drawbacks",
+      "tasks": ["drawbacks"],
+      "sound": ""
+    },
+    {
+      "question": "Он часто нас обманывает",
+      "answer": "He often deceives us",
+      "tasks": ["deceives"],
+      "sound": ""
+    },
+    {
+      "question": "Их свободное время",
+      "answer": "Their non-leisure time",
+      "tasks": ["non-leisure"]
+    },
+    {
+      "question": "Она сказала, что отчет обнадеживает",
+      "answer": "She said the report was encouraging",
+      "tasks": ["encouraging"]
+    },
+    {
+      "question": "Наименее близкое мне это",
+      "answer": "The least relatable to me is",
+      "tasks": ["least", "relatable", "to"]
+    },
+    {
+      "question": "Ваша доля прибыли составит 20%",
+      "answer": "Your share of the profit will be 20%",
+      "tasks": ["share", "profit"],
+      "sound": ""
+    },
+    {
+      "question": "Эта раковина очень грязная",
+      "answer": "This sink is very dirty",
+      "tasks": ["sink"],
+      "sound": ""
+    },
+    {
+      "question": "Он хочет продолжать играть на гитаре",
+      "answer": "He wants to carry on playing guitar",
+      "tasks": ["carry", "on"],
+      "sound": ""
+    },
+    {
+      "question": "Я обдумываю новый план",
+      "answer": "I think over new plan",
+      "tasks": ["think", "over"],
+      "sound": ""
+    },
+    {
+      "question": "Что касается вызова такси",
+      "answer": "As for getting taxi",
+      "tasks": ["As", "for"],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    }
+  ],
+  "grammar": {
+    "src": ["./grammar/adj+prepositions.webp"],
+    "layout": "vertical"
   }
-]
+}
