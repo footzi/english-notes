@@ -868,7 +868,14 @@
     }
   ],
   "grammar": {
-    "src": ["./grammar/adj+prepositions.webp"],
-    "layout": "vertical"
+    "images": [
+      {
+        "src": "./grammar/adj+prepositions.webp",
+        "layout": "vertical"
+      },
+      {
+        "src": "./grammar/have-got.webp"
+      }
+    ]
   }
 }

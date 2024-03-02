@@ -88,5 +88,50 @@
     "question": "Сейчас, Я управляю более крупной командой из 5 человек",
     "answer": "Currently , I manage a large team of 5 people",
     "tasks": ["Currently", "manage", "large", "of"]
+  },
+  {
+    "question": "Основными преимуществами и недостатками были",
+    "answer": "The main advantages and disadvantages were",
+    "tasks": ["advantages", "disadvantages"]
+  },
+  {
+    "question": "Я готов улучшить свои навыки",
+    "answer": "I'm willing to improve my skills",
+    "tasks": ["willing"]
+  },
+  {
+    "question": "Я участвовал в этом проекте",
+    "answer": "I was involved in this project",
+    "tasks": ["was", "involved"]
+  },
+  {
+    "question": "Я всегда соблюдаю сроки",
+    "answer": "I always meet the deadline",
+    "tasks": ["meet", "deadline"]
+  },
+  {
+    "question": "Я преодолел все испытания",
+    "answer": "I have overcome all the challenges",
+    "tasks": ["have", "overcome", "challenges"]
+  },
+  {
+    "question": "Меня мотивируют испытания",
+    "answer": "I'm motivated by challenges",
+    "tasks": ["motivated", "by"]
+  },
+  {
+    "question": "Общаюсь с коллегами из других отделов",
+    "answer": "I deal with colleagues from other departments",
+    "tasks": ["deal", "with"]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
+  },
+  {
+    "question": "",
+    "answer": "",
+    "tasks": [""]
   }
 ]

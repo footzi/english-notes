@@ -8,7 +8,6 @@ import NUMBERS from './numbers.json';
 import IRREGULAR_VERBS from './irregular-verbs.json';
 import COMPARATIVES from './comparatives.json';
 import OXFORD_WORDS from './oxford-words-a2-b1.json';
-import SUPERLATIVES from './superlatives.json';
 import QUANTIFIERS from './quantifiers.json';
 import TRAIN_FROM_PADDINGTON_BOOK from './train-from-paddington-book.json';
 import TENSES from './tenses.json';
@@ -26,7 +25,6 @@ const questions = {
   irregularVerbs: IRREGULAR_VERBS,
   comparatives: COMPARATIVES,
   oxfordWords: OXFORD_WORDS,
-  superlatives: SUPERLATIVES,
   quantifiers: QUANTIFIERS,
   trainFromPaddingtonBook: TRAIN_FROM_PADDINGTON_BOOK,
   tenses: TENSES,

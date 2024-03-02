@@ -194,6 +194,41 @@
       "question": "Как жаль",
       "answer": "It is a pity",
       "tasks": ["it", "is", "a pity"]
+    },
+    {
+      "question": "Это все так глупо",
+      "answer": "It's all so silly",
+      "tasks": ["so", "silly"]
+    },
+    {
+      "question": "Он был мудрым человеком",
+      "answer": "He was a wise man",
+      "tasks": ["wise"]
+    },
+    {
+      "question": "Я бродил вокруг, пока искал дом",
+      "answer": "I was wandering around while finding a house",
+      "tasks": ["wandering", "around"]
+    },
+    {
+      "question": "Что на этот раз ?",
+      "answer": "What's it this time ?",
+      "tasks": ["What's", "it", "this", "time"]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
     }
   ],
   "grammar": {

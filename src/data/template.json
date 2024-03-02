@@ -213,6 +213,14 @@
     }
   ],
   "grammar": {
-    "src": ["./grammar/***.webp"]
+    "images": [
+      {
+        "src": "",
+        "layout": "vertical"
+      },
+      {
+        "src": ""
+      }
+    ]
   }
 }
