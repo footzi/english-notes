@@ -125,9 +125,9 @@
     "tasks": ["deal", "with"]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Я правильно понял твой вопрос?",
+    "answer": "Did I right understand your question?",
+    "tasks": ["Did", "right", "understand"]
   },
   {
     "question": "",
