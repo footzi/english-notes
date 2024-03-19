@@ -878,6 +878,9 @@
       },
       {
         "src": "./grammar/get.webp"
+      },
+      {
+        "src": "./grammar/first-cond+pos-pron.webp"
       }
     ]
   }
