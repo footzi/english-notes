@@ -451,51 +451,51 @@
       "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anx/anxie/anxiety__gb_1.mp3"
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Это долгожданное дополнение к литературе по истории западного искусства.",
+      "answer": "This is a welcome addition to the literature of western art history.",
+      "tasks": ["welcome", "addition"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я не согласен с ней, но восхищаюсь ее принципиальностью",
+      "answer": "I don't agree with her, but I admire her for sticking to her principles.",
+      "tasks": ["admire"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Не бойтесь признавать свои ошибки.",
+      "answer": "Don't be afraid to admit to your mistakes.",
+      "tasks": ["be", "afraid", "admit"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Это довольно распространенная проблема",
+      "answer": "This is a fairly common problem",
+      "tasks": ["fairly", "common"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fai/fairl/fairly__gb_1.mp3"
+    },
+    {
+      "question": "Ты хочешь пойти куда-нибудь сегодня вечером? (воображать)",
+      "answer": "Do you fancy going out this evening?",
+      "tasks": ["fancy"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Ее письма предлагают увлекательное представление о семейной жизни ранней викторианской эпохи.",
+      "answer": "Her letters offer a fascinating insight into early Victorian family life.",
+      "tasks": ["fascinating", "insight"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Могу ли я попросить об одолжении?",
+      "answer": "Can I ask a favour ?",
+      "tasks": ["favour"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
-      "sound": ""
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я намерен вернуть ей то, что я ей должен",
+      "answer": "I have the intention of paying her back what I owe her",
+      "tasks": ["intention"],
       "sound": ""
     },
     {
