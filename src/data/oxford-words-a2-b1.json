@@ -499,27 +499,27 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Судебное дело нанесет серьезный ущерб моему бизнесу.",
+      "answer": "The court case will do serious harm to my business.",
+      "tasks": ["case", "harm"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "В фильме отсутствует связное и убедительное повествование.",
+      "answer": "The film lacks a coherent , compelling narrative",
+      "tasks": ["lacks", "coherent", "compelling", "narrative"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Превратите каждый прием пищи в особый случай",
+      "answer": "Turn every meal into a special occasion",
+      "tasks": ["occasion"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Когда именно произошел инцидент?",
+      "answer": "When exactly did the incident occur ?",
+      "tasks": ["incident", "occur"],
       "sound": ""
     },
     {

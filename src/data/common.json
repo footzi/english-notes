@@ -849,9 +849,9 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он специально приготовил ужасную еду",
+      "answer": "He cooked the ugly meal on purpose",
+      "tasks": ["on", "purpose"],
       "sound": ""
     },
     {
