@@ -9,9 +9,9 @@ export const Tasks = ({ questions }) => {
 
   const { play, playingSrc } = usePlayAudio();
 
-  const focusElement = () => {
+  const focusElement = (elementIndex) => {
     setTimeout(() => {
-      const firstInput = containerRef?.current.querySelectorAll('input')[0];
+      const firstInput = containerRef?.current.querySelectorAll('form')[elementIndex].querySelectorAll('input')[0];
 
       if (firstInput) {
         firstInput.focus();
@@ -22,18 +22,21 @@ export const Tasks = ({ questions }) => {
   const onOk = (id) => {
     const questions = filteredQuestions.filter((item) => item.id !== id);
     const question = filteredQuestions.find((item) => item.id === id);
+    const questionIndex = filteredQuestions.findIndex((item) => item.id === id);
 
     setQuestions(questions);
     setLastAnsweredQuestion(question);
 
-    focusElement();
+    focusElement(questionIndex);
   };
 
   const onCancel = () => {
     const questions = [lastAnsweredQuestion, ...filteredQuestions];
+    const questionIndex = questions.findIndex((item) => item.id === lastAnsweredQuestion.id);
+
     setQuestions(questions);
 
-    focusElement();
+    focusElement(questionIndex);
   };
 
   useEffect(() => {

@@ -765,87 +765,87 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Она всегда носит дорогие украшения и одежду.",
+      "answer": "She always wears expensive jewelery and clothes",
+      "tasks": ["wears"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он помог ей нести тяжелую сумку",
+      "answer": "He helped her to carry a heavy bag",
+      "tasks": ["carry"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Они выиграли матч, и он заработал много денег.",
+      "answer": "They won a match and he got a lot of money",
+      "tasks": ["won", "earned"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он встретил ее в прошлом году и теперь хорошо ее знает.",
+      "answer": "He met her last year and now he knows her well",
+      "tasks": ["met", "knows"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "На что вы надеетесь, ожидая автобус?",
+      "answer": "What do you hope for while waiting for a bus?",
+      "tasks": ["hope", "waiting", "for"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Что вы предпочитаете делать: смотреть сериалы или любоваться видами природы?",
+      "answer": "Which do you prefer to do, watching TV serials or looking at the nature?",
+      "tasks": ["watching", "looking", "at"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Ты выглядишь как 25-летний и похож на своего молодого отца",
+      "answer": "You look about 25 years old and look like your father when he was young",
+      "tasks": ["look", "about", "25", "years", "old", "look", "like", "your"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Вы потеряли кошелек после опоздания на автобус?",
+      "answer": "Did you lose your wallet after missing a bus?",
+      "tasks": ["lose", "missing"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я отвезу наших детей в школу и принесу тебе обед",
+      "answer": "I'll take our children to school and bring you a lunch",
+      "tasks": ["take", "bring"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я рассказал ему забавную историю, пока искали кафе.",
+      "answer": "I told him a fun story while looking for a cafe",
+      "tasks": ["told", "him", "looking", "for"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я сказал ему, где я видел свою книгу в последний раз, и мы ее нашли.",
+      "answer": "I told him where I saw my book last time and we found it",
+      "tasks": ["said", "to", "him", "found"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Ты должен перестать занимать у меня деньги",
+      "answer": "You have to stop borrowing money from me",
+      "tasks": ["borrowing", "money", "from", "me"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Мой отец не должен давать деньги моему сводному брату",
+      "answer": "My father mustn't lend money to my stepbrother",
+      "tasks": ["mustn't", "lend", "money", "to"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Пока я слушал радио, я не услышал телефонного звонка",
+      "answer": "While I was listening to the radio I didn't hear a phone call",
+      "tasks": ["was", "listening", "to", "hear"],
       "sound": ""
     },
     {
@@ -881,6 +881,9 @@
       },
       {
         "src": "./grammar/first-cond+pos-pron.webp"
+      },
+      {
+        "src": "./grammar/confusing-verbs.webp"
       }
     ]
   }
