@@ -523,6 +523,384 @@
       "sound": ""
     },
     {
+      "question": "Картина выглядит очень странно.",
+      "answer": "That painting looks very odd .",
+      "tasks": ["odd"],
+      "sound": ""
+    },
+    {
+      "question": "Переместите книги на вторую полку.",
+      "answer": "Move the books onto the second shelf.",
+      "tasks": ["onto"],
+      "sound": ""
+    },
+    {
+      "question": "Мы не должны винить себя в том, что произошло",
+      "answer": "We shouldn't blame ourselves for what happened.",
+      "tasks": ["blame", "ourselves"],
+      "sound": ""
+    },
+    {
+      "question": "Ее лицо стало смертельно бледным",
+      "answer": "Her face had grown deathly pale",
+      "tasks": ["pale"],
+      "sound": ""
+    },
+    {
+      "question": "Другие страны были приглашены к участию в проекте.",
+      "answer": "Other countries were invited to participate in the project",
+      "tasks": ["invited", "to", "participate"],
+      "sound": ""
+    },
+    {
+      "question": "Каждая деревня имеет свое особое очарование.",
+      "answer": "Each village has its own particular charm.",
+      "tasks": ["particular"],
+      "sound": ""
+    },
+    {
+      "question": "Как он пытался ее уговорить?",
+      "answer": "How did he try to persuade her?",
+      "tasks": ["persuade"],
+      "sound": ""
+    },
+    {
+      "question": "Мы собираемся выбрать место, чтобы сесть",
+      "answer": "We are going to pick a spot to sit down",
+      "tasks": ["pick"],
+      "sound": ""
+    },
+    {
+      "question": "Он не получает удовольствия от своей работы.",
+      "answer": "He takes no pleasure in his work.",
+      "tasks": ["takes", "no", "pleasure"],
+      "sound": ""
+    },
+    {
+      "question": "Они всегда давали нам много еды",
+      "answer": "They always gave us plenty to eat",
+      "tasks": ["plenty"],
+      "sound": ""
+    },
+    {
+      "question": "Она указала пальцем на карту",
+      "answer": "She pointed with her finger at the map",
+      "tasks": ["pointed"],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
       "question": "",
       "answer": "",
       "tasks": [""],

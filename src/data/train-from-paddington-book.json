@@ -101,11 +101,6 @@
       "tasks": ["bush"]
     },
     {
-      "question": "он бледен",
-      "answer": "He is pale",
-      "tasks": ["pale"]
-    },
-    {
       "question": "Шерсть (мех) кошки мягкая",
       "answer": "The cat`s fur is soft",
       "tasks": ["fur"]

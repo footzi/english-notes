@@ -855,6 +855,150 @@
       "sound": ""
     },
     {
+      "question": "У его ребенка было неприемлемое поведение",
+      "answer": "His child had unacceptable behavior",
+      "tasks": ["unacceptable"],
+      "sound": ""
+    },
+    {
+      "question": "Он воскликнул, когда увидел ее",
+      "answer": "He exclaimed when he saw her",
+      "tasks": ["exclaimed"],
+      "sound": ""
+    },
+    {
+      "question": "Она подозревает, что он ей изменяет",
+      "answer": "She suspects that he is cheating on her",
+      "tasks": ["suspects", "is", "cheating", "on"],
+      "sound": ""
+    },
+    {
+      "question": "Я боюсь, он не обладает чувством юмора",
+      "answer": "I'm afraid he doesn't possess a sense of humor.",
+      "tasks": ["possess"],
+      "sound": ""
+    },
+    {
+      "question": "Существительные и местоимения",
+      "answer": "Nouns and pronouns",
+      "tasks": ["Nouns", "pronouns"],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
       "question": "",
       "answer": "",
       "tasks": [""],
