@@ -873,12 +873,6 @@
       "sound": ""
     },
     {
-      "question": "Я боюсь, он не обладает чувством юмора",
-      "answer": "I'm afraid he doesn't possess a sense of humor.",
-      "tasks": ["possess"],
-      "sound": ""
-    },
-    {
       "question": "Существительные и местоимения",
       "answer": "Nouns and pronouns",
       "tasks": ["Nouns", "pronouns"],

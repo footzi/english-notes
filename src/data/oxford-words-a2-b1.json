@@ -589,39 +589,45 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я боюсь, он не обладает чувством юмора",
+      "answer": "I'm afraid he doesn't possess a sense of humor.",
+      "tasks": ["possess"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он родился в бедности и политическом хаосе.",
+      "answer": "He was born into poverty and political chaos.",
+      "tasks": ["poverty"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Ешьте правильную еду, а не только тосты и джем!",
+      "answer": "Eat some proper food, not just toast and jam!",
+      "tasks": ["proper"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Правильно составленный договор",
+      "answer": "A properly drafted agreement",
+      "tasks": ["properly"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Мне очень жаль, — тихо сказала она.",
+      "answer": "I'm sorry,’ she said quietly .",
+      "tasks": ["quietly"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quiet/quietly__gb_1.mp3"
+    },
+    {
+      "question": "Цитата из Марка Твена",
+      "answer": "A quotation from Mark Twain",
+      "tasks": ["quotation"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он процитировал меня",
+      "answer": "He quoted me",
+      "tasks": ["quoted"],
       "sound": ""
     },
     {
