@@ -879,9 +879,9 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Оса, коза, овца, олень, бык, медуза, кит, кусаться, жалиться, яд, пчела",
+      "answer": "Wasp , goat , sheep , deer , bull , jellyfish , whale , bite , sting , venom , bee",
+      "tasks": ["Wasp", "goat", "sheep", "deer", "bull", "jellyfish", "whale", "bite", "sting", "venom", "bee"],
       "sound": ""
     },
     {
