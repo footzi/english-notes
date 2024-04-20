@@ -631,75 +631,81 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Она скорее умрет, чем устроит сцену",
+      "answer": "She'd rather die than cause a scene",
+      "tasks": ["rather"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Школы должны отражать культурные различия",
+      "answer": "Schools should reflect cultural differences",
+      "tasks": ["reflect"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Мне было трудно связать в уме эти две идеи.",
+      "answer": "I found it difficult to relate the two ideas in my mind.",
+      "tasks": ["relate"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я рассчитываю на пожертвования общественности",
+      "answer": "I rely on donations from the public",
+      "tasks": ["rely"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Надежный источник информации",
+      "answer": "A reliable source of information",
+      "tasks": ["reliable"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Стоимость проезда на поезде останется неизменной",
+      "answer": "Train fares remain unchanged.",
+      "tasks": ["fares", "remain"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Не напоминай мне",
+      "answer": "Don't remind me",
+      "tasks": ["remind"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Профсоюз представляет более 10 учителей",
+      "answer": "The union represents over 10 teachers",
+      "tasks": ["represents"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Мне придется пересмотреть свой жизненный план.",
+      "answer": "I would have to revise my life plan.",
+      "tasks": ["revise"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Пересмотр гегелевской концепции истории",
+      "answer": "A revision of the Hegelian concept of history",
+      "tasks": ["revision"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Мы связали ему руки веревкой",
+      "answer": "We tied his hands together with rope",
+      "tasks": ["tied", "rope"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Кожа на ее руках была твердой и грубой",
+      "answer": "The skin on her hands was hard and rough",
+      "tasks": ["rough"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/rough/rough__us_1.mp3"
+    },
+    {
+      "question": "Он грубый и высокомерный хулиган",
+      "answer": "He is a rude and arrogant bully",
+      "tasks": ["rude"],
       "sound": ""
     },
     {
