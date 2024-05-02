@@ -709,39 +709,39 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Не трите место укуса полотенцем.",
+      "answer": "Don't rub the bite with a towel",
+      "tasks": ["rub"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Уксус может вызвать еще большее раздражение",
+      "answer": "Vinegar can irritate even more",
+      "tasks": ["irritate"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Вы можете доплыть до берега",
+      "answer": "You can float to shore",
+      "tasks": ["float", "shore"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Вам следует очистить кожу от щупалец и принять обезболивающее.",
+      "answer": "You should clean your skin off tentacles and take a painkiller",
+      "tasks": ["tentacles", "painkiller"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я бы стоял неподвижно",
+      "answer": "I'd keep still",
+      "tasks": ["keep", "still"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Это может спровоцировать еще больше неприятностей",
+      "answer": "It can provoke more troubles",
+      "tasks": ["provoke"],
       "sound": ""
     },
     {

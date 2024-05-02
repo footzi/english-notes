@@ -13,6 +13,7 @@ import TRAIN_FROM_PADDINGTON_BOOK from './train-from-paddington-book.json';
 import TENSES from './tenses.json';
 import TO_GERUND from './to-&-gerund.json';
 import MUST_HAVE_TO from './must+have-to.json';
+import CONDITIONS from './conditions.json';
 import { nanoid } from 'nanoid';
 
 const questions = {
@@ -30,6 +31,7 @@ const questions = {
   tenses: TENSES,
   toGerund: TO_GERUND,
   mustHaveTo: MUST_HAVE_TO,
+  conditions: CONDITIONS,
 };
 
 const prepareQuestions = (questions) => {
