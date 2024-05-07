@@ -745,15 +745,15 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
-      "sound": ""
+      "question": "Их тошнит, если они видят их",
+      "answer": "They feel nauseous if they see them",
+      "tasks": ["nauseous"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nau/nause/nauseous__us_2.mp3"
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "У меня кружится голова",
+      "answer": "I feel dizzy",
+      "tasks": ["dizzy"],
       "sound": ""
     },
     {

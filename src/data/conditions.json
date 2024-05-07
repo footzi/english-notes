@@ -1,45 +1,55 @@
 {
   "sentences": [
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Если бы у меня были крылья, я бы полетел на Марс",
+      "answer": "If I had wings I would fly to Mars",
+      "tasks": ["had", "would"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Если бы она только умела готовить, она бы приняла участие в кулинарном телешоу",
+      "answer": "If she could cook, she would be on a TV cooking show",
+      "tasks": ["could", "cook", "would", "be"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Если бы мне не нужно было работать, я бы жил в деревне",
+      "answer": "If I didn't have to work I would live in a village",
+      "tasks": ["didn't", "have", "would", "live"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Они бы не развелись, если бы уважали друг друга",
+      "answer": "They wouldn't divorce If they respected each other",
+      "tasks": ["wouldn't", "divorce", "respected"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Он был бы супергероем, если бы не ел так много сладостей",
+      "answer": "He would be a superhero if he didn't eat so many sweets",
+      "tasks": ["would", "be", "didn't", "eat"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Где бы ты жил, если бы у вас был миллион долларов ?",
+      "answer": "Where would you live if you had a million dollars ?",
+      "tasks": ["would", "had"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Что бы ты носил, если бы был мужчиной?",
+      "answer": "What would you wear if you were a man?",
+      "tasks": ["would", "wear", "were"]
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""]
+      "question": "Как бы она выглядела как ваша собака или кошка, если бы она была у вас?",
+      "answer": "How would your dog or cat look like if you could have it?",
+      "tasks": ["would", "could"]
+    },
+    {
+      "question": "На твоем месте я бы больше помогал своим родителям",
+      "answer": "If I were you I would help my parents more",
+      "tasks": ["were", "would", "help"]
+    },
+    {
+      "question": "Если бы я был на его месте, я бы не стал с ней встречаться",
+      "answer": "If I were him I wouldn't date her",
+      "tasks": ["were", "wouldn't", "date"]
     },
     {
       "question": "",
