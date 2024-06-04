@@ -885,21 +885,21 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Поверните налево, а затем идите прямо",
+      "answer": "Turn left, and then go straight on",
+      "tasks": ["Turn", "go", "straight", "on"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Возьмите на втором повороте налево и на светофоре поверните направо.",
+      "answer": "Take the second turning on the left and turn right at the traffic lights",
+      "tasks": ["Take", "turning", "turn", "left", "at", "traffic", "lights"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Обогните кольцевую развязку и сверните на третий съезд.",
+      "answer": "Go round the roundabout and take the third exit",
+      "tasks": ["Go", "round", "roundabout", "take", "exit"],
       "sound": ""
     },
     {

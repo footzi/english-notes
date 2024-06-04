@@ -757,33 +757,33 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Его лечение было хорошим, и он будет лечить его снова.",
+      "answer": "His treatment was good and he will treat him again",
+      "tasks": ["treatment", "treat"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Мы снова покорим Испанию",
+      "answer": "We will conquer Spain again",
+      "tasks": ["conquer"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Сюрприз, который я запланировал, обернулся против меня. (имел неприятные последствия)",
+      "answer": "The surprise I had planned backfired on me",
+      "tasks": ["backfired"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я ненавижу пернатых птиц",
+      "answer": "I hate feathered fowls",
+      "tasks": ["feathered", "fowls"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Интересно, где Джо?",
+      "answer": "I wonder where Joe is?",
+      "tasks": ["I", "wonder"],
       "sound": ""
     },
     {
