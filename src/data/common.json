@@ -903,9 +903,9 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Мне не следовало это говорить",
+      "answer": "I didn't mean to say that",
+      "tasks": ["mean", "say", "that"],
       "sound": ""
     },
     {
