@@ -909,27 +909,27 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Роб в беде",
+      "answer": "Rob is in trouble",
+      "tasks": ["is", "in", "trouble"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Играйте в футбол, катайтесь на велосипеде, играйте в гандбол, занимайтесь йогой, занимайтесь гимнастикой, катайтесь на лыжах, играйте в волейбол, занимайтесь легкой атлетикой.",
+      "answer": "Play football, go cycling, play handball, do yoga, do gymnastics, go skiing, play volleyball, do athletics",
+      "tasks": ["Play", "go", "play", "do", "do", "go", "play", "do"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "под мостом, вдоль улицы, вокруг озера, через тоннель, в магазин, через дорогу",
+      "answer": "under the bridge, along the street, round the lake, through the tunnel, into the shop, across the road",
+      "tasks": ["under", "along", "round", "through", "into", "across"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "над мостом, вверх по ступенькам, мимо церкви, к озеру, вниз по ступенькам, из магазина",
+      "answer": "over the bridge, up the steps, past the church, towards the lake, down the steps, out of the shop",
+      "tasks": ["over", "up", "past", "towards", "down", "out", "of"],
       "sound": ""
     },
     {
