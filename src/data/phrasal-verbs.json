@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    {
+      "question": "Я выбросил эту тетрадку, потому что она была заполнена",
+      "answer": "I threw away this notebook because it was full.",
+      "tasks": ["threw", "away"],
+      "sound": ""
+    },
+    {
+      "question": "Я не хочу заполнять эту форму, потому что она сложная",
+      "answer": "I don't want to fill in this form because it's complicated.",
+      "tasks": ["fill", "in"]
+    },
+    {
+      "question": "Я всегда присматриваю за животными моих родителей когда они уезжают",
+      "answer": "I always look after my parents' pets when they go away",
+      "tasks": ["look", "after"]
+    },
+    {
+      "question": "Ты планируешь отказаться от сладкого в этом году?",
+      "answer": "Are you going to give up sweets this year?",
+      "tasks": ["give", "up"]
+    },
+    {
+      "question": "Ты должен сделать музыку потише когда придут гости",
+      "answer": "You have to turn down the music when the guests arrive",
+      "tasks": ["turn", "down"]
+    },
+    {
+      "question": "Может ли он сделать радио погромче?",
+      "answer": "Can he turn up the radio?",
+      "tasks": ["turn", "up"]
+    },
+    {
+      "question": "Я никода не жду с нетерпением новой рабочей недели",
+      "answer": "I never look forward to a new working week",
+      "tasks": ["look", "forward", "to"]
+    },
+    {
+      "question": "Я увидел эту статью в газете, когда обедал в кафе",
+      "answer": "When I was having lunch in the cafe, I looked up this article in the newspaper",
+      "tasks": ["looked", "up"]
+    },
+    {
+      "question": "Когда ты приедешь на завод, тебе нужно будет снять свою одежду и надеть рабочюю",
+      "answer": "When you arrive at the factory, you'll need to take off your clothes and put on the working ones",
+      "tasks": ["take", "off", "put", "on"]
+    },
+    {
+      "question": "Этот фильм закончится через 30 минут",
+      "answer": "This film will be over in 30 minutes",
+      "tasks": ["be", "over"]
+    },
+    {
+      "question": "Когда она обычно выезжает на работу?",
+      "answer": "When does she usually set off for work?",
+      "tasks": ["set", "off"]
+    }
+  ],
+  "grammar": {
+    "images": [
+      {
+        "src": "",
+        "layout": "vertical"
+      },
+      {
+        "src": ""
+      }
+    ]
+  }
+}

@@ -14,6 +14,7 @@ import TENSES from './tenses.json';
 import TO_GERUND from './to-&-gerund.json';
 import MUST_HAVE_TO from './must+have-to.json';
 import CONDITIONS from './conditions.json';
+import PHRASAL_VERBS from './phrasal-verbs.json';
 import { nanoid } from 'nanoid';
 
 const questions = {
@@ -32,6 +33,7 @@ const questions = {
   toGerund: TO_GERUND,
   mustHaveTo: MUST_HAVE_TO,
   conditions: CONDITIONS,
+  phrasalVerbs: PHRASAL_VERBS,
 };
 
 const prepareQuestions = (questions) => {
