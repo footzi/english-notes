@@ -879,9 +879,15 @@
       "sound": ""
     },
     {
-      "question": "Оса, коза, овца, олень, бык, медуза, кит, кусаться, жалиться, яд, пчела",
-      "answer": "Wasp , goat , sheep , deer , bull , jellyfish , whale , bite , sting , venom , bee",
-      "tasks": ["Wasp", "goat", "sheep", "deer", "bull", "jellyfish", "whale", "bite", "sting", "venom", "bee"],
+      "question": "Оса, бык, медуза, кит, кусаться, жалиться, яд, пчела",
+      "answer": "Wasp , bull , jellyfish , whale , bite , sting , venom , bee",
+      "tasks": ["Wasp", "bull", "jellyfish", "whale", "bite", "sting", "venom", "bee"],
+      "sound": ""
+    },
+    {
+      "question": "Коза, овца, олень",
+      "answer": "goat , sheep , deer",
+      "tasks": ["goat", "sheep", "deer"],
       "sound": ""
     },
     {
@@ -897,7 +903,7 @@
       "sound": ""
     },
     {
-      "question": "Обогните кольцевую развязку и сверните на третий съезд.",
+      "question": "Обогните кольцевую развязку и возьмите третий съезд.",
       "answer": "Go round the roundabout and take the third exit",
       "tasks": ["Go", "round", "roundabout", "take", "exit"],
       "sound": ""
@@ -933,15 +939,15 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он заключил сделку с Дракулой",
+      "answer": "He made a deal with Dracula",
+      "tasks": ["made", "a", "deal", "with"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я был измотан от учебы",
+      "answer": "I was exhausted from my study",
+      "tasks": ["was", "exhausted"],
       "sound": ""
     },
     {
