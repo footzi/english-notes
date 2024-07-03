@@ -4,6 +4,191 @@
   },
   "sentences": [
     {
+      "question": "Cтановиться",
+      "answer": "become became become",
+      "tasks": ["become", "became", "become"]
+    },
+    {
+      "question": "Приносить",
+      "answer": "bring brought brought",
+      "tasks": ["bring", "brought", "brought"]
+    },
+    {
+      "question": "Выбирать",
+      "answer": "choose chose chosen",
+      "tasks": ["choose", "chose", "chosen"]
+    },
+    {
+      "question": "Стоить",
+      "answer": "cost cost cost",
+      "tasks": ["cost", "cost", "cost"]
+    },
+    {
+      "question": "Резать",
+      "answer": "cut cut cut",
+      "tasks": ["cut", "cut", "cut"]
+    },
+    {
+      "question": "Мечтать",
+      "answer": "dream dreamt dreamt",
+      "tasks": ["dream", "dreamt", "dreamt"]
+    },
+    {
+      "question": "Пить",
+      "answer": "drink drank drunk",
+      "tasks": ["drink", "drank", "drunk"]
+    },
+    {
+      "question": "Падать",
+      "answer": "fall fell fallen",
+      "tasks": ["fall", "fell", "fallen"]
+    },
+    {
+      "question": "Чувствовать",
+      "answer": "feel felt felt",
+      "tasks": ["feel", "felt", "felt"]
+    },
+    {
+      "question": "Расти",
+      "answer": "grow grew grown",
+      "tasks": ["grow", "grew", "grown"]
+    },
+    {
+      "question": "Слышать",
+      "answer": "hear heard heard",
+      "tasks": ["hear", "heard", "heard"]
+    },
+    {
+      "question": "Ударять",
+      "answer": "hit hit hit",
+      "tasks": ["hit", "hit", "hit"]
+    },
+    {
+      "question": "Хранить",
+      "answer": "keep kept kept",
+      "tasks": ["keep", "kept", "kept"]
+    },
+    {
+      "question": "Знать",
+      "answer": "know knew known",
+      "tasks": ["know", "knew", "known"]
+    },
+    {
+      "question": "Класть",
+      "answer": "lay laid laid",
+      "tasks": ["lay", "laid", "laid"]
+    },
+    {
+      "question": "Учить",
+      "answer": "learn learnt learnt",
+      "tasks": ["learn", "learnt", "learnt"]
+    },
+    {
+      "question": "Покидть",
+      "answer": "leave left left",
+      "tasks": ["leave", "left", "left"]
+    },
+    {
+      "question": "Одалживать",
+      "answer": "lend lent lent",
+      "tasks": ["lend", "lent", "lent"]
+    },
+    {
+      "question": "Позволять",
+      "answer": "let let let",
+      "tasks": ["let", "let", "let"]
+    },
+    {
+      "question": "Терять",
+      "answer": "lose lost lost",
+      "tasks": ["lose", "lost", "lost"]
+    },
+    {
+      "question": "Звонить",
+      "answer": "ring rang rung",
+      "tasks": ["ring", "rang", "rung"]
+    },
+    {
+      "question": "Продавать",
+      "answer": "sell sold sold",
+      "tasks": ["sell", "sold", "sold"]
+    },
+    {
+      "question": "Закрывать",
+      "answer": "shut shut shut",
+      "tasks": ["shut", "shut", "shut"]
+    },
+    {
+      "question": "Петь",
+      "answer": "sing sang sung",
+      "tasks": ["sing", "sang", "sung"]
+    },
+    {
+      "question": "Спать",
+      "answer": "sleep slept slept",
+      "tasks": ["sleep", "slept", "slept"]
+    },
+    {
+      "question": "Тратить",
+      "answer": "spend spent spent",
+      "tasks": ["spend", "spent", "spent"]
+    },
+    {
+      "question": "Стоять",
+      "answer": "stand stood stood",
+      "tasks": ["stand", "stood", "stood"]
+    },
+    {
+      "question": "Воровать",
+      "answer": "steal stole stolen",
+      "tasks": ["steal", "stole", "stolen"]
+    },
+    {
+      "question": "Плавать",
+      "answer": "swim swam swum",
+      "tasks": ["swim", "swam", "swum"]
+    },
+    {
+      "question": "Учить",
+      "answer": "teach taught taught",
+      "tasks": ["teach", "taught", "taught"]
+    },
+    {
+      "question": "Думать",
+      "answer": "think thought thought",
+      "tasks": ["think", "thought", "thought"]
+    },
+    {
+      "question": "Бросать",
+      "answer": "throw threw thrown",
+      "tasks": ["throw", "threw", "thrown"]
+    },
+    {
+      "question": "Понимать",
+      "answer": "understand understood understood",
+      "tasks": ["understand", "understood", "understood"]
+    },
+    {
+      "question": "Просыпаться",
+      "answer": "wake woke woken",
+      "tasks": ["wake", "woke", "woken"]
+    },
+    {
+      "question": "Носить",
+      "answer": "wear wore worn",
+      "tasks": ["wear", "wore", "worn"]
+    },
+    {
+      "question": "Выигрывать",
+      "answer": "win won won",
+      "tasks": ["win", "won", "won"]
+    },
+    {
+      "question": "",
+      "answer": "write wrote written",
+      "tasks": ["", "", ""]
+    },
+    {
       "question": "Трясти, встряхивать",
       "answer": "shake shook shaken",
       "tasks": ["shake", "shook", "shaken"]
