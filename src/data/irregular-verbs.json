@@ -4,7 +4,7 @@
   },
   "sentences": [
     {
-      "question": "Cтановиться",
+      "question": "Становиться",
       "answer": "become became become",
       "tasks": ["become", "became", "become"]
     },
@@ -14,7 +14,7 @@
       "tasks": ["bring", "brought", "brought"]
     },
     {
-      "question": "Выбирать",
+      "question": "Выбирать покупку",
       "answer": "choose chose chosen",
       "tasks": ["choose", "chose", "chosen"]
     },
@@ -24,7 +24,7 @@
       "tasks": ["cost", "cost", "cost"]
     },
     {
-      "question": "Резать",
+      "question": "Резать бумагу",
       "answer": "cut cut cut",
       "tasks": ["cut", "cut", "cut"]
     },
@@ -49,7 +49,7 @@
       "tasks": ["feel", "felt", "felt"]
     },
     {
-      "question": "Расти",
+      "question": "Расти капусту",
       "answer": "grow grew grown",
       "tasks": ["grow", "grew", "grown"]
     },
@@ -59,42 +59,42 @@
       "tasks": ["hear", "heard", "heard"]
     },
     {
-      "question": "Ударять",
+      "question": "Ударять ногой",
       "answer": "hit hit hit",
       "tasks": ["hit", "hit", "hit"]
     },
     {
-      "question": "Хранить",
+      "question": "Хранить секрет",
       "answer": "keep kept kept",
       "tasks": ["keep", "kept", "kept"]
     },
     {
-      "question": "Знать",
+      "question": "Знать о нем",
       "answer": "know knew known",
       "tasks": ["know", "knew", "known"]
     },
     {
-      "question": "Класть",
+      "question": "Класть что-то на стол",
       "answer": "lay laid laid",
       "tasks": ["lay", "laid", "laid"]
     },
     {
-      "question": "Учить",
+      "question": "Учиться",
       "answer": "learn learnt learnt",
       "tasks": ["learn", "learnt", "learnt"]
     },
     {
-      "question": "Покидть",
+      "question": "Покидть страну",
       "answer": "leave left left",
       "tasks": ["leave", "left", "left"]
     },
     {
-      "question": "Одалживать",
+      "question": "Одалживать деньги",
       "answer": "lend lent lent",
       "tasks": ["lend", "lent", "lent"]
     },
     {
-      "question": "Позволять",
+      "question": "Позволять что-то делать",
       "answer": "let let let",
       "tasks": ["let", "let", "let"]
     },
@@ -129,7 +129,7 @@
       "tasks": ["sleep", "slept", "slept"]
     },
     {
-      "question": "Тратить",
+      "question": "Тратить деньги",
       "answer": "spend spent spent",
       "tasks": ["spend", "spent", "spent"]
     },
@@ -159,7 +159,7 @@
       "tasks": ["think", "thought", "thought"]
     },
     {
-      "question": "Бросать",
+      "question": "Бросать мусор в корзину",
       "answer": "throw threw thrown",
       "tasks": ["throw", "threw", "thrown"]
     },
@@ -174,7 +174,7 @@
       "tasks": ["wake", "woke", "woken"]
     },
     {
-      "question": "Носить",
+      "question": "Носить трусы",
       "answer": "wear wore worn",
       "tasks": ["wear", "wore", "worn"]
     },
@@ -184,9 +184,9 @@
       "tasks": ["win", "won", "won"]
     },
     {
-      "question": "",
+      "question": "Писать письмо",
       "answer": "write wrote written",
-      "tasks": ["", "", ""]
+      "tasks": ["write", "wrote", "written"]
     },
     {
       "question": "Трясти, встряхивать",
