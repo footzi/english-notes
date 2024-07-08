@@ -114,7 +114,7 @@
       "tasks": ["sell", "sold", "sold"]
     },
     {
-      "question": "Закрывать",
+      "question": "Закрывать (рот)",
       "answer": "shut shut shut",
       "tasks": ["shut", "shut", "shut"]
     },
