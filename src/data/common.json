@@ -1011,21 +1011,21 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он убедил меня",
+      "answer": "He convinced me",
+      "tasks": ["convinced"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Хотите вы этого или нет",
+      "answer": "Whether you want to or not",
+      "tasks": ["Whether"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Не наклоняйте голову вверх/вниз или влево/вправо",
+      "answer": "Don't tilt your head up/down or left/right",
+      "tasks": ["tilt"],
       "sound": ""
     },
     {
