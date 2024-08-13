@@ -981,6 +981,162 @@
       "sound": ""
     },
     {
+      "question": "Она нашла еще одного похожего человека.",
+      "answer": "She found another lookalike person",
+      "tasks": ["lookalike"],
+      "sound": ""
+    },
+    {
+      "question": "Он нерешительный человек.",
+      "answer": "He is an indecisive person",
+      "tasks": ["indecisive"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ind/indec/indecisive__gb_1.mp3"
+    },
+    {
+      "question": "Вы простите меня за каламбур?",
+      "answer": "Do you forgive me for the pun ?",
+      "tasks": ["forgive", "pun"],
+      "sound": ""
+    },
+    {
+      "question": "Большинству предприятий приходится бороться за выживание.",
+      "answer": "Most enterprises struggle to survive.",
+      "tasks": ["struggle"],
+      "sound": ""
+    },
+    {
+      "question": "Он упал в обморок, когда увидел ее",
+      "answer": "He fainted when he saw her",
+      "tasks": ["fainted"],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
       "question": "",
       "answer": "",
       "tasks": [""],
