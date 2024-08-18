@@ -1029,15 +1029,15 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Бен и Сэм оба из Нью-Йорка, они выглядят одинаково, но Бен отличается от Сэм",
+      "answer": "Ben and Sam are both from NY, they look identical, but Ben different from Sam",
+      "tasks": ["are", "both", "look", "identical", "different", "from"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Люди думают, что Бен похож на Сэма. У него такие же волосы, как у Сэма, а Сэм очень похож на Бена.",
+      "answer": "People think that Ben looks like Sam. He has the same hair as Sam and Sam looks very similar to Ben",
+      "tasks": ["looks", "like", "as", "similar", "to"],
       "sound": ""
     },
     {
