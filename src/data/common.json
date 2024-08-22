@@ -1041,27 +1041,27 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Возможно они купят новый дом",
+      "answer": "They might buy a new house",
+      "tasks": ["might"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Возможно мы не увидим боса сегодня",
+      "answer": "We might not see the boss today",
+      "tasks": ["might", "not"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я люблю классическую музыку, я тоже",
+      "answer": "I love classical music, so do I",
+      "tasks": ["so", "do", "I"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я не уверен, я тоже",
+      "answer": "I'm not sure, neither am I",
+      "tasks": ["neither", "am", "I"],
       "sound": ""
     },
     {
