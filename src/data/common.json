@@ -1065,9 +1065,9 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я отведу тебя в новый ресторан.",
+      "answer": "I'll take you to a new restaurant",
+      "tasks": ["take", "you", "to"],
       "sound": ""
     },
     {
