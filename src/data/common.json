@@ -1071,39 +1071,39 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я сейчас заплачу",
+      "answer": "I'm about to cry",
+      "tasks": ["about"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я удовлетворил свою тягу к шоколаду",
+      "answer": "I satisfied my craving for chocolate",
+      "tasks": ["satisfied", "craving", "for"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я заправил все машины, кроме машины Джона.",
+      "answer": "I filled up the cars except John's",
+      "tasks": ["filled", "up", "except"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Тем временем я сразу же закрыла коробку.",
+      "answer": "Meanwhile , I closed the box straight away",
+      "tasks": ["Meanwhile", "straight", "away"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "У меня остался еще 1 месяц тренировок",
+      "answer": "I have 1 more month of training left",
+      "tasks": ["more","left"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он, скорее всего, ест мясо, но вряд рыбу.",
+      "answer": "He likely eats meat, but unlikely fish",
+      "tasks": ["likely", "unlikely"],
       "sound": ""
     },
     {
