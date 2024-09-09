@@ -1107,15 +1107,15 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Ее подруга обидела его и его бабушку, поэтому они расстались.",
+      "answer": "Her friend offended him and his granny , so they broke up",
+      "tasks": ["offended", "granny", "broke", "up"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Эта бедняжка любит посплетничать.",
+      "answer": "This poor thing likes gossiping",
+      "tasks": ["poor", "thing", "gossiping"],
       "sound": ""
     },
     {
