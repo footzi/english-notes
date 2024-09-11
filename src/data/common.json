@@ -1119,27 +1119,27 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он пригрозил, что не купит ей подарок.",
+      "answer": "He threatened not to buy her a gift.",
+      "tasks": ["threatened"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/threa/threaten__gb_1.mp3"
+    },
+    {
+      "question": "Ее угроза была бесполезной",
+      "answer": "Her threat was useless .",
+      "tasks": ["threat", "useless"],
+      "sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/t/thr/threa/threat__gb_2.ogg"
+    },
+    {
+      "question": "«Я только что видел привидение!» — Он сказал мне, что только что видел привидение.",
+      "answer": "'I've just seen a ghost!' - He told me he had just seen a ghost",
+      "tasks": ["tell", "me", "had", "just", "seen"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
-      "sound": ""
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
-      "sound": ""
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "«Мы не можем выйти сегодня вечером» — Они сказали, что не могут выйти сегодня вечером.",
+      "answer": "'We can't go out tonight' - They said that they couldn't go out tonight",
+      "tasks": ["said", "couldn't"],
       "sound": ""
     },
     {
