@@ -1097,7 +1097,7 @@
     {
       "question": "У меня остался еще 1 месяц тренировок",
       "answer": "I have 1 more month of training left",
-      "tasks": ["more","left"],
+      "tasks": ["more", "left"],
       "sound": ""
     },
     {
@@ -1140,6 +1140,150 @@
       "question": "«Мы не можем выйти сегодня вечером» — Они сказали, что не могут выйти сегодня вечером.",
       "answer": "'We can't go out tonight' - They said that they couldn't go out tonight",
       "tasks": ["said", "couldn't"],
+      "sound": ""
+    },
+    {
+      "question": "Твоя мудрость может испортить наши блюда.",
+      "answer": "Your wisdom can spoil our dishes",
+      "tasks": ["wisdom", "spoil"],
+      "sound": ""
+    },
+    {
+      "question": "Я потерял связку ключей.",
+      "answer": "I lost my bunch of keys",
+      "tasks": ["bunch"],
+      "sound": ""
+    },
+    {
+      "question": "Я ощутил необъяснимый прилив сил.",
+      "answer": "I got an unexplainable burst of power",
+      "tasks": ["unexplainable", "burst"],
+      "sound": ""
+    },
+    {
+      "question": "В этот момент он потерял сознание",
+      "answer": "At this moment he lost consciousness",
+      "tasks": ["consciousness"],
+      "sound": ""
+    },
+    {
+      "question": "Они предали императора.",
+      "answer": "They betrayed the emperor",
+      "tasks": ["betrayed"],
+      "sound": ""
+    },
+    {
+      "question": "Он вбежал в комнату и что-то прошептал.",
+      "answer": "He rushed into the room and whispered something",
+      "tasks": ["rushed", "into", "whispered"],
+      "sound": ""
+    },
+    {
+      "question": "Она ударила его буханкой хлеба.",
+      "answer": "She struck him with a loaf of bread.",
+      "tasks": ["struck", "loaf"],
+      "sound": ""
+    },
+    {
+      "question": "Он всегда оскорбляет их сына.",
+      "answer": "He always insults their son",
+      "tasks": ["insults"],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
       "sound": ""
     },
     {
