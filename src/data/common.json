@@ -1191,9 +1191,9 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Креветки, моллюски, баклажан (eggplant) свекла, кабачок (zucchini), персик, груша, капуста",
+      "answer": "Prawns , mussels , aubergine , beetroot , courgette , peach , pear , cabbage",
+      "tasks": ["Prawns", "mussels", "aubergine", "beetroot", "courgette", "peach", "pear", "cabbage"],
       "sound": ""
     },
     {
