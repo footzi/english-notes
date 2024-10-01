@@ -1191,15 +1191,15 @@
       "sound": ""
     },
     {
-      "question": "Креветки, моллюски, баклажан (eggplant) свекла, кабачок (zucchini), персик, груша, капуста",
-      "answer": "Prawns , mussels , aubergine , beetroot , courgette , peach , pear , cabbage",
-      "tasks": ["Prawns", "mussels", "aubergine", "beetroot", "courgette", "peach", "pear", "cabbage"],
+      "question": "Креветки, моллюски, баклажан (eggplant) свекла, кабачок (zucchini), персик, груша, капуста, горох",
+      "answer": "Prawns , mussels , aubergine , beetroot , courgette , peach , pear , cabbage , peas",
+      "tasks": ["Prawns", "mussels", "aubergine", "beetroot", "courgette", "peach", "pear", "cabbage", "горох"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Вареный, жареный, запеченный, запеченный с жирком, на пару",
+      "answer": "Boiled , fried , baked , roasted , steamed",
+      "tasks": ["Boiled", "fried", "baked", "roasted", "steamed"],
       "sound": ""
     },
     {
