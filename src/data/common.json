@@ -1191,9 +1191,9 @@
       "sound": ""
     },
     {
-      "question": "Креветки, моллюски, баклажан (eggplant) свекла, кабачок (zucchini), персик, груша, капуста, горох",
-      "answer": "Prawns , mussels , aubergine , beetroot , courgette , peach , pear , cabbage , peas",
-      "tasks": ["Prawns", "mussels", "aubergine", "beetroot", "courgette", "peach", "pear", "cabbage", "горох"],
+      "question": "Креветки, моллюски, баклажан (eggplant) свекла, кабачок (zucchini), персик, груша, капуста, горох, устрицы",
+      "answer": "Prawns , mussels , aubergine , beetroot , courgette , peach , pear , cabbage , peas , oysters",
+      "tasks": ["Prawns", "mussels", "aubergine", "beetroot", "courgette", "peach", "pear", "cabbage", "peas", "oysters"],
       "sound": ""
     },
     {
@@ -1203,15 +1203,15 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я стараюсь сократить потребление сахара",
+      "answer": "I try to cut down on sugar",
+      "tasks": ["cut", "down", "on"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я заранее исключила сметану",
+      "answer": "I cut out sour cream in advance",
+      "tasks": ["cur", "out", "sour", "cream", "in", "advance"],
       "sound": ""
     },
     {
