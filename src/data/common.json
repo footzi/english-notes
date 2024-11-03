@@ -1193,7 +1193,18 @@
     {
       "question": "Креветки, моллюски, баклажан (eggplant) свекла, кабачок (zucchini), персик, груша, капуста, горох, устрицы",
       "answer": "Prawns , mussels , aubergine , beetroot , courgette , peach , pear , cabbage , peas , oysters",
-      "tasks": ["Prawns", "mussels", "aubergine", "beetroot", "courgette", "peach", "pear", "cabbage", "peas", "oysters"],
+      "tasks": [
+        "Prawns",
+        "mussels",
+        "aubergine",
+        "beetroot",
+        "courgette",
+        "peach",
+        "pear",
+        "cabbage",
+        "peas",
+        "oysters"
+      ],
       "sound": ""
     },
     {
@@ -1215,27 +1226,27 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Наш организм переваривает пищу",
+      "answer": "Our body digests food",
+      "tasks": ["digests"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Бармен любит тусоваться, а когда у него похмелье, его всегда рвет.",
+      "answer": "The bartender likes to hang out and, when he has a hangover , he always throws up",
+      "tasks": ["bartender", "hang", "out", "hangover", "throws", "up"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он пригласил ее на свидание, но снова сорвался, напился и врезался в стену.",
+      "answer": "He asked her out, but he relapsed, drunk and bumped into a wall",
+      "tasks": ["asked", "out", "relapsed", "bumped", "into"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Его девушка очень ласковая, и они с нетерпением ждут, когда она заскочит к ним.",
+      "answer": "His girlfriend is extra affectionate , and they eagerly wait when she swings by them",
+      "tasks": ["affectionate", "eagerly", "swings", "by"],
       "sound": ""
     },
     {
