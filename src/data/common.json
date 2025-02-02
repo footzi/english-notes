@@ -1250,21 +1250,21 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Двоюродная сестра/брат, сводная сестра, племянник, племянница, прадедушка",
+      "answer": "cousin , step-sister , nephew , niece , great-grandfather",
+      "tasks": ["cousin", "step-sister", "nephew", "niece", "great-grandfather"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Относится к кому, рожать ребенка, быть женатым на",
+      "answer": "to be related to , to give birth to a child , to be married to",
+      "tasks": ["to be related to", "to give birth to a child", "to be married to"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он меня плохо обращается и хочет торговаться за еду",
+      "answer": "He treats me badly and wants to bargain about food",
+      "tasks": ["treats", "badly", "wants", "bargain", "about"],
       "sound": ""
     },
     {
