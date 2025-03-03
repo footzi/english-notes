@@ -1268,15 +1268,15 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я делал это много раз",
+      "answer": "I've done it loads of times",
+      "tasks": ["loads", "of", "times"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Они нас слишком много взяли за обед вчера",
+      "answer": "They charged us too much for our meal last night",
+      "tasks": ["charged", "us"],
       "sound": ""
     },
     {
