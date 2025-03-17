@@ -16,6 +16,7 @@ import MUST_HAVE_TO from './must+have-to.json';
 import CONDITIONS from './conditions.json';
 import PHRASAL_VERBS from './phrasal-verbs.json';
 import FUTURE_FORMS from './future-forms.json';
+import MONEY from './money.json';
 import { nanoid } from 'nanoid';
 
 const questions = {
@@ -36,6 +37,7 @@ const questions = {
   conditions: CONDITIONS,
   phrasalVerbs: PHRASAL_VERBS,
   futureForms: FUTURE_FORMS,
+  money: MONEY,
 };
 
 const prepareQuestions = (questions) => {

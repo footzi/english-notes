@@ -1,0 +1,230 @@
+{
+  "sentences": [
+    {
+      "question": "Они слишком много взяли за обед вчера",
+      "answer": "They charged us too much for our meal last night",
+      "tasks": ["charged", "us"],
+      "sound": ""
+    },
+    {
+      "question": "Я часто трачу деньги впустую",
+      "answer": "I often waste money",
+      "tasks": ["waste"],
+      "sound": ""
+    },
+    {
+      "question": "Я должен Джеймсу 100 долларов",
+      "answer": "I owe James 100 dollars",
+      "tasks": ["owe"],
+      "sound": ""
+    },
+    {
+      "question": "Мой дом стоит около 200.000 долларов",
+      "answer": "My house is worth about 200.000 dollars",
+      "tasks": ["is", "worth"],
+      "sound": ""
+    },
+    {
+      "question": "Мы хотим собрать деньги на новую церковь.",
+      "answer": "We want to raise money for the new church",
+      "tasks": ["raise", "money", "for"],
+      "sound": ""
+    },
+    {
+      "question": "Кредитной картой, заплатить за обед, потратить на книги, инвестировать в акции",
+      "answer": "by credit card, pay for the dinner, spend on books, invest in stocks",
+      "tasks": ["by", "pay", "for", "spend", "on", "invest", "in"]
+    },
+    {
+      "question": "одалживать друзьям, занимать у банка, плата за бутылку, быть в долгу",
+      "answer": "lend to friends, borrow from the bank, charge for the bottle, get into debt",
+      "tasks": ["lend", "to", "borrow", "from", "charge", "for", "get", "into", "debt"]
+    },
+    {
+      "question": "Я снял 200 евро в банкомате.",
+      "answer": "I took out 200 euros in the ATM.",
+      "tasks": ["took", "out"]
+    },
+    {
+      "question": "Могу ли я вернуть тебе деньги, которые ты мне одолжил, на следующей неделе?",
+      "answer": "Can I pay you back the money I borrowed from you next week?",
+      "tasks": ["pay", "you", "back"]
+    },
+    {
+      "question": "Мне приходится жить за счет родителей, пока я учусь в университете.",
+      "answer": "I have to live off my parents' money while I'm at university.",
+      "tasks": ["live", "off"]
+    },
+    {
+      "question": "Нам с женой трудно прожить на одну зарплату.",
+      "answer": "It's hard to live on one salary for us.",
+      "tasks": ["live", "on"]
+    },
+    {
+      "question": "Я откладываю деньги на случай непредвиденных обстоятельств.",
+      "answer": "I put some money aside for a rainy day.",
+      "tasks": ["put", "some", "money", "aside", "for", "rainy", "day"]
+    },
+    {
+      "question": "Я не могу позволить себе купить этот телефон.",
+      "answer": "I can't afford to buy this phone.",
+      "tasks": ["afford", "to", "buy"]
+    },
+    {
+      "question": "Они стоят целое состояние",
+      "answer": "They cost a fortune",
+      "tasks": ["fortune"]
+    },
+    {
+      "question": "Сантехник взял с меня 500 за починку моего душа.",
+      "answer": "The plumber charged me 500 for mending my shower",
+      "tasks": ["plumber", "charged", "me", "for", "mending"]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    }
+  ],
+  "grammar": {
+    "images": [
+      {
+        "src": "./grammar/money.webp",
+        "layout": "horizontal"
+      },
+      {
+        "src": ""
+      }
+    ]
+  }
+}

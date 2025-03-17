@@ -216,7 +216,7 @@
     "images": [
       {
         "src": "",
-        "layout": "vertical"
+        "layout": "horizontal"
       },
       {
         "src": ""
