@@ -1,4 +1,4 @@
-const LocalStorage = {
+export const LocalStorage = {
   get: (key) => {
     return localStorage.getItem(key);
   },
@@ -21,4 +21,5 @@ export const useStorage = () => {
 
 export const STORAGE_KEYS = {
   ACTIVE_CATEGORY_ID: 'activeCategoryId',
+  REMEMBERED_DESCRIPTIONS: 'rememberedDescriptions',
 };

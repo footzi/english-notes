@@ -18,7 +18,7 @@ import PHRASAL_VERBS from './phrasal-verbs.json';
 import FUTURE_FORMS from './future-forms.json';
 import MONEY from './money.json';
 import { nanoid } from 'nanoid';
-
+import { STORAGE_KEYS, LocalStorage } from '../modules/hooks/useStorage.js';
 const questions = {
   common: COMMON,
   numbers: NUMBERS,
@@ -40,7 +40,7 @@ const questions = {
   money: MONEY,
 };
 
-const prepareQuestions = (questions) => {
+const prepareQuestions = (questions, remembered = []) => {
   const filteredQuestions = questions.filter((question) => Boolean(question.question));
 
   return filteredQuestions.map((item, index) => {
@@ -48,12 +48,15 @@ const prepareQuestions = (questions) => {
       id: nanoid(),
       // todo remove?
       index: index + 1,
+      isRemembered: remembered.includes(item.question),
       ...item,
     };
   });
 };
 
 export const getData = () => {
+  const remembered = JSON.parse(LocalStorage.get(STORAGE_KEYS.REMEMBERED_DESCRIPTIONS) ?? '{}');
+
   const categories = CATEGORIES.map((category) => {
     const source = questions[category.id];
     // todo убрать после обновления типов
@@ -61,7 +64,7 @@ export const getData = () => {
 
     return {
       ...category,
-      questions: prepareQuestions(sentences),
+      questions: prepareQuestions(sentences, remembered[category.id]),
       grammar: source?.grammar ?? {},
     };
   });

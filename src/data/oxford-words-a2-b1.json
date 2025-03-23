@@ -787,51 +787,51 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Собака начала отчаянно вилять хвостом.",
+      "answer": "The dog's tail began to wag frantically",
+      "tasks": ["tail", "wag", "frantically"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Приклеить ковер с помощью двусторонней липкой ленты.",
+      "answer": "Fit the carpet using double-sided tape.",
+      "tasks": ["fit", "double-sided", "tape"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Она завязала свою прическу в плотный узел.",
+      "answer": "She twisted her hair into a tight knot.",
+      "tasks": ["twisted", "tight", "knot"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я ударился о ступеньку.",
+      "answer": "I stubbed my toe on the step",
+      "tasks": ["stubbed", "toe"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Обращайтесь с клавиатурой бережно, и она прослужит долгие годы.",
+      "answer": "Treat your keyboard with care and it should last for years.",
+      "tasks": ["Treat", "care"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Препарат применяется при лечении депрессии.",
+      "answer": "The drug is used in the treatment of depression.",
+      "tasks": ["used", "treatment"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я был обманут, и я чувствовал себя глупым.",
+      "answer": "I'd been tricked and I felt stupid.",
+      "tasks": ["tricked"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Дети постоянно подшучивают над своим учителем.",
+      "answer": "The kids are always playing tricks on their teacher.",
+      "tasks": ["tricks"],
       "sound": ""
     },
     {

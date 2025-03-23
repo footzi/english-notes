@@ -15,6 +15,7 @@ export const Content = ({ data }) => {
 
   const handleChangeTab = (id) => setActiveTab(id);
 
+
   return (
     <div>
       <div className={styles.top}>
@@ -30,7 +31,7 @@ export const Content = ({ data }) => {
 
       <div className={styles.content}>
         {activeTab === TABS.Task && <Tasks questions={questions} />}
-        {activeTab === TABS.Description && <Description descriptions={descriptions} />}
+        {activeTab === TABS.Description && <Description descriptions={descriptions} categoryId={data.id}/>}
         {activeTab === TABS.Grammar && <Grammar grammar={data.grammar} />}
       </div>
     </div>

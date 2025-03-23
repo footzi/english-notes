@@ -1274,33 +1274,33 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Не могли бы вы показать мне, как добраться до почтового отделения?",
+      "answer": "Could you please show me directions to a post office?",
+      "tasks": ["Could", "you"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "У меня новая работа, поэтому я переезжаю в новый город.",
+      "answer": "I’ve got a new job, which is why I’m moving to a new city.",
+      "tasks": ["which", "is", "why"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Вот почему она не может присоединиться к нам на вечеринке.",
+      "answer": "That is why she can't join us at the party.",
+      "tasks": ["That", "is", "why"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Не возражаете ли вы, если я узнаю, сколько вам лет?",
+      "answer": "Do you mind me how old you are ?",
+      "tasks": ["mind", "you", "are"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я был бы очень признателен, если бы вы помогли мне с моим домашним заданием.",
+      "answer": "I was wondering if you could help me with my homework.",
+      "tasks": ["was", "wondering"],
       "sound": ""
     },
     {
