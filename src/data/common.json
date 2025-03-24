@@ -1304,27 +1304,27 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Одна из важнейших владений, которые у нее были, была ее фотоальбом",
+      "answer": "One of Jane's most important possessions was her photo album",
+      "tasks": ["possessions"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Галерея владеет рядом ранних работ художника.",
+      "answer": "The gallery passes a number of the artist's early works.",
+      "tasks": ["passes"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Важно восстановить клюшки для гольфа",
+      "answer": "It's important to restore golf clubs",
+      "tasks": ["restore", "golf", "clubs"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Этот дом горит",
+      "answer": "This house is on fire",
+      "tasks": ["is", "on", "fire"],
       "sound": ""
     },
     {
