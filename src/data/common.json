@@ -1328,9 +1328,39 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я использую беговую дорожку и не ем огурцы (соленья).",
+      "answer": "I use a treadmill and don't eat pickles .",
+      "tasks": ["treadmill", "pickles"],
+      "sound": ""
+    },
+    {
+      "question": "Я засолил помидоры, потому что это деликатес.",
+      "answer": "I pickled tomatoes because they are a delicacy .",
+      "tasks": ["pickled", "delicacy"],
+      "sound": ""
+    },
+    {
+      "question": "Я был так зол на него.",
+      "answer": "I was so pissed at him.",
+      "tasks": ["pissed"],
+      "sound": ""
+    },
+    {
+      "question": "Я разозлил своего отца.",
+      "answer": "I pissed my father off",
+      "tasks": ["pissed"],
+      "sound": ""
+    },
+    {
+      "question": "Я не могу оправдать потраченные деньги.",
+      "answer": "I can’t justify spending so much money",
+      "tasks": ["justify"],
+      "sound": ""
+    },
+    {
+      "question": "Они искренние люди.",
+      "answer": "They are sincere people.",
+      "tasks": ["sincere"],
       "sound": ""
     },
     {
