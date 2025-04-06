@@ -1364,6 +1364,228 @@
       "sound": ""
     },
     {
+      "question": "Я хочу, чтобы ты купила огурцы",
+      "answer": "I want you to buy cucumbers",
+      "tasks": ["want", "you", "buy"],
+      "sound": ""
+    },
+    {
+      "question": "Ты напоминаешь мне о моем старом боссе",
+      "answer": "You remind me of my old boss",
+      "tasks": ["remind", "me", "of"],
+      "sound": ""
+    },
+    {
+      "question": "Можешь напомнить мне о нашей встрече?",
+      "answer": "Could you remind me about our meeting?",
+      "tasks": ["remind", "me", "about"],
+      "sound": ""
+    },
+    {
+      "question": "Она такая искренняя",
+      "answer": "She is so genuine",
+      "tasks": ["genuine"],
+      "sound": ""
+    },
+    {
+      "question": "Этот куртка подлинная",
+      "answer": "This jacket is genuine",
+      "tasks": ["genuine"],
+      "sound": ""
+    },
+    {
+      "question": "Они ценят эти простыни",
+      "answer": "They value these sheets",
+      "tasks": ["value", "sheets"],
+      "sound": ""
+    },
+    {
+      "question": "Эти колеса сделаны из резины, а моя куртка из джинсовой ткани",
+      "answer": "These wheels are made of rubber and my jacket is made of denim .",
+      "tasks": ["made", "of", "rubber", "denim"],
+      "sound": ""
+    },
+    {
+      "question": "Лина не носит ничего ювелирного, кроме этой золотой цепи",
+      "answer": "Lin doesn't wear any jewelry apart from this gold chain",
+      "tasks": ["apart", "from"],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
       "question": "",
       "answer": "",
       "tasks": [""],
