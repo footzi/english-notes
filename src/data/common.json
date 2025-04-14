@@ -1412,15 +1412,15 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я отправился в путь в ноябре.",
+      "answer": "I set off at the of November",
+      "tasks": ["set", "off"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "У меня нет загара.",
+      "answer": "I don't have a tan",
+      "tasks": ["tan"],
       "sound": ""
     },
     {

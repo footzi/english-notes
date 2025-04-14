@@ -1,6 +1,14 @@
 {
   "grammar": {
-    "src": ["./grammar/tenses.webp"]
+    "images": [
+      {
+        "src": "./grammar/tenses.webp"
+      },
+      {
+        "src": "./grammar/narrative-tenses.webp",
+        "layout": "vertical"
+      }
+    ]
   },
   "sentences": []
 }
