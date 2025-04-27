@@ -1424,27 +1424,27 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я не обнажаюсь на публике.",
+      "answer": "I don't bare on public",
+      "tasks": ["bare"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "У меня есть подушки, ваза и коврик.",
+      "answer": "I have cushions , vase and rug",
+      "tasks": ["cushions", "vase", "rug"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я понятия не имею, почему мне нравится простота и безумие.",
+      "answer": "I have no idea why I like simplicity and craziness",
+      "tasks": ["no", "idea", "simplicity", "craziness"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Курение оказывает отрицательное влияние на окружающую среду.",
+      "answer": "Smoking has a negative impact on the environment",
+      "tasks": ["impact", "environment"],
       "sound": ""
     },
     {
