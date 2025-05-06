@@ -1454,7 +1454,7 @@
       "sound": ""
     },
     {
-      "question": "Она стала хорошим танцором",
+      "question": "Она в итоге стала хорошим танцором",
       "answer": "She went on to be a good dancer",
       "tasks": ["went", "on", "to", "be"],
       "sound": ""
@@ -1466,7 +1466,7 @@
       "sound": ""
     },
     {
-      "question": "Он стал хорошим футболистом",
+      "question": "Он вырос хорошим футболистом",
       "answer": "He grew up to be a good footballer",
       "tasks": ["grew", "up", "to", "be"],
       "sound": ""
@@ -1478,7 +1478,7 @@
       "sound": ""
     },
     {
-      "question": "Я перестал слушать рок-музыку годами",
+      "question": "Я перестал слушать рок-музыку годы назад",
       "answer": "I stopped listening to rock music years ago",
       "tasks": ["stopped", "listening", "to"],
       "sound": ""
@@ -1502,7 +1502,7 @@
       "sound": ""
     },
     {
-      "question": "Кент играл на гитаре на нескольких площадках в Лондоне",
+      "question": "Кент в итоге сыграл на гитаре на нескольких площадках в Лондоне",
       "answer": "Kent went on to play guitar at several venues in London",
       "tasks": ["went", "on", "to", "play", "venues"],
       "sound": ""
@@ -1526,27 +1526,27 @@
       "sound": ""
     },
     {
-      "question": "Этот дом оказался идеальным для моей семьи.",
-      "answer": "This house turned out being perfect for my family.",
+      "question": "Этот дом оказался (обернулся) идеальным для моей семьи.",
+      "answer": "This house turned out to be perfect for my family.",
       "tasks": ["turned", "out", "being"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Они убедили людей прекратить собирать пластиковые бутылки",
+      "answer": "They succeeded in persuading people to stop collecting plastic bottles",
+      "tasks": ["persuading"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я часто раздаю свою одежду",
+      "answer": "I often give away my clothes",
+      "tasks": ["give", "away"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он подставил моего друга",
+      "answer": "He set up my friend",
+      "tasks": ["set", "up"],
       "sound": ""
     },
     {
