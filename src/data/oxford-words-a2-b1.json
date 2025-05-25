@@ -835,33 +835,33 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Это справедливо и не справедливо одновременно",
+      "answer": "This is both fair and unfair at the same time",
+      "tasks": ["fair", "unfair"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Этот кот симпатичный, но глупый",
+      "answer": "This cat is pretty but silly",
+      "tasks": ["pretty", "silly"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Этот запах неприятен",
+      "answer": "This smell is unpleasant",
+      "tasks": ["unpleasant"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я только начал задаваться вопросом, где ты. (стало интересно)",
+      "answer": "I was just beginning to wonder where you were",
+      "tasks": ["beginning", "wonder"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он сохранил детское чувство удивления.",
+      "answer": "He retained a childlike sense of wonder",
+      "tasks": ["retained", "wonder"],
       "sound": ""
     },
     {

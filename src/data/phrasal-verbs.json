@@ -55,6 +55,120 @@
       "question": "Когда она обычно выезжает на работу?",
       "answer": "When does she usually set off for work?",
       "tasks": ["set", "off"]
+    },
+    {
+      "question": "Я часто раздаю свою одежду",
+      "answer": "I often give away my clothes",
+      "tasks": ["give", "away"],
+      "sound": ""
+    },
+    {
+      "question": "Он подставил моего друга",
+      "answer": "He set up my friend",
+      "tasks": ["set", "up"],
+      "sound": ""
+    },
+    {
+      "question": "Закрыть дом, выбросить еду, убрать комнату, повесить одежду",
+      "answer": "Lock up the house, throw out food, tidy up room, hang up clothes",
+      "tasks": ["Lock", "up", "throw", "out", "tidy", "up", "hang", "up"],
+      "sound": ""
+    },
+    {
+      "question": "Взять торт из пекарни, дать инструкции для системы, вынести мусор, включить отопление, подмести пол",
+      "answer": "Pick up cake from bakery, go over instructions for system, take out the rubbish, turn up heating, sweep floor",
+      "tasks": ["Pick", "up", "go", "over", "take", "out", "turn", "up", "sweep"],
+      "sound": ""
+    },
+    {
+      "question": "Этот дом оказался (обернулся) идеальным для моей семьи.",
+      "answer": "This house turned out to be perfect for my family.",
+      "tasks": ["turned", "out", "being"],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
     }
   ],
   "grammar": {
