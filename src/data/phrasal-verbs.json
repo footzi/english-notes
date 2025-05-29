@@ -87,9 +87,9 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Не могли бы вы вылить молоко и забрать пиццу? (Не были бы против)",
+      "answer": "Would you mind throwing out milk and picking up pizza",
+      "tasks": ["Would", "mind", "throwing", "picking"],
       "sound": ""
     },
     {

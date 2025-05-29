@@ -1538,9 +1538,9 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я не могу этого выносить.",
+      "answer": "I can't stand it",
+      "tasks": ["stand"],
       "sound": ""
     },
     {

@@ -794,7 +794,7 @@
     },
     {
       "question": "Приклеить ковер с помощью двусторонней липкой ленты.",
-      "answer": "Fit the carpet using double-sided tape.",
+      "answer": "Fit the carpet using double-sided tape .",
       "tasks": ["fit", "double-sided", "tape"],
       "sound": ""
     },
