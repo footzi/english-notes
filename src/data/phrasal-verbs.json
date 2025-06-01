@@ -93,21 +93,33 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я почти никогда не выхожу из телефона.",
+      "answer": "I'm pretty much never off my phone",
+      "tasks": ["pretty", "much", "never", "off"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Мои собаки похожи, только самая старая больше.",
+      "answer": "My dogs are similar, except the oldest one is bigger",
+      "tasks": ["except"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Школа преподает большинство видов спорта, кроме гольфа.",
+      "answer": "The school teaches most ball sports except for golf.",
+      "tasks": ["except", "for"],
+      "sound": ""
+    },
+    {
+      "question": "Джон обычно не смотрит телевизор, но даже он полюбил эту программу!",
+      "answer": "John doesn’t usually watch TV, but even he liked that programme!",
+      "tasks": ["even"],
+      "sound": ""
+    },
+    {
+      "question": "Я мог бы жить без моих гаджетов, кроме телефона",
+      "answer": "I could live without my gadgets apart from my phone",
+      "tasks": ["apart", "from"],
       "sound": ""
     },
     {

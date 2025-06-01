@@ -865,51 +865,39 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Люди зависимы от экранного времени",
+      "answer": "People are addicted to screen time",
+      "tasks": ["addicted"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Вы можете совершить круиз от Каира до Асуана или наоборот",
+      "answer": "You can cruise from Cairo to Aswan or vice versa",
+      "tasks": ["vice", "versa"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я купил карту, чтобы облегчить наше путешествие.",
+      "answer": "I bought a map to ease our travel",
+      "tasks": ["ease"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "После нашего разговора я хочу выпустить пар",
+      "answer": "After our talk, I want to vent",
+      "tasks": ["vent"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Мы все зависим от нашего учебника",
+      "answer": "We all rely on our textbook",
+      "tasks": ["rely", "on"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
-      "sound": ""
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
-      "sound": ""
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я частично согласен с тобой",
+      "answer": "I partly agree with you",
+      "tasks": ["partly"],
       "sound": ""
     },
     {
