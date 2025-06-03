@@ -1544,21 +1544,15 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я предложил ей посмотреть фильм и предложил пиццу. (idea and что-то)",
+      "answer": "I suggested she watch a movie and offered a pizza",
+      "tasks": ["suggested", "offered"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
-      "sound": ""
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Мне достаточно нравится кислый чай. (средний уровень)",
+      "answer": "I quite like sour tea",
+      "tasks": ["quite", "sour"],
       "sound": ""
     },
     {

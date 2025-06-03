@@ -901,9 +901,15 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Семья понимает, что это работает для меня.",
+      "answer": "The family realises it works for me.",
+      "tasks": ["realises"],
+      "sound": ""
+    },
+    {
+      "question": "Я полностью разделяю твоё мнение.",
+      "answer": "I can totally relate",
+      "tasks": ["totally", "relate"],
       "sound": ""
     },
     {
