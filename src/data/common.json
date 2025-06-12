@@ -1556,15 +1556,15 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я оставляю кран открытым, когда чищу зубы.",
+      "answer": "I leave the tap running when I clean my tooth",
+      "tasks": ["tap", "running"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я иногда смотрю телевизор запоем",
+      "answer": "I sometimes binge-watch TV",
+      "tasks": ["binge-watch"],
       "sound": ""
     },
     {

@@ -914,7 +914,7 @@
     },
     {
       "question": "Этот дом построил ее далекий предок",
-      "answer": "This house was built by her distant ancestor.",
+      "answer": "This house was built by her distant ancestor .",
       "tasks": ["distant", "ancestor"],
       "sound": ""
     },
@@ -926,14 +926,14 @@
     },
     {
       "question": "Он проскользнул по луже и упал в бездонную яму.",
-      "answer": "He slipped on a puddle and fell into a bottomless pit.",
+      "answer": "He slipped on a puddle and fell into a bottomless pit .",
       "tasks": ["slip", "puddle", "pit"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я не могу устоять перед кофе.",
+      "answer": "I can't resist coffee",
+      "tasks": ["resist"],
       "sound": ""
     },
     {

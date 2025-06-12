@@ -123,27 +123,27 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я стараюсь не отвлекаться на телефон",
+      "answer": "I make an effort to not be distracted by my phone",
+      "tasks": ["make", "an", "effort"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я часто откладываю важные дела",
+      "answer": "I often put off important jobs",
+      "tasks": ["put", "off"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я продолжаю делать это, пока не закончу",
+      "answer": "I keep on doing it until I finish",
+      "tasks": ["keep", "on"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я не очень хорошо придерживаюсь своих привычек",
+      "answer": "I am not very good at sticking to my habits",
+      "tasks": ["sticking", "to"],
       "sound": ""
     },
     {
