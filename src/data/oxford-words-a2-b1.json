@@ -931,27 +931,21 @@
       "sound": ""
     },
     {
-      "question": "Я не могу устоять перед кофе.",
-      "answer": "I can't resist coffee",
-      "tasks": ["resist"],
+      "question": "Меня беспокоит наша неподготовленность к переменам.",
+      "answer": "What concerns me is our lack of preparation for the change.",
+      "tasks": ["concerns"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Теперь у него было достаточно денег, чтобы удовлетворить все его желания.",
+      "answer": "He now had enough money to satisfy all his desires",
+      "tasks": ["satisfy", "desires"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
-      "sound": ""
-    },
-    {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Эти яблоки были испорчены, потому что из нашей страны произошла утечка мозгов.",
+      "answer": "These apples were spoiled because our country had a brain drain.",
+      "tasks": ["spoiled", "brain", "drain"],
       "sound": ""
     },
     {

@@ -4,10 +4,6 @@
     "name": "Общие"
   },
   {
-    "id": "futureForms",
-    "name": "Будущие формы"
-  },
-  {
     "id": "phrasalVerbs",
     "name": "Фразовые глаголы"
   },
@@ -18,6 +14,10 @@
   {
     "id": "tenses",
     "name": "⏰ Времена"
+  },
+  {
+    "id": "futureForms",
+    "name": "Будущие формы"
   },
   {
     "id": "toGerund",

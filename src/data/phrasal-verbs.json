@@ -125,7 +125,7 @@
     {
       "question": "Я стараюсь не отвлекаться на телефон",
       "answer": "I make an effort to not be distracted by my phone",
-      "tasks": ["make", "an", "effort"],
+      "tasks": ["make", "an", "effort", "distracted"],
       "sound": ""
     },
     {
@@ -147,27 +147,33 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Они бросили пить колу",
+      "answer": "They gave up drinking Coke",
+      "tasks": ["gave", "up"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Парикмахер не может устоять перед кофе",
+      "answer": "The hairdresser can't resist coffee",
+      "tasks": ["hairdresser", "can't", "resist"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я ставлю себе цели каждый год и всегда достигаю их",
+      "answer": "I set my goals every year and always achieve them",
+      "tasks": ["set", "goals", "achieve"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Каждый раз, когда я начинаю заниматься спортом, мне удается заниматься им всего несколько недель.",
+      "answer": "Every time I take up sport, I manage it only for a few weeks",
+      "tasks": ["take", "up", "manage"],
+      "sound": ""
+    },
+    {
+      "question": "Я продолжаю чистить зубы каждое утро. (поддерживать привычку / быть на 1 волне)",
+      "answer": "I keep up with brushing my teeth every morning",
+      "tasks": ["keep", "up", "with"],
       "sound": ""
     },
     {
