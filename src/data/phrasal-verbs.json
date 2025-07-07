@@ -177,15 +177,15 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Сделать замечание (комментарий), расстроиться, избежать спора, оказать услугу, быть в плохом настроении",
+      "answer": "make a comment , get upset , avoid an argument , do a favour , to be in a bad mood",
+      "tasks": ["make", "comment", "get", "upset", "avoid", "argument", "do", "favour", "in", "bad", "mood"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "чувствовать себя виноватым, это моя вина, чувствовать себя комфортно, чувствовать, что хочу что-то сделать, быть счастливым что-то сделать",
+      "answer": "feel guilty , it is my fault , feel comfortable , feel like doing , to be happy to do",
+      "tasks": ["feel", "guilty", "fault", "comfortable", "like", "doing", "to", "be", "happy", "to", "do"],
       "sound": ""
     }
   ],
