@@ -1568,39 +1568,39 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Ящерица скользит между деревьями, а затем убегает от врага.",
+      "answer": "The lizard glides between trees and then flees from the enemy",
+      "tasks": ["glides", "flees"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Белка не умеет парить, но может бросить на людей тяжелый взгляд.",
+      "answer": "Squirrel can't soar and but can give people a hard look",
+      "tasks": ["soar", "give", "hard", "look"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Она не решалась постучать по чашке",
+      "answer": "She hesitated to tap on the cup",
+      "tasks": ["hesitated", "tap", "cup"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Люди мешают и лезут без очереди.",
+      "answer": "People get in the way and jump the queue",
+      "tasks": ["get", "in", "way", "jump", "queue"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Мы купили билеты за неделю.",
+      "answer": "We bought tickets a week in advance",
+      "tasks": ["in", "advance"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я не могу этого выносить, это меня раздражает, это меня бесит, это сводит меня с ума, я не могу этого выносить.",
+      "answer": "I can't stand , it bugs me, It annoys me, it drives me crazy , I can't bear it",
+      "tasks": ["stand", "bugs", "annoys", "drives", "crazy", "bear"],
       "sound": ""
     },
     {
