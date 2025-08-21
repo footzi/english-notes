@@ -187,6 +187,354 @@
       "answer": "feel guilty , it is my fault , feel comfortable , feel like doing , to be happy to do",
       "tasks": ["feel", "guilty", "fault", "comfortable", "like", "doing", "to", "be", "happy", "to", "do"],
       "sound": ""
+    },
+    {
+      "question": "Это сложный вопрос, я не совсем понимаю, что вы имеете в виду.",
+      "answer": "That's is tricky one, I don't quite get what you mean",
+      "tasks": ["tricky", "quite", "get", "mean"],
+      "sound": ""
+    },
+    {
+      "question": "О, у меня нет никаких сомнений, я бы определенно это сделал.",
+      "answer": "Oh no question in my mind, I would definitely do it",
+      "tasks": ["no", "question", "in", "my", "mind", "would", "definitely"],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""],
+      "sound": ""
     }
   ],
   "grammar": {

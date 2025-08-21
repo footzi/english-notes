@@ -1604,27 +1604,27 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Это того стоит",
+      "answer": "It worth it",
+      "tasks": ["worth"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я не трачу время на поездки в офис",
+      "answer": "I don’t waste my time commuting to the office",
+      "tasks": ["waste", "time", "commuting"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я думаю, что в реальной жизни я бы сомневался",
+      "answer": "I think that in real life I'd hesitate",
+      "tasks": ["hesitate"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "В тот момент я не мог выйти из автобуса.",
+      "answer": "At that point , I couldn't get off a bus",
+      "tasks": ["At", "that", "point", "get", "off", "bus"],
       "sound": ""
     },
     {
