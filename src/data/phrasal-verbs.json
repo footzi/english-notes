@@ -201,51 +201,51 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Keep away from things which take your attention",
+      "answer": "avoid distractions",
+      "tasks": ["avoid", "distractions"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Follow a plan or timetable, without changing it",
+      "answer": "keep to a routine",
+      "tasks": ["keep", "to", "routine"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Do a task by a particular time",
+      "answer": "meet a deadline",
+      "tasks": ["meet", "deadline"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Finish a large amount of work",
+      "answer": "get a lot done",
+      "tasks": ["get", "a", "lot", "done"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Stop giving an attention to something",
+      "answer": "lose concentration",
+      "tasks": ["lose", "concentration"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Be late in doing work or a task",
+      "answer": "fall behind schedule",
+      "tasks": ["fall", "behind", "schedule"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Manage a difficult situation successfully",
+      "answer": "deal with a challenge",
+      "tasks": ["deal", "with", "challenge"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Finish something so you are free to do something else",
+      "answer": "get out of the way",
+      "tasks": ["get", "out", "of", "the", "way"],
       "sound": ""
     },
     {

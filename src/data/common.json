@@ -1628,21 +1628,21 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он поспал и поэтому отстал от графика.",
+      "answer": "He had a nap, so he fell behind schedule",
+      "tasks": ["nap", "fall", "behind", "schedule"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Ты отвратительна и неуместна, но восхитительна.",
+      "answer": "You are gross and и inappropriate but delightful .",
+      "tasks": ["gross", "inappropriate", "delightful"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он взглянул на официантку, но это не было интрижкой.",
+      "answer": "He did glanced at the waiter but it wasn't a fling",
+      "tasks": ["glanced", "fling"],
       "sound": ""
     },
     {
