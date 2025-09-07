@@ -1646,27 +1646,27 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Если ты не поторопишься, мы уйдем без тебя (If not)",
+      "answer": "Unless you hurry up, we’re going to leave without you",
+      "tasks": ["Unless"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Даже если компания будет платить мне в два раза больше, я уйду.",
+      "answer": "Even if the company pays me twice as much, I’m going to leave.",
+      "tasks": ["Even", "if"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Возьмите с собой зонтик на случай дождя. (возможно что-то случиться)",
+      "answer": "Take your umbrella in case it rains",
+      "tasks": ["in", "case"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "В случае пожара разбейте стекло.",
+      "answer": "In case of fire, break the glass",
+      "tasks": ["In", "case"],
       "sound": ""
     },
     {
