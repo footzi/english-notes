@@ -1,0 +1,67 @@
+{
+  "grammar": {
+    "images": [
+      {
+        "src": "./grammar/necessity-and-obligation.avif",
+        "layout": "vertical"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "question": "Необходимо иметь водительские права. (must)",
+      "answer": "It's necessary to have a driving licence.",
+      "tasks": ["it's", "necessary"]
+    },
+    {
+      "question": "Необходимо немедленно отвезти её в больницу. (it's important)",
+      "answer": "It's essential to take her to hospital immediately",
+      "tasks": ["it's", "essential"]
+    },
+    {
+      "question": "Эта работа должна быть сделана к завтрашнему утру.",
+      "answer": "This job needs to be done by tomorrow morning",
+      "tasks": ["needs", "done", "to", "be", "done"]
+    },
+    {
+      "question": "Мне нужно быть дома к десяти.",
+      "answer": "I've got to get home by ten.",
+      "tasks": ["I've", "got", "to", "get"]
+    },
+    {
+      "question": "Ей нужно подумать об этом. (не формально)",
+      "answer": "She's gotta think about it.",
+      "tasks": ["gotta"]
+    },
+    {
+      "question": "Я должен носить шляпу при доставке еды, но я не ношу.",
+      "answer": "I'm supposed to wear a hat when I deliver food, but I don't.",
+      "tasks": ["I'm", "supposed", "to", "wear"]
+    },
+    {
+      "question": "Робби не должен обращаться к клиентам по имени, но он часто это делает.",
+      "answer": "Robbie's not supposed to call customers by their first names, but he often does.",
+      "tasks": ["not", "supposed", "to", "call"]
+    },
+    {
+      "question": "Нашим детям разрешено играть в компьютерные игры два часа по выходным.",
+      "answer": "Our children are allowed to play computer games for two hours at the weekends.",
+      "tasks": ["are", "allowed", "to", "play"]
+    },
+    {
+      "question": "Мне не разрешено ложиться спать после полуночи.",
+      "answer": "I'm not allowed to go to bed after midnight.",
+      "tasks": ["I'm", "not", "allowed", "to", "go"]
+    },
+    {
+      "question": "Офисным работникам здесь разрешено носить повседневную одежду по пятницам. (более формально)",
+      "answer": "Office workers here are permitted to wear casual clothes on Fridays",
+      "tasks": ["are", "permitted", "to", "wear"]
+    },
+    {
+      "question": "Водителям не разрешено ездить более восьми часов без перерыва. (более формально)",
+      "answer": "Drivers are not permitted to drive more than eight hours without a break.",
+      "tasks": ["are", "not", "permitted", "to", "drive"]
+    }
+  ]
+}
