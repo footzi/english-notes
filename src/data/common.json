@@ -1670,21 +1670,21 @@
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Я готов это сделать.",
+      "answer": "I'm willing to do it",
+      "tasks": ["willing", "to"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Мое интервью было очень простым. (east to understand)",
+      "answer": "My interview was very straightforward",
+      "tasks": ["straightforward"],
       "sound": ""
     },
     {
-      "question": "",
-      "answer": "",
-      "tasks": [""],
+      "question": "Он прямой человек. (и честный человек)",
+      "answer": "He is a straightforward person",
+      "tasks": ["straightforward"],
       "sound": ""
     },
     {
