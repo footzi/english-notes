@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    {
+      "question": "Он предпочел бы готовить на электричестве, чем на газе. (rather)",
+      "answer": "He would rather cook with electricity than with gas.",
+      "tasks": ["would", "rather", "cook", "than"]
+    },
+    {
+      "question": "Я бы предпочел быть счастливым, чем богатым. (rather)",
+      "answer": "I'd rather be happy than (be) rich.",
+      "tasks": ["I'd", "rather", "be", "happy", "than"]
+    },
+    {
+      "question": "Я бы предпочел не отвечать на этот вопрос. (rather)",
+      "answer": "I'd rather not answer that question.",
+      "tasks": ["I'd", "rather", "not", "answer"]
+    },
+    {
+      "question": "Я предпочитаю котов собакам. (общее)",
+      "answer": "I prefer cats to dogs",
+      "tasks": ["I", "prefer", "cats", "to", "dogs"]
+    },
+    {
+      "question": "В общем, он предпочитает работать в одиночку работать с другими людьми. (общее)",
+      "answer": "In general he prefers working alone to working with other people.",
+      "tasks": ["prefers", "working", "to"]
+    },
+    {
+      "question": "Я бы предпочёл сегодня вечером взять еду с собой.",
+      "answer": "I'd prefer to get a takeaway tonight",
+      "tasks": ["I'd", "prefer", "to", "get"]
+    },
+    {
+      "question": "Где бы вы предпочли жить: в Арктике или в пустыне Сахара? (гипотетически)",
+      "answer": "Would you prefer to live in the Arctic or the Sahara Desert?",
+      "tasks": ["Would", "you", "prefer", "to", "live"]
+    },
+    {
+      "question": "Я бы предпочел не встречаться сегодня",
+      "answer": "I'd prefer not to meet today",
+      "tasks": ["I'd", "prefer", "not", "to", "meet"]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    },
+    {
+      "question": "",
+      "answer": "",
+      "tasks": [""]
+    }
+  ],
+  "grammar": {
+    "images": [
+      {
+        "src": "./grammar/expressing-preferences.avif"
+      }
+    ]
+  }
+}
