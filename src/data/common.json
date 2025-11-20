@@ -1986,6 +1986,46 @@
       "answer": "",
       "tasks": [""],
       "sound": ""
+    },
+    {
+      "question": "Если ты обманываешь кого-то, ты заставляешь их поверить во что-то, что не является правдой.",
+      "answer": "If you deceive someone, you make them believe something that isn't true.",
+      "tasks": ["deceive"]
+    },
+    {
+      "question": "Когда мы притворяемся, мы ведем себя так, как будто что-то правда, когда мы знаем, что это не так.",
+      "answer": "When we pretend , we behave as if something is true when we know it's not.",
+      "tasks": ["pretend"]
+    },
+    {
+      "question": "Схема - это план, предназначенный для достижения чего-то, что может быть незаконным или неправильным.",
+      "answer": "A scheme is a plan that's intended to achieve something that may be illegal or wrong.",
+      "tasks": ["scheme"]
+    },
+    {
+      "question": "Если ты сомневаешься в чем-то, ты думаешь, что это может быть неправдой.",
+      "answer": "If you doubt something, you think it might not be true.",
+      "tasks": ["doubt"]
+    },
+    {
+      "question": "Когда мы что-то придумываем, мы изобретаем это, например, историю.",
+      "answer": "When we make up something, we invent it, e.g. a story.",
+      "tasks": ["make", "up"]
+    },
+    {
+      "question": "Говорить правду означает противоположность лжи.",
+      "answer": "To tell the truth means the opposite of to tell a lie.",
+      "tasks": ["tell", "truth"]
+    },
+    {
+      "question": "Когда мы признаемся, мы решаем быть честными о чем-то, что скрывали.",
+      "answer": "When we come clean , we decide to be honest about something we were hiding.",
+      "tasks": ["come", "clean"]
+    },
+    {
+      "question": "Если ты живешь ложью, ты скрываешь правду о том, как ты живешь своей жизнью.",
+      "answer": "If you live a lie , you hide the truth about the way you live your life.",
+      "tasks": ["live", "a", "lie"]
     }
   ],
   "grammar": {

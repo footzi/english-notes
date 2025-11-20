@@ -19,6 +19,7 @@ import FUTURE_FORMS from './future-forms.json';
 import MONEY from './money.json';
 import NECESSITY_AND_OBLIGATION from './necessity-and-obligation.json';
 import EXPRESSING_PREFERENCES from './expressing-preferences.json';
+import PAST_PLANS_INTENTIONS from './past-plans-intentions.json';
 import { nanoid } from 'nanoid';
 import { STORAGE_KEYS, LocalStorage } from '../modules/hooks/useStorage.js';
 const questions = {
@@ -42,6 +43,7 @@ const questions = {
   money: MONEY,
   necessityAndObligation: NECESSITY_AND_OBLIGATION,
   expressingPreferences: EXPRESSING_PREFERENCES,
+  pastPlansIntentions: PAST_PLANS_INTENTIONS,
 };
 
 const prepareQuestions = (questions, remembered = []) => {
