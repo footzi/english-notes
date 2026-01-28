@@ -2,136 +2,348 @@
   {
     "question": "Дэйв почти никогда не делает ошибок. Он перепроверяет все свои расчеты.",
     "answer": "Dave hardly ever makes mistakes . He double-checks all his calculations.",
-    "tasks": ["hardly", "makes", "mistakes", "double-checks"]
+    "tasks": [
+      "hardly",
+      "makes",
+      "mistakes",
+      "double-checks"
+    ]
   },
   {
     "question": "Майк не против стресса. На самом деле, это помогает ему работать лучше.",
     "answer": "Mike doesn’t mind stress. In fact, it helps him to work better.",
-    "tasks": ["mind", "in", "fact", "helps"]
+    "tasks": [
+      "mind",
+      "in",
+      "fact",
+      "helps"
+    ]
   },
   {
     "question": "Я взял на себя его обязанности.",
     "answer": "I took on his responsibilities .",
-    "tasks": ["took", "on", "responsibilities"]
+    "tasks": [
+      "took",
+      "on",
+      "responsibilities"
+    ]
   },
   {
     "question": "Мое полезное достижение",
     "answer": "My rewarding accomplishment",
-    "tasks": ["rewarding", "accomplishment"]
+    "tasks": [
+      "rewarding",
+      "accomplishment"
+    ]
   },
   {
     "question": "Несмотря ни на что, мне удалось успешно разработать эту функцию.",
     "answer": "Against the odds , I managed to successfully develop this feature",
-    "tasks": ["Against", "odds", "managed"]
+    "tasks": [
+      "Against",
+      "odds",
+      "managed"
+    ]
   },
   {
     "question": "Я вижу, что перехожу на руководящую должность",
     "answer": "I see myself moving on to a management position",
-    "tasks": ["see", "myself", "moving", "on", "position"]
+    "tasks": [
+      "see",
+      "myself",
+      "moving",
+      "on",
+      "position"
+    ]
   },
   {
     "question": "На самом деле я лучше работаю под давлением и обнаружил, что мне нравится работать в сложной обстановке.",
     "answer": "I actually work better under pressure and I’ve found that I enjoy working in a challenging environment.",
-    "tasks": ["actually", "found", "enjoy", "working", "challenging", "environment"]
+    "tasks": [
+      "actually",
+      "found",
+      "enjoy",
+      "working",
+      "challenging",
+      "environment"
+    ]
   },
   {
     "question": "Тот, кто не имеет никакой уверенности",
     "answer": "Someone who doesn’t have any confidence",
-    "tasks": ["Someone", "any", "confidence"]
+    "tasks": [
+      "Someone",
+      "any",
+      "confidence"
+    ]
   },
   {
     "question": "Отчаяние – признак слабости",
     "answer": "Desperation is a sign of weakness",
-    "tasks": ["Desperation", "sign", "weakness"]
+    "tasks": [
+      "Desperation",
+      "sign",
+      "weakness"
+    ]
   },
   {
     "question": "Я хорошо подхожу на эту должность",
     "answer": "I’m a good match for this position",
-    "tasks": ["good", "match", "position"]
+    "tasks": [
+      "good",
+      "match",
+      "position"
+    ]
   },
   {
     "question": "Как вы справляетесь с давлением?",
     "answer": "How do you handle with pressure?",
-    "tasks": ["handle", "with"]
+    "tasks": [
+      "handle",
+      "with"
+    ]
   },
   {
     "question": "Он квалифицированный сотрудник",
     "answer": "He is a qualified employee",
-    "tasks": ["qualified", "employee"]
+    "tasks": [
+      "qualified",
+      "employee"
+    ]
   },
   {
     "question": "Я ищу новое испытание",
     "answer": "I’m looking for a new challenge",
-    "tasks": ["looking", "for", "challenge"]
+    "tasks": [
+      "looking",
+      "for",
+      "challenge"
+    ]
   },
   {
     "question": "Я встану пораньше и получу преимущество.",
     "answer": "I will get up extra early and get a head start.",
-    "tasks": ["get", "up", "head", "start"]
+    "tasks": [
+      "get",
+      "up",
+      "head",
+      "start"
+    ]
   },
   {
     "question": "Ваше предложение показалось мне отличным вариантом.",
     "answer": "You offer looked like an excellent match for me",
-    "tasks": ["offer", "looked", "like", "excellent", "match"]
+    "tasks": [
+      "offer",
+      "looked",
+      "like",
+      "excellent",
+      "match"
+    ]
   },
   {
     "question": "Я достигну своих целей",
     "answer": "I will reach my goals",
-    "tasks": ["will", "reach", "goals"]
+    "tasks": [
+      "will",
+      "reach",
+      "goals"
+    ]
   },
   {
     "question": "Наверное, временами я немного неохотно делегирую определенные задачи.",
     "answer": "I guess at times I am a little reluctant to delegate certain tasks",
-    "tasks": ["guess", "at", "reluctant", "delegate", "certain"]
+    "tasks": [
+      "guess",
+      "at",
+      "reluctant",
+      "delegate",
+      "certain"
+    ]
   },
   {
     "question": "Сейчас, Я управляю более крупной командой из 5 человек",
     "answer": "Currently , I manage a large team of 5 people",
-    "tasks": ["Currently", "manage", "large", "of"]
+    "tasks": [
+      "Currently",
+      "manage",
+      "large",
+      "of"
+    ]
   },
   {
     "question": "Основными преимуществами и недостатками были",
     "answer": "The main advantages and disadvantages were",
-    "tasks": ["advantages", "disadvantages"]
+    "tasks": [
+      "advantages",
+      "disadvantages"
+    ]
   },
   {
     "question": "Я готов улучшить свои навыки",
     "answer": "I'm willing to improve my skills",
-    "tasks": ["willing"]
+    "tasks": [
+      "willing"
+    ]
   },
   {
     "question": "Я участвовал в этом проекте",
     "answer": "I was involved in this project",
-    "tasks": ["was", "involved"]
+    "tasks": [
+      "was",
+      "involved"
+    ]
   },
   {
     "question": "Я всегда соблюдаю сроки",
     "answer": "I always meet the deadline",
-    "tasks": ["meet", "deadline"]
+    "tasks": [
+      "meet",
+      "deadline"
+    ]
   },
   {
     "question": "Я преодолел все испытания",
     "answer": "I have overcome all the challenges",
-    "tasks": ["have", "overcome", "challenges"]
+    "tasks": [
+      "have",
+      "overcome",
+      "challenges"
+    ]
   },
   {
     "question": "Меня мотивируют испытания",
     "answer": "I'm motivated by challenges",
-    "tasks": ["motivated", "by"]
+    "tasks": [
+      "motivated",
+      "by"
+    ]
   },
   {
     "question": "Общаюсь с коллегами из других отделов",
     "answer": "I deal with colleagues from other departments",
-    "tasks": ["deal", "with"]
+    "tasks": [
+      "deal",
+      "with"
+    ]
   },
   {
     "question": "Я правильно понял твой вопрос?",
     "answer": "Did I right understand your question?",
-    "tasks": ["Did", "right", "understand"]
+    "tasks": [
+      "Did",
+      "right",
+      "understand"
+    ]
   },
   {
-    "question": "",
-    "answer": "",
-    "tasks": [""]
+    "question": "Я справляюсь с этой задачей",
+    "answer": "I manage this task",
+    "tasks": [
+      "manage"
+    ]
+  },
+  {
+    "question": "Брать ответственность",
+    "answer": "Take on responsibilities",
+    "tasks": [
+      "Take",
+      "on",
+      "responsibilities"
+    ]
+  },
+  {
+    "question": "Полезное достижение",
+    "answer": "Rewarding accomplishment",
+    "tasks": [
+      "Rewarding",
+      "accomplishment"
+    ]
+  },
+  {
+    "question": "Преимущества и недостатки",
+    "answer": "Advantages and disadvantages",
+    "tasks": [
+      "Advantages",
+      "disadvantages"
+    ]
+  },
+  {
+    "question": "Я хочу достичь своих целей",
+    "answer": "I want to achieve my goals",
+    "tasks": [
+      "achieve"
+    ]
+  },
+  {
+    "question": "Искать новые вызовы",
+    "answer": "Looking for new challenges",
+    "tasks": [
+      "Looking",
+      "for",
+      "challenges"
+    ]
+  },
+  {
+    "question": "Быть готовым к чему-то",
+    "answer": "To be willing to do something",
+    "tasks": [
+      "willing",
+      "do",
+      "something"
+    ]
+  },
+  {
+    "question": "Участвовать в чем-то",
+    "answer": "To be involved in something",
+    "tasks": [
+      "involved",
+      "in"
+    ]
+  },
+  {
+    "question": "Я преодолел все трудности",
+    "answer": "I overcame all difficulties",
+    "tasks": [
+      "overcame"
+    ]
+  },
+  {
+    "question": "Приобретать опыт",
+    "answer": "Gain experience",
+    "tasks": [
+      "Gain"
+    ]
+  },
+  {
+    "question": "Быть мотивированным трудностями",
+    "answer": "To be motivated by challenge",
+    "tasks": [
+      "motivated",
+      "by",
+      "challenge"
+    ]
+  },
+  {
+    "question": "Неохотно делать что-то",
+    "answer": "To be reluctant to do something",
+    "tasks": [
+      "reluctant"
+    ]
+  },
+  {
+    "question": "Позволять кому-то делать что-то",
+    "answer": "Allow someone to do something",
+    "tasks": [
+      "Allow"
+    ]
+  },
+  {
+    "question": "Улучшить мои навыки",
+    "answer": "To enhance my skills",
+    "tasks": [
+      "enhance",
+      "skills"
+    ]
   }
 ]
